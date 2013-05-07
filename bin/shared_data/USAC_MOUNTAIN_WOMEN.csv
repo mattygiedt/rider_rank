@@ -1,0 +1,1272 @@
+POINTS,FIRST_NAME,LAST_NAME,CITY,STATE,LICENSE,AGE,SEX,DISCIPLINE,CATEGORY
+209.06,Chloe, Woodruff,Tucson,AZ,214920,26,F,Mountain:XC,PR
+242.83,Erin, Huck,Boulder,CO,194901,32,F,Mountain:XC,PR
+261.52,Judy, Freeman,Boulder,CO,182719,39,F,Mountain:XC,PR
+266.36,Rebecca, Gross,Lakewood,CO,176014,33,F,Mountain:XC,PR
+278.58,Nina, Baum,Albuquerque,NM,180986,39,F,Mountain:XC,PR
+280.88,Deidre, York,Boulder,CO,178289,22,F,Mountain:XC,PR
+282.75,Lauren, Catlin,Fairfax,CA,256601,21,F,Mountain:XC,PR
+288.33,Evelyn, Dong,Park City,UT,381220,28,F,Mountain:XC,PR
+308.34,Amy, Beisel,Gunnison,CO,321990,29,F,Mountain:XC,PR
+311.17,rose, grant,Kalispell,MT,332898,31,F,Mountain:XC,PR
+314.79,Jill, Behlen,Boulder,CO,210228,22,F,Mountain:XC,PR
+317.55,Teal, Stetson-Lee,Durango,CO,252205,27,F,Mountain:XC,PR
+323.00,Krista, Park,Madison,SD,203842,39,F,Mountain:XC,PR
+328.81,Kelli, Emmett,Colorado Springs,CO,156146,36,F,Mountain:XC,PR
+329.28,Kimberly, Flynn,Hixson,TN,122752,41,F,Mountain:XC,PR
+331.65,Lea, Davison,Jericho,VT,164014,30,F,Mountain:XC,PR
+336.87,Erica, Tingey,Salt Lake City,UT,245589,36,F,Mountain:XC,PR
+345.65,Jamie, Busch,Los Gatos,CA,164976,33,F,Mountain:XC,PR
+352.91,Sarah, Sturm,Durango,CO,275320,24,F,Mountain:XC,PR
+366.47,Linnea, Dixson,Steamboat Springs,CO,295757,21,F,Mountain:XC,PR
+366.93,Catherine, Peacock,Athens,GA,222160,30,F,Mountain:XC,PR
+378.83,Denise, Coppock,Green Bay,WI,316486,39,F,Mountain:XC,PR
+384.13,Elisa, Otter,Montpelier,VT,301746,27,F,Mountain:XC,PR
+384.66,Georgia, Gould,Fort Collins,CO,183192,33,F,Mountain:XC,PR
+387.25,Lisa, Uranga,Irving,TX,325178,31,F,Mountain:XC,PR
+388.22,AnnaJean, Dallaire,Georgetown,IN,217836,36,F,Mountain:XC,PR
+394.83,Christina, Gokey-Smith,Denton,TX,217750,40,F,Mountain:XC,PR
+400.39,Heidi, Rentz,Moab,UT,252832,29,F,Mountain:XC,PR
+408.34,Shayna, Powless,Roseville,CA,230397,19,F,Mountain:XC,PR
+413.69,Bryna, Blanchard,Troy,NY,209883,40,F,Mountain:XC,PR
+413.77,Abby, Strigel,Madison,WI,202434,30,F,Mountain:XC,PR
+420.34,Jaime, Brede,Breckenridge,CO,279679,36,F,Mountain:XC,PR
+420.94,Bonita, (Bonnie) Kleffman,Fort Mill,SC,272951,41,F,Mountain:XC,PR
+422.47,Jana, Repulski,Boise,ID,150760,40,F,Mountain:XC,PR
+423.19,Jennifer, Moos,Fort Lauderdale,FL,334164,30,F,Mountain:XC,PR
+433.24,Pua, Mata,Yucaipa,CA,208698,33,F,Mountain:XC,PR
+435.86,Katerina, Nash,Truckee,CA,188603,36,F,Mountain:XC,PR
+440.18,Amanda, Carey,Victor,ID,223212,35,F,Mountain:XC,PR
+442.84,Larissa, Fitchett,Silverado,CA,274696,27,F,Mountain:XC,PR
+447.70,Rebecca, Blatt,Lakewood,CO,241201,33,F,Mountain:XC,PR
+448.47,BETH, UTLEY,Orovalley,AZ,304126,37,F,Mountain:XC,PR
+449.84,Kata, Skaggs,Phoenix,AZ,361045,32,F,Mountain:XC,PR
+450.60,Kathleen, Harding,Coatesville,PA,299880,33,F,Mountain:XC,PR
+469.32,Erin, Alders,Nevada City,CA,196090,32,F,Mountain:XC,PR
+474.60,Shannon, Gibson,Durango,CO,156279,47,F,Mountain:XC,PR
+476.58,Molly, Throdahl,Allendale,NJ,260403,32,F,Mountain:XC,PR
+478.21,Meredith, Miller,Boulder,CO,143575,40,F,Mountain:XC,PR
+478.32,Kelly, Boniface,Steamboatsprings,CO,281695,43,F,Mountain:XC,PR
+482.42,Crystal, Anthony,Beverly,MA,182117,33,F,Mountain:XC,PR
+484.50,Lesley, Paterson,San Diego,CA,293451,33,F,Mountain:XC,PR
+484.62,Melanie, Etherton,Austin,TX,271764,37,F,Mountain:XC,PR
+488.12,Rebecca, Rusch,Ketchum,ID,240196,45,F,Mountain:XC,PR
+497.38,Heather, Holmes,Atlanta,GA,222022,33,F,Mountain:XC,PR
+502.10,Sarah, Ruth Jansen,Rancho Santa Margarita,CA,254427,29,F,Mountain:XC,PR
+505.33,Elizabeth, Sampey,Nederland,CO,339186,31,F,Mountain:XC,PR
+508.38,Lisa, Curry,Bozeman,MT,243762,32,F,Mountain:XC,PR
+518.36,Selene, Yeager,Emmaus,PA,138063,44,F,Mountain:XC,PR
+518.43,Amy, Dombroski,Boulder,CO,246803,26,F,Mountain:XC,PR
+519.77,Jena, Greaser,Ketchum,ID,284803,27,F,Mountain:XC,PR
+520.21,Cooper, Dendel,Marquette,MI,378183,22,F,Mountain:XC,PR
+520.28,Mary, McConneloug,Chilmark,MA,129285,42,F,Mountain:XC,PR
+522.84,Brianne, Marshall,Durango,CO,287045,34,F,Mountain:XC,PR
+527.71,Lisa, Krayer,North Freedom,WI,227405,38,F,Mountain:XC,PR
+527.82,Vanessa, Humic,Long Beach,CA,250250,33,F,Mountain:XC,PR
+533.20,Lauren, Gregg,Santa Cruz,CA,315722,22,F,Mountain:XC,PR
+536.93,Katherine, Compton,Colorado Springs,CO,55820,35,F,Mountain:XC,PR
+537.89,Susan, Haywood,Harrisonburg,VA,117585,42,F,Mountain:XC,PR
+540.02,Sydney, Fox,Dillon,CO,337570,27,F,Mountain:XC,PR
+542.24,Maren, Cosens,San Luis Obispo,CA,319930,21,F,Mountain:XC,PR
+545.14,Karen, Jarchow,Boulder,CO,337554,29,F,Mountain:XC,PR
+548.68,Erin, Vicary,Walled Lake,MI,240185,35,F,Mountain:XC,PR
+551.97,Jennifer, Hanks,Salt Lake City,UT,111202,38,F,Mountain:XC,PR
+553.10,Carmen, Small,Durango,CO,229709,33,F,Mountain:XC,PR
+554.28,Blair, Hurst,Boulder,CO,367320,37,F,Mountain:XC,PR
+555.59,Victoria, Barclay,State College,PA,356693,32,F,Mountain:XC,PR
+555.61,Cheryl, Sornson,Fairfield,PA,209000,44,F,Mountain:XC,PR
+558.39,Elizabeth, Allen,Danielson,CT,261368,32,F,Mountain:XC,PR
+559.31,Kristin, Weber,Boulder,CO,354314,40,F,Mountain:XC,PR
+564.41,Tracey, Wallace,Lakeland,FL,188970,40,F,Mountain:XC,PR
+565.84,Jessica, Cerra,Encinitas,CA,293983,31,F,Mountain:XC,PR
+566.47,Serena, Gordon,Bend,OR,301567,34,F,Mountain:XC,PR
+572.59,Anna, Dvorak,Reseda,CA,252867,26,F,Mountain:XC,PR
+576.00,Andrea, Wilson,Cordova,TN,256188,32,F,Mountain:XC,PR
+578.85,Katherine, Sherwin,Heber City,UT,173633,40,F,Mountain:XC,PR
+579.17,Kathleen, Hattaway,Austin,TX,144579,28,F,Mountain:XC,PR
+581.86,Kelly, Chang,Oakland,CA,405,42,F,Mountain:XC,PR
+582.16,Kelsey, Withrow,Park City,UT,202477,31,F,Mountain:XC,PR
+583.34,Nicole, Thiemann,Philadelphia,PA,213558,34,F,Mountain:XC,PR
+585.54,Tammy, Sadle,Boulder,CO,212808,38,F,Mountain:XC,PR
+586.05,Jane, Pearson,Pound Ridge,NY,212760,38,F,Mountain:XC,PR
+587.95,Madeleine, Bonneville,Saratoga Springs,NY,293835,32,F,Mountain:XC,PR
+588.00,leah, mccabe,Flagstaff,AZ,344578,30,F,Mountain:XC,PR
+588.00,Joan, Orgeldinger,Denver,CO,149151,47,F,Mountain:XC,PR
+590.89,Kristina, Kempin,Crested Butte,CO,161363,38,F,Mountain:XC,PR
+595.91,Amanda, Sproat,Pittsburgh,PA,238123,34,F,Mountain:XC,PR
+598.00,Suzanne, Karklins,Little Rock,AR,187776,38,F,Mountain:XC,PR
+353.70,Abigail, Mickey,Aspen,CO,326204,23,F,Mountain:XC,01
+355.48,Robin, Williams,Iowa City,IA,240092,34,F,Mountain:XC,01
+370.33,Jessica, Rawlins,Denton,TX,308761,30,F,Mountain:XC,01
+376.35,Sarah, Agena,Stevens Point,WI,190888,35,F,Mountain:XC,01
+376.97,Michelle, Peariso,Amherst,WI,227741,37,F,Mountain:XC,01
+400.55,Tiffany, Ballew,Atlanta,GA,221612,37,F,Mountain:XC,01
+400.87,Paula, Burks,Chattanooga,TN,5542,38,F,Mountain:XC,01
+423.81,Sofia, Gomez Villafane,Durango,CO,332624,19,F,Mountain:XC,01
+424.22,Leia, Schneeberger,Middleton,WI,350192,34,F,Mountain:XC,01
+424.83,Hailey, Sarausky,Littleton,NH,300228,20,F,Mountain:XC,01
+424.93,Carolyn, VanVurst,Boca Raton,FL,196051,43,F,Mountain:XC,01
+428.00,Corrie, Osborne,Mequon,WI,298510,18,F,Mountain:XC,01
+433.01,April, Dombrowski,Oshkosh,WI,223874,40,F,Mountain:XC,01
+439.35,Penny, Ficker,Waco,TX,337334,29,F,Mountain:XC,01
+439.40,Emily, Parker,Corryton,TN,243860,20,F,Mountain:XC,01
+439.67,Eva, Wilson,Kensington,NH,279817,21,F,Mountain:XC,01
+444.36,Zdenka, Worsham,Raleigh,NC,343880,32,F,Mountain:XC,01
+455.15,Amber, Markey,Monona,WI,307289,26,F,Mountain:XC,01
+457.91,Jennifer, Horn,Atlanta,GA,271357,40,F,Mountain:XC,01
+461.98,Cindy, Abbott,Austin,TX,390168,25,F,Mountain:XC,01
+463.57,Janelle, Renschler,Indianapolis,IN,261856,37,F,Mountain:XC,01
+467.78,Susan, Lynch,Medfield,MA,225308,54,F,Mountain:XC,01
+469.05,Jennifer, Ragan-Marlowe,Royse City,TX,143436,43,F,Mountain:XC,01
+473.32,Jennifer, Taylor,Austin,TX,337574,29,F,Mountain:XC,01
+480.55,Amy, Parkinson,Austin,TX,364747,31,F,Mountain:XC,01
+481.54,Kimberly, Chance,Dallas,TX,157443,51,F,Mountain:XC,01
+486.99,Catherine, Moritz,Houston,TX,203939,44,F,Mountain:XC,01
+488.50,Nathalie, Krantz,Durango,CO,267760,21,F,Mountain:XC,01
+490.16,Kara, Uhl,Smithville,TX,185730,20,F,Mountain:XC,01
+490.63,Haley, Batten,Park City,UT,343756,15,F,Mountain:XC,01
+491.05,Lisa, Randall,Canton,GA,172792,35,F,Mountain:XC,01
+497.08,Shannon, Ancel,Greensboro,NC,341474,37,F,Mountain:XC,01
+498.43,Lisa, Hartman,Houston,TX,217745,35,F,Mountain:XC,01
+499.82,Vickie, Monahan,Wethersfield,CT,311059,38,F,Mountain:XC,01
+500.60,Emily, Shields,Salisbury,NC,220875,20,F,Mountain:XC,01
+500.69,Duffy, Danish,Miami,FL,317970,33,F,Mountain:XC,01
+502.72,Ksenia, Lepikhina,Boulder,CO,296745,16,F,Mountain:XC,01
+503.67,Essence, Barton,Thousand Oak,CA,179924,21,F,Mountain:XC,01
+503.92,Pamela, Jackson,Garland,TX,157028,50,F,Mountain:XC,01
+504.05,Elizabeth, Pinsker,Greenbrae,CA,358928,49,F,Mountain:XC,01
+504.79,Elizabeth, McCalley,Knoxville,TN,270074,31,F,Mountain:XC,01
+505.24,Julia, Hart,Dallas,TX,365842,52,F,Mountain:XC,01
+507.37,Emma, Drummond,Springdale,AR,341932,15,F,Mountain:XC,01
+513.52,Katherine, Shields,Salisbury,NC,220876,20,F,Mountain:XC,01
+513.54,Melissa, Mertz,Elizabethtown,PA,352402,40,F,Mountain:XC,01
+514.04,Sierra, Siebenlist,Indianapolis,IN,166038,27,F,Mountain:XC,01
+514.40,Lindsy, Campbell,Missoula,MT,287905,25,F,Mountain:XC,01
+514.45,Josie, Nordrum,Corte Madera,CA,320882,18,F,Mountain:XC,01
+515.41,Debbie, Gillespie,Travelers Rest,SC,272883,38,F,Mountain:XC,01
+516.11,Rachael, Jensen,Shell Lake,WI,288627,17,F,Mountain:XC,01
+516.13,Melissa, White,Houston,TX,366057,28,F,Mountain:XC,01
+516.55,Maria, Hernandez,Reklaw,TX,286821,42,F,Mountain:XC,01
+516.63,Kate, Courtney,Kentfield,CA,307752,18,F,Mountain:XC,01
+516.64,Loretta, Simpson,Woodstock,GA,161662,52,F,Mountain:XC,01
+521.06,Tina, Luck,Sophia,NC,308041,34,F,Mountain:XC,01
+521.40,Kristin, Gavin,Philadelphia,PA,255550,32,F,Mountain:XC,01
+521.42,Mercedes, Drummond,Springdale,AR,341926,17,F,Mountain:XC,01
+522.78,Corey, Coogan Cisek,Minneapolis,MN,261947,36,F,Mountain:XC,01
+523.88,Emma, Swartz,Madison,WI,286164,16,F,Mountain:XC,01
+524.47,Brittany, Mcconnell,Iowa City,IA,285899,31,F,Mountain:XC,01
+524.70,Melanie, Black,Austin,TX,40370,45,F,Mountain:XC,01
+525.11,Avery, Morin,Roseville,CA,266914,16,F,Mountain:XC,01
+525.38,Suzie, Livingston,Fort Collins,CO,371452,28,F,Mountain:XC,01
+526.06,Steffi, Penco,Hollywood,FL,185913,46,F,Mountain:XC,01
+528.12,Christine, Irelan,Colorado Springs,CO,293959,45,F,Mountain:XC,01
+529.02,Sarah, Ginsbach,Spring,TX,319824,29,F,Mountain:XC,01
+529.57,Brenda, Andress,North Richland Hills,TX,288746,35,F,Mountain:XC,01
+529.85,Kaylee, Blevins,Durango,CO,278472,18,F,Mountain:XC,01
+529.90,Heather, Hill,Eureka,MO,83890,41,F,Mountain:XC,01
+530.99,Karen, Krasley,Coplay,PA,63818,39,F,Mountain:XC,01
+533.16,Karen, Brocket,Raytown,MO,287354,18,F,Mountain:XC,01
+534.52,Ariana, Dittmer,Grand Junction,CO,305828,19,F,Mountain:XC,01
+534.64,Beata, Wronska,Boynton Beach,FL,362394,38,F,Mountain:XC,01
+534.90,Catherine, Opalka,Greenville,SC,284379,25,F,Mountain:XC,01
+535.65,Pamela, Luzardo,King,NC,374736,34,F,Mountain:XC,01
+536.87,Heather, Lyman,South Lake Tahoe,CA,349772,32,F,Mountain:XC,01
+536.98,Katherine, Sherwin,West Lake Hills,TX,161129,34,F,Mountain:XC,01
+537.40,Julia, Jenkins,Houston,TX,206021,31,F,Mountain:XC,01
+537.50,Heidi, Volpe,Topanga,CA,262291,46,F,Mountain:XC,01
+538.76,Jennifer, Nowlin,Plymouth,MN,281920,38,F,Mountain:XC,01
+540.01,Stacey, Barbossa,Rutherford,NJ,290272,47,F,Mountain:XC,01
+540.35,Sally, McClain,Boiling Springs,PA,246033,43,F,Mountain:XC,01
+540.98,Abbey, Alexiades,Etna,NY,358609,28,F,Mountain:XC,01
+541.04,Jordan, Salman,Brevard,NC,346556,28,F,Mountain:XC,01
+541.23,Marianne, Santangelo,Tuxedo,NY,282268,51,F,Mountain:XC,01
+541.40,Ivy, Pedersen,Bozeman,MT,361661,29,F,Mountain:XC,01
+542.16,Tanya, Woody,San Antonio,TX,236072,48,F,Mountain:XC,01
+543.00,Tina, Severson,Colchester,CT,377193,35,F,Mountain:XC,01
+543.08,helen, cross,Mahopac,NY,287062,39,F,Mountain:XC,01
+543.31,Talitha, Vogt,Lakewood,CO,290689,36,F,Mountain:XC,01
+543.45,Kiersta, Tucker,Louisville,KY,258820,39,F,Mountain:XC,01
+543.67,Sarah, Ogden,Tiburon,CA,354818,18,F,Mountain:XC,01
+544.25,Rachel, Byus,Argyle,TX,260379,27,F,Mountain:XC,01
+544.26,Mary, Gilmer,Houston,TX,310472,32,F,Mountain:XC,01
+544.70,Amy, Horstmeyer,Gainesville,FL,289443,30,F,Mountain:XC,01
+545.00,Kjerstie, Wiltzen,Saint Paul,MN,316506,29,F,Mountain:XC,01
+545.88,Julie, Wright,Newton Upper Falls,MA,289289,27,F,Mountain:XC,01
+546.14,Leah, Waldman,Newtown,PA,326352,32,F,Mountain:XC,01
+546.45,Alison, Jones,Laguna Beach,CA,375116,36,F,Mountain:XC,01
+546.58,lisa, selle,Rochester,MI,370433,41,F,Mountain:XC,01
+546.63,Lindsay, Dye,Flagstaff,AZ,296092,20,F,Mountain:XC,01
+547.79,Kathryn, Krikke,Rockford,MI,369850,33,F,Mountain:XC,01
+548.32,Mischa, Martin,Sherwood,AR,382859,31,F,Mountain:XC,01
+548.35,Darlene, Phillips,Ansonia,CT,225420,45,F,Mountain:XC,01
+548.44,Lee-Ann, Beatty,Phoenix,AZ,246753,33,F,Mountain:XC,01
+548.55,Marina, Lepikhina,Boulder,CO,366090,41,F,Mountain:XC,01
+548.87,Marjorie, Bowen,Burlington,CT,270116,49,F,Mountain:XC,01
+549.00,Ellen, Sherrill,South Lake Tahoe,CA,299535,34,F,Mountain:XC,01
+549.32,India, Waller,Durango,CO,355742,17,F,Mountain:XC,01
+549.82,Melinda, Steele,Austin,TX,168893,44,F,Mountain:XC,01
+550.20,Nathalie, Anderson,Philadelphia,PA,293412,29,F,Mountain:XC,01
+550.23,Nicole, Borem,Warsaw,IN,184390,37,F,Mountain:XC,01
+550.44,April, Morgan,Minneapolis,MN,388916,30,F,Mountain:XC,01
+550.67,Madonna, Conroy,Charlotte,NC,228308,41,F,Mountain:XC,01
+551.14,Jodi, Winterton,Charlotte,NC,180608,38,F,Mountain:XC,01
+551.61,Lynnette, Wood,Lindale,TX,326040,42,F,Mountain:XC,01
+551.79,Katina, Walker,Tully,NY,31408,46,F,Mountain:XC,01
+551.81,Ursula, Sandefur,Auburn,AL,31203,54,F,Mountain:XC,01
+551.92,Sarah, Godish,Usafa,CO,358658,20,F,Mountain:XC,01
+552.00,Brooke, Wilson,Morris Plains,NJ,161138,41,F,Mountain:XC,01
+552.38,Michele, Bliss,Boulder,CO,60539,49,F,Mountain:XC,01
+552.52,Grace, Alexander,Boise,ID,251513,19,F,Mountain:XC,01
+552.62,Laura, Rice,Hendersonville,NC,358133,25,F,Mountain:XC,01
+553.51,Emma, Klingaman,Idyllwild,CA,319226,18,F,Mountain:XC,01
+553.52,Christine, Weir,Nevada City,CA,258083,21,F,Mountain:XC,01
+553.83,robin, kaminsky,Redondo Beach,CA,361130,47,F,Mountain:XC,01
+554.21,Melissa, Page,Warwick,RI,376662,35,F,Mountain:XC,01
+554.45,Jamie, Terry,Missoula,MT,344848,30,F,Mountain:XC,01
+554.65,Amanda, Nauman,Mission Viejo,CA,292922,24,F,Mountain:XC,01
+554.93,Dana, Shinn,Durango,CO,333302,42,F,Mountain:XC,01
+555.01,Christina, Probert,Murrieta,CA,71481,46,F,Mountain:XC,01
+555.04,Laura, Andrews,Marietta,GA,327756,27,F,Mountain:XC,01
+555.43,Tracy, Gaucher,Spreckels,CA,366170,44,F,Mountain:XC,01
+555.51,Virginia, Solomon,Culver City,CA,224221,33,F,Mountain:XC,01
+555.51,Jessica, Hill,Joppa,MD,377143,36,F,Mountain:XC,01
+555.90,Carey, Lowery,Athens,TN,163722,44,F,Mountain:XC,01
+556.16,Christy, Keely,Greenville,SC,267467,28,F,Mountain:XC,01
+556.31,Heather, Wentworth,Portsmouth,NH,367957,38,F,Mountain:XC,01
+558.40,Emily, Schaldach,Durango,CO,314034,18,F,Mountain:XC,01
+558.40,Emily, Shull,Libertyville,IL,264455,18,F,Mountain:XC,01
+558.42,Angie, Sokorai,Wenonah,NJ,358239,40,F,Mountain:XC,01
+558.95,Amy, Campbell,Portland,OR,204752,34,F,Mountain:XC,01
+559.22,Dalma, Felenyi,Lake Arrowhead,CA,354736,17,F,Mountain:XC,01
+559.66,Roxzanne, Feagan,Omaha,NE,168049,44,F,Mountain:XC,01
+559.84,Hayley, Olson,Minneapolis,MN,370793,21,F,Mountain:XC,01
+560.74,Hattie, Freye,New Gloucester,ME,379705,27,F,Mountain:XC,01
+561.26,Madelaine, Melcher,Mentone,CA,354116,17,F,Mountain:XC,01
+561.35,Susan, Mrugal,West Chester,PA,293931,48,F,Mountain:XC,01
+561.47,Catherine, Hollibaugh,Carmel,IN,354456,20,F,Mountain:XC,01
+561.76,Shannon, Mathis,Nashville,TN,186727,37,F,Mountain:XC,01
+561.80,Sara, Lloyd,Boise,ID,349748,37,F,Mountain:XC,01
+561.84,Diana, Tanner,Boulder,CO,363833,51,F,Mountain:XC,01
+562.00,jennifer, hart,Jaffrey,NH,367158,44,F,Mountain:XC,01
+562.04,Jane, Burlew,Weaverville,NC,360760,39,F,Mountain:XC,01
+562.34,Haley, Sumner,Attleboro,MA,390773,32,F,Mountain:XC,01
+562.44,McKenzie, Melcher,Mentone,CA,354114,19,F,Mountain:XC,01
+562.91,Reka, Felenyi,Lake Arrowhead,CA,354740,17,F,Mountain:XC,01
+563.25,Karen, Hogan,Louisville,CO,248610,48,F,Mountain:XC,01
+563.37,Cathy, Rowell,Bedford,MA,146312,45,F,Mountain:XC,01
+564.00,Tonya, Graf,Amarillo,TX,144604,41,F,Mountain:XC,01
+564.37,Elizabeth, Bove,Woodstock,CT,368284,42,F,Mountain:XC,01
+564.50,Caroline, Woods,San Rafael,CA,379226,18,F,Mountain:XC,01
+564.58,Brenda, Zimmermann Thorpe,Wausau,WI,288201,41,F,Mountain:XC,01
+564.76,Laura, Knight,Costa Mesa,CA,288033,44,F,Mountain:XC,01
+564.85,Jill, Dugan,Midway,PA,378946,32,F,Mountain:XC,01
+564.96,Xochilt, Gonzalez,Dallas,TX,371954,36,F,Mountain:XC,01
+565.05,Sheri, Boltz,Fraser,CO,275382,45,F,Mountain:XC,01
+565.48,Erin, Larson,Boise,ID,377419,24,F,Mountain:XC,01
+565.50,Kris, Walker,Pocatello,ID,48743,52,F,Mountain:XC,01
+565.95,Nadina, Junuzovic,Pflugerville,TX,281770,16,F,Mountain:XC,01
+565.99,Linda, Molendyke,Philadelphia,PA,327618,30,F,Mountain:XC,01
+566.11,Lena, Yarbrough,Natchez,MS,201848,41,F,Mountain:XC,01
+566.72,Hilary, Bravenec,Aztec,NM,379684,32,F,Mountain:XC,01
+566.72,Tammy, Hottinger,Dover,AR,145314,44,F,Mountain:XC,01
+567.33,Laureen, Coffelt,Memphis,TN,294185,44,F,Mountain:XC,01
+567.45,Amy, Farley,Austin,TX,303989,39,F,Mountain:XC,01
+567.65,Evie, Johnson,Prairie City,IA,375425,28,F,Mountain:XC,01
+567.88,Jessie, Andrews,Phoenixphoenix,AZ,387875,33,F,Mountain:XC,01
+568.07,Maria, Carrelli,Decatur,GA,221037,35,F,Mountain:XC,01
+568.48,Jackie, Batson,Greenville,SC,286310,39,F,Mountain:XC,01
+568.50,rebecca, bubp,Charlotte,NC,334632,36,F,Mountain:XC,01
+568.75,Renee, Shelton,Mill Valley,CA,101965,45,F,Mountain:XC,01
+569.22,Kathleen, Lysakowski,Ware,MA,302050,29,F,Mountain:XC,01
+569.24,Karin, Edwards,South Lake Tahoe,CA,365895,32,F,Mountain:XC,01
+569.32,Lindsey, Kriete,Wauwatosa,WI,302860,36,F,Mountain:XC,01
+569.64,Anna, Millenson,Mt Tremper,NY,183758,41,F,Mountain:XC,01
+570.00,Jana, Morris,Charlotte,NC,207118,47,F,Mountain:XC,01
+570.14,Tiziana, DeHorney,Albuquerque,NM,269499,16,F,Mountain:XC,01
+571.11,Jennifer, Morehead,Jackson,TN,209407,35,F,Mountain:XC,01
+571.35,Brett, Stevenson,Hailey,ID,383265,35,F,Mountain:XC,01
+571.49,Amanda, Schaap,Jenison,MI,342042,30,F,Mountain:XC,01
+571.60,Catherine, Moore,Benton,LA,357066,37,F,Mountain:XC,01
+572.13,Fiona, Petersen,Laguna Niguel,CA,255240,40,F,Mountain:XC,01
+572.23,Megan, Stevenson,Hailey,ID,383019,37,F,Mountain:XC,01
+572.28,Jennifer, Gaertner,Coeur D Alene,ID,22279,38,F,Mountain:XC,01
+572.61,Anna, Mathis,Lorena,TX,366349,15,F,Mountain:XC,01
+572.85,Kelly, Ault,Middlesex,VT,81604,42,F,Mountain:XC,01
+573.17,Joanne, Abbruzzesi,Kennett Square,PA,345398,49,F,Mountain:XC,01
+573.29,Brianne, Spiersch,Salinas,CA,295715,29,F,Mountain:XC,01
+573.97,Becky, Sears,Gunnison,CO,312986,32,F,Mountain:XC,01
+574.17,Heather, Heinrich,Wilmington,DE,329074,41,F,Mountain:XC,01
+574.43,Susannah, Bannon,San Marcos,TX,357738,33,F,Mountain:XC,01
+574.70,Christin, Christoph,Leeds,MA,353242,30,F,Mountain:XC,01
+575.00,Erin, Donohue,Norwich,VT,299236,19,F,Mountain:XC,01
+575.11,Laura, Gleason,Charlotte,NC,220001,43,F,Mountain:XC,01
+575.35,Bonnie, Bain,The Woodlands,TX,269722,42,F,Mountain:XC,01
+576.00,Sarah, Shanks,Tulsa,OK,291250,30,F,Mountain:XC,01
+576.00,Sue, Rawley,Flagstaff,AZ,29243,49,F,Mountain:XC,01
+576.24,Christine, Jeffrey,Tucson,AZ,177715,41,F,Mountain:XC,01
+576.26,Sara, Schroeder,Hailey,ID,298178,28,F,Mountain:XC,01
+576.43,Rachael, Gatto,Oak Forest,IL,263512,40,F,Mountain:XC,01
+576.45,Elaine, Bothe,Portland,OR,337050,48,F,Mountain:XC,01
+576.49,Katie, Melena,Santacruz,CA,301855,35,F,Mountain:XC,01
+576.95,Heather, Ranoa,Murrieta,CA,240134,37,F,Mountain:XC,01
+577.04,Nina, Otter,Waterbury,VT,284886,27,F,Mountain:XC,01
+577.33,Star, Affolter,Ooltewah,TN,259071,48,F,Mountain:XC,01
+577.44,Heidi, Bowen,Woodland Hills,CA,190382,44,F,Mountain:XC,01
+577.50,Aida, Elder,Greenland,NH,393740,40,F,Mountain:XC,01
+577.53,Carol, Jeane Sansome,Eagan,MN,211756,38,F,Mountain:XC,01
+578.00,Amy, Caldwell,Putney,VT,181875,42,F,Mountain:XC,01
+578.22,Amy, Frykman,Bozeman,MT,265248,40,F,Mountain:XC,01
+578.32,Tracy, Gustafson,Dayville,CT,360699,43,F,Mountain:XC,01
+578.34,Chi, Miranda,Carlsbad,CA,345710,40,F,Mountain:XC,01
+578.63,Maria, Esswein,Perryville,MO,300890,23,F,Mountain:XC,01
+579.23,Francine, Rapp,Richmond,VA,266276,37,F,Mountain:XC,01
+579.29,Carly, Watson,Prescott,AZ,365472,31,F,Mountain:XC,01
+579.33,Theresa, Morningstar,Baltimore,MD,25106,52,F,Mountain:XC,01
+579.34,Joanne, Grogan,Hinesburg,VT,330656,38,F,Mountain:XC,01
+579.48,Jennifer, Boldry,Broomfield,CO,346612,42,F,Mountain:XC,01
+579.52,Kathleen, Wulfkuhle,Lancaster,PA,234036,32,F,Mountain:XC,01
+579.62,Heather, Davis,Gainesville,FL,239644,31,F,Mountain:XC,01
+579.80,Lesley, Jensen,Benicia,CA,17778,57,F,Mountain:XC,01
+580.03,Karen, Borgstedt,Pueblo,CO,191782,45,F,Mountain:XC,01
+580.07,Jennifer, Tillman,Owings Mills,MD,325760,37,F,Mountain:XC,01
+580.10,Tracy, Jones,Houston,TX,289166,38,F,Mountain:XC,01
+580.35,Misty, Tilson,Harrisonburg,VA,298635,31,F,Mountain:XC,01
+580.56,Claire, Bensard,Denver,CO,284658,24,F,Mountain:XC,01
+580.67,Jessica, Kruse,Chester,NJ,262100,17,F,Mountain:XC,01
+580.73,Sara, Krause,Austin,TX,185228,36,F,Mountain:XC,01
+580.81,Ashley, Albor,Orangevale,CA,382981,16,F,Mountain:XC,01
+580.88,Beth, Olsen,Corrales,NM,369650,47,F,Mountain:XC,01
+581.04,Angie, Childre,Milledgeville,GA,242699,43,F,Mountain:XC,01
+581.47,Priscilla,  Baltz,Little Rock,AR,193799,34,F,Mountain:XC,01
+581.48,Akira, DeLong,Ridgeland,MS,285721,35,F,Mountain:XC,01
+581.67,Alyssa, Journey,Little Rock,AR,187780,38,F,Mountain:XC,01
+581.73,Shannon, Lindner,Phoenix,AZ,179675,40,F,Mountain:XC,01
+582.27,Hannah, Finchamp,Altadena,CA,301606,18,F,Mountain:XC,01
+582.33,Leah, Gifford,Tulsa,OK,311881,27,F,Mountain:XC,01
+583.07,Lori, Harward,South Jordan,UT,247090,46,F,Mountain:XC,01
+583.71,Melissa, Petty,Knoxville,TN,208174,40,F,Mountain:XC,01
+583.76,Jessica, Nankman,Hellertown,PA,368139,36,F,Mountain:XC,01
+583.81,Elizabeth, White,Bedford,NH,209806,19,F,Mountain:XC,01
+584.01,Ellen, White,Hohokus,NJ,97355,55,F,Mountain:XC,01
+584.16,Beverly, Enslow,Metamora,IL,62540,56,F,Mountain:XC,01
+584.23,Melissa, Colflesh,Westland,MI,297273,35,F,Mountain:XC,01
+584.27,Andrianna, Zolton,Edmonds,WA,286622,28,F,Mountain:XC,01
+584.33,Cleo, Yuan,Tulsa,OK,188364,50,F,Mountain:XC,01
+584.35,Angelina, Stevens,Chapel Hill,NC,223755,37,F,Mountain:XC,01
+584.47,Martha, Flynn-Kauth,Saint Paul,MN,326212,48,F,Mountain:XC,01
+584.47,Patti, Plagmann,Spring,TX,130335,49,F,Mountain:XC,01
+584.72,Cati, Scheifele,West Chester,PA,303768,33,F,Mountain:XC,01
+584.95,Linda, Mcgee,San Clemente Clemente,CA,386270,42,F,Mountain:XC,01
+585.25,Sian, Turner,Redwood City,CA,306583,32,F,Mountain:XC,01
+585.35,Heather, McNamara,Brighton,MI,372980,52,F,Mountain:XC,01
+585.40,Maaike, Everts,Birmingham,AL,198369,38,F,Mountain:XC,01
+585.49,Karie, Mueller,Amarillo,TX,214338,48,F,Mountain:XC,01
+585.49,Lori, Sable,Thiensville,WI,226461,47,F,Mountain:XC,01
+586.00,whitney, porn,Norfolk,NE,355512,27,F,Mountain:XC,01
+586.07,Lea, Stralka,Seattle,WA,232254,37,F,Mountain:XC,01
+586.37,Coreen, Wright,Evergreen,CO,290266,48,F,Mountain:XC,01
+586.53,Melinda, Campbell,Urbana,IL,379584,28,F,Mountain:XC,01
+586.64,Gina, Kenny,Orland Park,IL,210270,40,F,Mountain:XC,01
+586.77,Suzanne, Snyder,Fredericksburg,VA,268453,31,F,Mountain:XC,01
+586.85,Laura, Van Gilder,Cresco,PA,36345,49,F,Mountain:XC,01
+587.06,Rhonda, Geiszler,San Diego,CA,189968,50,F,Mountain:XC,01
+587.17,kristine, akland,Missoula,MT,329184,26,F,Mountain:XC,01
+587.24,Kim, Bear,Santa Fe,NM,82996,57,F,Mountain:XC,01
+587.31,Allyson, Tufano,Columbia,MD,293522,33,F,Mountain:XC,01
+587.53,Donna, Miller,Richmond,VA,275345,25,F,Mountain:XC,01
+587.67,Kathleen, Karpinski,Austin,TX,241074,43,F,Mountain:XC,01
+587.85,Morgan, Tardy,Sausalito,CA,401399,18,F,Mountain:XC,01
+588.00,Jennifer, Camoriano,Mesa,AZ,254808,40,F,Mountain:XC,01
+588.00,Julia, Violich,San Anselmo,CA,156830,47,F,Mountain:XC,01
+588.00,Desiree, White,Hobart,OK,66891,50,F,Mountain:XC,01
+588.00,Lisa, Stanners,Redlands,CA,259708,33,F,Mountain:XC,01
+588.00,Julie, Higgins,Lees Summit,MO,309162,41,F,Mountain:XC,01
+588.00,laura, stickley,Newark,DE,375641,44,F,Mountain:XC,01
+588.00,Leah, Kleager,Omaha,NE,321400,29,F,Mountain:XC,01
+588.00,bridgett, widrig,Interlochen,MI,306302,36,F,Mountain:XC,01
+588.00,Lauren, Costantini,Boulder,CO,146301,43,F,Mountain:XC,01
+588.00,Kim, McLain,Bossier City,LA,330544,39,F,Mountain:XC,01
+588.00,Jane, Ziegler,Tulsa,OK,197200,34,F,Mountain:XC,01
+588.00,Meiling, Yee,Sunnyvale,CA,250509,51,F,Mountain:XC,01
+588.17,Maura, McGovern,Denver,CO,191585,37,F,Mountain:XC,01
+588.36,Ashley, Stilwell,Sierravista,AZ,304903,20,F,Mountain:XC,01
+588.38,Melissa, Ryba,Traverse City,MI,342048,37,F,Mountain:XC,01
+588.67,Nichole, Baker,Woodridge,IL,309455,28,F,Mountain:XC,01
+588.85,Susan, Shaw,Fenton,MI,246829,46,F,Mountain:XC,01
+588.95,Hollie, McGovern,Nevada City,CA,166824,40,F,Mountain:XC,01
+589.14,Arley, Kemmerer,Saylorsburg,PA,240239,29,F,Mountain:XC,01
+589.17,Jennifer, DeLozier,Tulsa,OK,307636,29,F,Mountain:XC,01
+589.39,Cynthia, Bischoff,Mebane,NC,267449,40,F,Mountain:XC,01
+589.48,Grace, Ragland,Huntsville,AL,277053,52,F,Mountain:XC,01
+589.93,Kathy, Coutinho,Fairfax Station,VA,210909,43,F,Mountain:XC,01
+590.17,SyRae, Weikle,Denver,CO,70880,45,F,Mountain:XC,01
+590.50,Janet, Soule,Davis,CA,263079,51,F,Mountain:XC,01
+590.72,Elizabeth, Sheldon,Washington,DC,208059,47,F,Mountain:XC,01
+590.73,Tamara, Donelson,Edwards,CO,284209,38,F,Mountain:XC,01
+590.97,Melissa, Ross,Scottsdale,AZ,212478,28,F,Mountain:XC,01
+591.16,Julie, Barton,Meadow Vista,CA,319724,19,F,Mountain:XC,01
+591.26,Jocelyn, Linscott,Hewitt,NJ,244668,39,F,Mountain:XC,01
+591.33,Victoria, Boughton Nelson,Coram,NY,265208,29,F,Mountain:XC,01
+592.12,Layla, Billowitz,Matthews,NC,261437,40,F,Mountain:XC,01
+592.25,Shannon, Vandevelde,Sierra Madre,CA,333194,43,F,Mountain:XC,01
+592.31,Jessica, Kutz,State College,PA,269269,25,F,Mountain:XC,01
+592.49,Tonya, Pitcher,Flagstaff,AZ,361733,39,F,Mountain:XC,01
+592.80,Lori, Smith,Boise,ID,220378,53,F,Mountain:XC,01
+592.97,Amanda, Schaper,Laguna Beach,CA,270057,30,F,Mountain:XC,01
+593.00,Christina, Buerkle,Pittsburgh,PA,194052,31,F,Mountain:XC,01
+593.00,Daisy, Ward,Flagstaff,AZ,354060,16,F,Mountain:XC,01
+593.00,Hailey, Kell,Calvert City,KY,310577,26,F,Mountain:XC,01
+593.00,Jenna, Kowalski,Los Angeles,CA,234400,27,F,Mountain:XC,01
+593.00,Stevi, Sharp,Amarillo,TX,344368,25,F,Mountain:XC,01
+593.07,Sara, Heuston,Carmichael,CA,391988,48,F,Mountain:XC,01
+593.10,Karen, TalleyMead,Arlington,VA,376513,30,F,Mountain:XC,01
+593.27,Quincee, Chandler,Salinas,CA,368988,18,F,Mountain:XC,01
+593.50,Tricia, Reilly,Wilmington,DE,375088,31,F,Mountain:XC,01
+594.00,Kathryn, Judson,Boulder,CO,47161,53,F,Mountain:XC,01
+594.00,Cheryl, Dralle,Waukee,IA,367085,36,F,Mountain:XC,01
+594.00,Wendi, Sebastian,Vernon,NJ,230244,37,F,Mountain:XC,01
+594.00,Margaret, Crilley,Wilmington,DE,193373,51,F,Mountain:XC,01
+594.37,Frances, Morrison,Easthampton,MA,241197,26,F,Mountain:XC,01
+594.63,Sarah, Lukas,Eagle River,WI,218422,24,F,Mountain:XC,01
+594.67,Julia, Bass,Carefree,AZ,2823,45,F,Mountain:XC,01
+594.72,Nicole, Gunton,Mesa,AZ,303454,37,F,Mountain:XC,01
+594.75,Leslie, Conrad,Lambertville,NJ,279553,48,F,Mountain:XC,01
+595.23,Rebecca, Hinkle,Norman,OK,350956,40,F,Mountain:XC,01
+595.44,Lisa, Nye-Salladin,Kerrville,TX,26368,54,F,Mountain:XC,01
+595.47,Kathryn, Hansen,Alexandria,VA,279300,33,F,Mountain:XC,01
+595.85,Nicole, Sheets,Phoenixville,PA,196245,43,F,Mountain:XC,01
+596.02,Meghan, Newlin,Boulder,CO,403600,35,F,Mountain:XC,01
+596.06,Brenda, Moczygemba,Breckenridge,CO,216070,29,F,Mountain:XC,01
+596.26,Jill, Morgan,East Norriton,PA,122762,46,F,Mountain:XC,01
+596.37,Janell, Marton,Roseville,CA,392831,42,F,Mountain:XC,01
+597.10,Jennifer, Hill,Erie,CO,253682,38,F,Mountain:XC,01
+597.25,Cindy, Lacotta,Tucson,AZ,111888,40,F,Mountain:XC,01
+597.99,Amber, Stilwell,Sierravista,AZ,304904,17,F,Mountain:XC,01
+598.00,Pam, Seidler,Carbondale,CO,277022,44,F,Mountain:XC,01
+598.00,Rachel, Chambers,Bolton,CT,310143,18,F,Mountain:XC,01
+598.00,Sarah, Worthington,Kansas City,MO,203454,38,F,Mountain:XC,01
+598.00,Rose, Haack,Albuquerque,NM,313086,56,F,Mountain:XC,01
+598.00,Alexandria, Fabbro,Altadena,CA,56090,49,F,Mountain:XC,01
+598.00,Ruste, Sasser,Fresno,CA,304436,34,F,Mountain:XC,01
+598.00,Adena, Wygmans,Swannanoa,NC,194611,34,F,Mountain:XC,01
+598.00,Lila, Bowers,Wetumpka,AL,271973,42,F,Mountain:XC,01
+598.00,Ann, Fitzsimmons,Gilroy,CA,203793,40,F,Mountain:XC,01
+598.00,Arleigh, Jenkins,Charlotte,NC,204257,29,F,Mountain:XC,01
+598.00,Beth, Brannon,Amarillo,TX,400628,30,F,Mountain:XC,01
+598.00,Shannon, Howell,Playa Del Rey,CA,343040,34,F,Mountain:XC,01
+598.00,Tricia, Davis,Scottsdale,AZ,123782,43,F,Mountain:XC,01
+598.00,Beth, Weimer,Springfield,MO,333844,53,F,Mountain:XC,01
+598.00,L., Marie Walsh,Loveland,CO,228073,35,F,Mountain:XC,01
+598.00,Carol, Ruckle,Redlands,CA,30799,60,F,Mountain:XC,01
+598.00,Lydia, Barter,N Brookfield,MA,2763,63,F,Mountain:XC,01
+598.01,Christine, Ford,Coralville,IA,41642,41,F,Mountain:XC,01
+600.00,Margaret, Thompson,Clinton,NY,35453,59,F,Mountain:XC,01
+454.96,Anna, Poulton,Lake Forest,IL,303727,15,F,Mountain:XC,02
+468.22,Kaitlin, Splittgerber,Appleton,WI,317238,15,F,Mountain:XC,02
+504.70,Heather, Stelljes,Madison,WI,375432,31,F,Mountain:XC,02
+508.83,Andrea, Fox,Leander,TX,376028,35,F,Mountain:XC,02
+513.05,Mackenzie, Filippi,Banner Elk,NC,318886,21,F,Mountain:XC,02
+516.93,Cyndi, Ehrike,Marathon,WI,362118,42,F,Mountain:XC,02
+517.66,Margaret, Nolen,Cedar Park,TX,291188,43,F,Mountain:XC,02
+520.29,sydnei, anderson,Frisco,TX,385671,30,F,Mountain:XC,02
+521.04,Joy, Billeaud,Waco,TX,365178,48,F,Mountain:XC,02
+523.24,Karlene, Olson,Rochester,MN,297066,39,F,Mountain:XC,02
+526.46,Julianne, North,Stow,MA,165859,56,F,Mountain:XC,02
+527.74,Rebekah, Trevelise,Austin,TX,236848,39,F,Mountain:XC,02
+530.15,Meredith, Rambow,Saint Paul,MN,304746,40,F,Mountain:XC,02
+532.64,Rachel, Koen,Cypress,TX,157453,38,F,Mountain:XC,02
+537.01,Melissa, Grubbs,Hutto,TX,350048,45,F,Mountain:XC,02
+537.38,Michele, Allgire,Palm Harbor,FL,334338,41,F,Mountain:XC,02
+538.05,Sarah, Fredrickson,Bloomington,IN,217611,30,F,Mountain:XC,02
+539.55,Miki, Kedo,Liberty,NC,373119,30,F,Mountain:XC,02
+539.81,Ria, Story,Auburn,AL,367840,33,F,Mountain:XC,02
+540.00,Crystal, Byrd,Lexington,NC,169512,37,F,Mountain:XC,02
+540.00,Cristina, Lindsey,Greenville,SC,319058,36,F,Mountain:XC,02
+540.04,April, Beard,Madison,WI,334352,35,F,Mountain:XC,02
+540.22,Jane, Hodess,Ocala,FL,123614,50,F,Mountain:XC,02
+540.59,Candace, ChinFatt,Miami,FL,335004,32,F,Mountain:XC,02
+540.89,Tiffany, Hutchens,Evansville,IN,393090,34,F,Mountain:XC,02
+542.00,Mary, Hannabass,Austin,TX,334900,28,F,Mountain:XC,02
+543.04,Cassey, Lynn,Madison,WI,294376,25,F,Mountain:XC,02
+543.33,Helmy, Tennis,Baraboo,WI,281223,58,F,Mountain:XC,02
+543.95,Missy, Hardeman,Hubbard,TX,392309,31,F,Mountain:XC,02
+544.62,Ashley, Treadway,Hydro,OK,376756,38,F,Mountain:XC,02
+545.00,Kathryn, Boylan,Mobile,AL,377803,39,F,Mountain:XC,02
+546.36,Wendy, Gaddey,Waukegan,IL,241055,43,F,Mountain:XC,02
+546.73,Karah, Lewis,Goodlettsville,TN,320958,28,F,Mountain:XC,02
+547.34,Carlie, Spence,Austin,TX,315548,39,F,Mountain:XC,02
+548.41,Karen, Elmore,Elizabethtown,KY,127098,38,F,Mountain:XC,02
+548.84,Hailey, Swirbul,Carbondale,CO,294388,15,F,Mountain:XC,02
+549.66,Teresa, Franzke,Austin,TX,388072,45,F,Mountain:XC,02
+549.76,delana, lawson,Gretna,LA,368168,30,F,Mountain:XC,02
+550.20,Marsha, Williams,Nashville,TN,206219,43,F,Mountain:XC,02
+550.25,Samantha, Adams,Dana Point,CA,366188,33,F,Mountain:XC,02
+550.67,Tricia, Weir,Dallas,TX,272297,48,F,Mountain:XC,02
+551.67,Christine, Fox,Little Rock,AR,313190,42,F,Mountain:XC,02
+552.05,Katy, McGuire,Oklahoma City,OK,376753,27,F,Mountain:XC,02
+552.05,Megan, Emerick,The Woodlands,TX,346620,22,F,Mountain:XC,02
+552.27,Tiffany, McDowell,High Point,NC,332680,30,F,Mountain:XC,02
+552.42,Kelly, Mendoza,Otter River,MA,323776,50,F,Mountain:XC,02
+553.00,Pamela, Fielding,East Longmeadow,MA,376346,41,F,Mountain:XC,02
+553.95,Tara, Kelly,Houston,TX,237368,32,F,Mountain:XC,02
+554.26,Erikaceae, Pearsons,Sacramento,CA,303876,24,F,Mountain:XC,02
+554.43,Cathie, Docherty,Fort Mill,SC,272853,44,F,Mountain:XC,02
+554.55,Melanie, Webre,Luling,LA,367725,52,F,Mountain:XC,02
+554.91,Rachel, Drake,South Milwaukee,WI,366004,35,F,Mountain:XC,02
+554.92,Jessica, Rockson,Sandwich,MA,375775,42,F,Mountain:XC,02
+555.19,Philicia, Marion,Mount Airy,NC,220598,30,F,Mountain:XC,02
+556.00,Heidi, Blackmon,Tulsa,OK,309444,43,F,Mountain:XC,02
+556.14,Elsa, Lee,Charlotte,NC,310121,34,F,Mountain:XC,02
+558.36,Lynn, Alfs,Birmingham,MI,295931,47,F,Mountain:XC,02
+559.46,Betthney, OConnell,Stuart,VA,390708,31,F,Mountain:XC,02
+560.39,Caitlin, Ryan,Lubbock,TX,391299,26,F,Mountain:XC,02
+560.41,Sarah, FarverStaub,Ashley,IN,350120,32,F,Mountain:XC,02
+561.24,shelly, rolandson,Los Angeles,CA,360756,30,F,Mountain:XC,02
+561.91,Brenda, Culver,Naperville,IL,377987,46,F,Mountain:XC,02
+562.88,EMILY, ROBNETT,Iowa City,IA,328300,27,F,Mountain:XC,02
+562.92,Kristi, Welch,Austin,TX,222610,37,F,Mountain:XC,02
+563.08,Heidi, Baks,Poughkeepsie,NY,278614,44,F,Mountain:XC,02
+563.33,Sharon, Ward,Broken Arrow,OK,366278,49,F,Mountain:XC,02
+564.00,CHANTEL, DULIBA,Salinas,CA,368006,16,F,Mountain:XC,02
+564.83,Pamela, Piotrowski,Wisconsin Rapids,WI,375161,60,F,Mountain:XC,02
+565.23,Ginger, Sillery,Chattanooga,TN,344702,34,F,Mountain:XC,02
+565.43,Erika, Mennerick,South Elgin,IL,379139,35,F,Mountain:XC,02
+565.80,Alissa, Magrum,Lakeway,TX,185283,39,F,Mountain:XC,02
+566.05,Rebecca, Zink,Indianapolis,IN,278382,31,F,Mountain:XC,02
+566.36,Anna, Tsahourides,Woodlyn,PA,385642,33,F,Mountain:XC,02
+567.28,Emily, Falk,Louisville,KY,296089,16,F,Mountain:XC,02
+567.67,Rachel, Cook,Denton,TX,361282,26,F,Mountain:XC,02
+568.46,Dina, Pang,San Antonio,TX,274092,36,F,Mountain:XC,02
+569.00,Devon, Fox,The Village,OK,333674,30,F,Mountain:XC,02
+569.00,Julie, Dupell,Norman,OK,368151,52,F,Mountain:XC,02
+569.08,Megan, Hopkins,Hendersonville,NC,397030,27,F,Mountain:XC,02
+569.37,Sally, McInnis,Maynard,MA,178513,44,F,Mountain:XC,02
+570.29,Misty, Gittings,Fayetteville,AR,379563,34,F,Mountain:XC,02
+570.51,Carter, Thomas,Oxford,MS,345318,29,F,Mountain:XC,02
+571.58,Elizabeth, Glas,Ooltewah,TN,349412,27,F,Mountain:XC,02
+571.63,Grace, Prewitt,Black Creek,WI,372796,16,F,Mountain:XC,02
+571.88,Karmen, Woelber,Cedar Falls,IA,307199,47,F,Mountain:XC,02
+572.53,Matilda, Field,Durango,CO,303435,21,F,Mountain:XC,02
+573.02,Heather, Jazdzewski,Plover,WI,367716,25,F,Mountain:XC,02
+573.17,Darci, Komac,Cavecreek,AZ,300783,40,F,Mountain:XC,02
+573.22,Lindsey, Prososki,North Ridgeville,OH,277836,19,F,Mountain:XC,02
+574.08,Susan, Pollard,Plano,TX,368765,46,F,Mountain:XC,02
+574.28,Laura, Snyder,Dunkirk,MD,370119,35,F,Mountain:XC,02
+575.00,JULIE, ROHLOFF,Los Gatos,CA,377403,50,F,Mountain:XC,02
+575.29,Nicole, Alexander,Marquette,MI,208899,41,F,Mountain:XC,02
+575.49,Colleen, Quindlen,Austin,TX,288150,35,F,Mountain:XC,02
+575.73,Susan, Bernatas,Boise,ID,3489,56,F,Mountain:XC,02
+575.80,Stacey, Cooke,Redondo Beach,CA,118722,51,F,Mountain:XC,02
+576.00,Carly, Thomsen,Omaha,NE,358405,33,F,Mountain:XC,02
+576.11,Kristen, Weir,Pottstown,PA,360814,28,F,Mountain:XC,02
+576.16,Sherri, Thompson,Louisville,KY,290519,55,F,Mountain:XC,02
+576.18,Christina, Halioris,Crestwood,KY,275569,45,F,Mountain:XC,02
+576.64,Sandra, Marshall,Kannapolis,NC,393094,41,F,Mountain:XC,02
+576.74,Megan, Protano,Hollywood,FL,254068,28,F,Mountain:XC,02
+576.76,Ramona, Janowetch,Keene,NH,349832,52,F,Mountain:XC,02
+577.02,Regina, Campbell,Chicago,IL,258314,34,F,Mountain:XC,02
+577.17,Nancy, Odle,Boise,ID,259136,45,F,Mountain:XC,02
+577.27,Leah, Mullen,Reno,NV,388950,21,F,Mountain:XC,02
+577.43,Ema, Suarez,Chula Vista,CA,399308,17,F,Mountain:XC,02
+577.45,Tara, Malone,Dallas,TX,367496,38,F,Mountain:XC,02
+577.59,Jenny, Walsh,Corte Madera,CA,365813,45,F,Mountain:XC,02
+577.67,Chris, Staub,Washington,IL,380414,33,F,Mountain:XC,02
+577.73,Nina, Fortune,Madison,WI,359549,46,F,Mountain:XC,02
+577.97,Sadie, Babits,Boise,ID,223125,34,F,Mountain:XC,02
+578.86,Alexis, Marques,Hemet,CA,389309,16,F,Mountain:XC,02
+579.00,Sarah, Waelde,New Haven,CT,377353,33,F,Mountain:XC,02
+579.00,Yvette, Woodward,Baton Rouge,LA,378510,40,F,Mountain:XC,02
+579.33,Meghan, Brown,Laguna Niguel,CA,392220,34,F,Mountain:XC,02
+579.50,Madison, Giger,Salinas,CA,382593,19,F,Mountain:XC,02
+580.22,Kimberly, Marland,Boone,NC,91250,43,F,Mountain:XC,02
+580.28,Sheila, Senft,Albuquerque,NM,31661,57,F,Mountain:XC,02
+580.33,Katherine, Farago,Mesa,AZ,141474,58,F,Mountain:XC,02
+580.36,Kelly, Cleveland,Fairview,TN,307760,33,F,Mountain:XC,02
+580.41,Carey, Dincauze,Nashville,TN,51858,51,F,Mountain:XC,02
+580.50,Diane, Conway,Rye,NH,120228,49,F,Mountain:XC,02
+580.58,Christine, Cremo,Reno,NV,333944,58,F,Mountain:XC,02
+580.68,Amanda, Ragle,Brentwood,TN,314570,36,F,Mountain:XC,02
+580.73,Sarah, Pittiglio,Davis,CA,195004,36,F,Mountain:XC,02
+580.88,Charlayne, Barger,Chandler,AZ,195195,46,F,Mountain:XC,02
+581.00,Anna, Dingman,Bozeman,MT,248346,33,F,Mountain:XC,02
+581.00,Emily, Hoesly,Omaha,NE,362228,31,F,Mountain:XC,02
+581.16,Jennifer, Hester,Louisville,KY,288418,44,F,Mountain:XC,02
+581.20,Lindsay, Rodkey,Bloomington,IN,242247,33,F,Mountain:XC,02
+581.48,Zoe, Reeves,Grand Rapids,MI,295290,17,F,Mountain:XC,02
+581.67,Brittany, Hatcher,Patrick Springs,VA,341100,28,F,Mountain:XC,02
+582.00,Sally, Logan,Cordova,TN,137064,54,F,Mountain:XC,02
+582.66,Kelly, Crawford,Ogden,UT,64973,52,F,Mountain:XC,02
+583.33,Karin, Lindholm,Hailey,ID,219843,52,F,Mountain:XC,02
+583.40,Lydia, Weyand,Bainbridge Island,WA,383375,19,F,Mountain:XC,02
+583.56,Dana, McAllister,West Chester,PA,326174,29,F,Mountain:XC,02
+583.62,Kristen, Kjellberg,Austin,TX,274390,28,F,Mountain:XC,02
+583.92,Hayleigh, Kirkham,Hemet,CA,356635,16,F,Mountain:XC,02
+584.51,Melody, Gerasimek,Transfer,PA,304981,38,F,Mountain:XC,02
+584.67,Maja, Holcomb,Plymouth,WI,317352,17,F,Mountain:XC,02
+584.71,Hannah, Eckvahl,Alta Loma,CA,270907,15,F,Mountain:XC,02
+585.00,Rebecca, Kauffman,Durango,CO,18612,52,F,Mountain:XC,02
+585.51,Christy, Murphy,Novato,CA,171836,44,F,Mountain:XC,02
+585.67,Lisa, Norris,Oklahomacity,OK,305659,45,F,Mountain:XC,02
+586.31,Cathi, Mowery,Concord,NC,243999,47,F,Mountain:XC,02
+586.79,Robin, Dunn,Flemington,NJ,334040,37,F,Mountain:XC,02
+586.90,Jessa, Stilwell,Sierra Vista,AZ,168280,39,F,Mountain:XC,02
+587.00,Lisa, DeLozier,Tulsa,OK,288758,49,F,Mountain:XC,02
+587.00,Caryn, Sedillo,Houston,TX,202486,46,F,Mountain:XC,02
+587.23,Tamra, Trujillo,Houston,TX,311468,30,F,Mountain:XC,02
+587.57,Sharon, Beckman,Tustin,CA,60385,53,F,Mountain:XC,02
+588.00,Melissa, Archey,Golden,CO,352996,42,F,Mountain:XC,02
+588.00,Lorinda, Putter,Allen,TX,269731,40,F,Mountain:XC,02
+588.00,Melanie, Starr Walker,Somerville,MA,301446,28,F,Mountain:XC,02
+588.00,Traci, Rodosta,Morgantown,WV,6393,41,F,Mountain:XC,02
+588.00,Theresa, Carilli,Lexington,MA,176884,51,F,Mountain:XC,02
+588.00,rebekah, weiner,Worcester,MA,284709,44,F,Mountain:XC,02
+588.00,Kelly, Paterson,Troy,MI,241369,47,F,Mountain:XC,02
+588.00,Fiona, Dougherty,Waco,TX,395467,15,F,Mountain:XC,02
+588.00,Laura, Wooldridge,Maumelle,AR,396303,39,F,Mountain:XC,02
+588.00,Emily, Bashton,Richmond,VA,399420,34,F,Mountain:XC,02
+588.00,Kimberly, Ryder,Pineville,LA,391366,30,F,Mountain:XC,02
+588.00,Lucia, Colbert,Cordova,TN,7299,56,F,Mountain:XC,02
+588.19,Jane, VanHof,East Grand Rapids,MI,345552,38,F,Mountain:XC,02
+588.26,lorri, warlick,Winstonsalem,NC,309641,52,F,Mountain:XC,02
+588.26,Anne, Moore,Mountpleasant,SC,289201,40,F,Mountain:XC,02
+588.30,Jenn, Sears,Quarryville,PA,378889,38,F,Mountain:XC,02
+588.36,Rachel, Harris,Louisville,CO,297671,17,F,Mountain:XC,02
+588.37,emily, setzer,Sacramento,CA,368470,33,F,Mountain:XC,02
+588.43,Amy, Lynne Engelmann,Snowmass Village,CO,302301,43,F,Mountain:XC,02
+588.50,Samantha, Welter,Rolla,MO,380569,31,F,Mountain:XC,02
+588.57,Samantha, Langton,Troy,NY,241394,36,F,Mountain:XC,02
+588.67,Krista, Anderson,Texarkana,TX,200947,42,F,Mountain:XC,02
+588.71,Ivy, Audrain,Seattle,WA,287816,25,F,Mountain:XC,02
+588.77,pamela, hwang,Oceanside,CA,402746,35,F,Mountain:XC,02
+588.90,Martha, Iverson,Durango,CO,80010,64,F,Mountain:XC,02
+589.00,Susan, Helm-Murtagh,Chapel Hill,NC,139055,49,F,Mountain:XC,02
+589.00,Patricia, Bernal,Arenas Valley,NM,395891,55,F,Mountain:XC,02
+589.25,Kelli, Montgomery,Wallingford,CT,142253,41,F,Mountain:XC,02
+589.34,Beatrice, Dormoy,Santee,CA,219340,49,F,Mountain:XC,02
+589.43,Deirdre, Garvey,Boulder,CO,68552,53,F,Mountain:XC,02
+589.54,Tammy, Wallace,San Francisco,CA,228693,36,F,Mountain:XC,02
+589.82,Caroline, Wade,Normal,IL,386191,46,F,Mountain:XC,02
+590.00,Pamela, Tate,Cordova,TN,153533,45,F,Mountain:XC,02
+590.00,Courtney, Kemmerer,Easton,PA,334852,33,F,Mountain:XC,02
+590.00,Julie, Guy,Fairfax,VA,258938,50,F,Mountain:XC,02
+590.26,Haley, Cutter,Santa Cruzs,CA,402817,29,F,Mountain:XC,02
+590.33,Jennifer, Humber,Birmingham,AL,394247,39,F,Mountain:XC,02
+590.50,Joann, Schmidt,West Des Moines,IA,277822,49,F,Mountain:XC,02
+590.52,Angelia, Fick,Philadelphia,PA,324832,37,F,Mountain:XC,02
+590.61,JB, Brockman,Boulder,CO,87830,43,F,Mountain:XC,02
+590.66,Sarah, Murphy,Burlingame,CA,285414,44,F,Mountain:XC,02
+590.76,Melissa, Cooper,Durham,NC,341494,29,F,Mountain:XC,02
+590.83,Catherine, Hinton,Culver City,CA,302321,42,F,Mountain:XC,02
+590.86,Jennifer, Franko Dudek,Jim Thorpe,PA,284389,29,F,Mountain:XC,02
+590.88,Jenny, Lewis,Brunswick,MD,247017,18,F,Mountain:XC,02
+591.00,Kyra, Kenwood,Miller Place,NY,222906,33,F,Mountain:XC,02
+591.00,Kayla, Kaiser,Boise,ID,385059,26,F,Mountain:XC,02
+591.28,Julie, Paisant,High Point,NC,282245,43,F,Mountain:XC,02
+591.33,Tami, Given,Kerrville,TX,290789,45,F,Mountain:XC,02
+591.33,Lynn, Childers,Barboursville,VA,392968,50,F,Mountain:XC,02
+591.33,Nancy, Donnellan,Scottsdale,AZ,125613,46,F,Mountain:XC,02
+592.00,Holly, Summers,Ellicottcity,MD,279242,55,F,Mountain:XC,02
+592.48,April, Paige,Westminster,CO,276870,39,F,Mountain:XC,02
+592.68,Susan, Kloha,Clayton,MO,275260,46,F,Mountain:XC,02
+593.00,Yvonne, Walbroehl,Mountain View,CA,219164,54,F,Mountain:XC,02
+593.00,Ali, Bronsdon,Polson,MT,368748,29,F,Mountain:XC,02
+593.00,Tessa, Treadway,Los Angeles,CA,302255,38,F,Mountain:XC,02
+593.00,Ruthie, Myers,Buffalo Valley,TN,194670,37,F,Mountain:XC,02
+593.00,Rosanne, Simons,Mandeville,LA,91694,55,F,Mountain:XC,02
+593.00,Johanne, Albrigtsen,Boulder,CO,402490,18,F,Mountain:XC,02
+593.00,Kailey, Elkins,Smithville,TX,321474,20,F,Mountain:XC,02
+593.22,Susan, Adamkovics,Arvada,CO,289560,40,F,Mountain:XC,02
+593.50,Jessica, Morris,Slc,UT,357946,26,F,Mountain:XC,02
+593.55,Elizabeth, Sandusky,Frisco,TX,395179,46,F,Mountain:XC,02
+593.57,Elizabeth, Lee,Conyers,GA,231228,24,F,Mountain:XC,02
+593.84,Leila, Carrillo,Durango,CO,328154,19,F,Mountain:XC,02
+594.00,Maria, Ruhtenberg,Urbandale,IA,275970,43,F,Mountain:XC,02
+594.00,Rebecca, Wissman,Oxford,MI,254350,23,F,Mountain:XC,02
+594.00,Erin, Phelan,Arlington,VA,399777,33,F,Mountain:XC,02
+594.52,Tracy, Yates,Fort Collins,CO,362231,45,F,Mountain:XC,02
+594.61,Natalie, Koncz,Spokane,WA,187206,37,F,Mountain:XC,02
+594.66,Marcy, Diem,Lititz,PA,84211,52,F,Mountain:XC,02
+594.67,Leah, Mitcham,Cornelius,NC,235983,47,F,Mountain:XC,02
+594.67,Linda, Lindsay,Petaluma,CA,222939,49,F,Mountain:XC,02
+594.93,Krista, Gibson,Scottsdale,AZ,366469,47,F,Mountain:XC,02
+595.09,Lauren, Festa,Devon,PA,313510,29,F,Mountain:XC,02
+595.45,Ginger, Wissman,Oxford,MI,270536,18,F,Mountain:XC,02
+595.51,Terrin, Lane,Scottsdale,AZ,289008,31,F,Mountain:XC,02
+595.59,Natalie, Kurz,Houston,TX,365313,32,F,Mountain:XC,02
+595.87,Ahmi, Bryant,Sandy,UT,350342,41,F,Mountain:XC,02
+595.93,Amanda, Mayes,Liberty Hill,TX,334088,32,F,Mountain:XC,02
+596.00,Trish, Albert,Smyrna,GA,140671,39,F,Mountain:XC,02
+596.00,Susan, Prieto,Boulder,CO,219062,51,F,Mountain:XC,02
+596.00,kathleen, riddell,Landenberg,PA,349626,52,F,Mountain:XC,02
+596.00,Sheri, Wallace,Tempe,AZ,156153,46,F,Mountain:XC,02
+596.00,Evelyn, Cooper,Seaford,VA,319944,42,F,Mountain:XC,02
+596.19,Christine, Tucker,Richardson,TX,188676,46,F,Mountain:XC,02
+596.26,Tiffany, Ankrum,Fortcollins,CO,292047,38,F,Mountain:XC,02
+596.33,Christina, Birch,Somerville,MA,294746,27,F,Mountain:XC,02
+596.34,Rachel, Beck,Woody Creek,CO,381829,34,F,Mountain:XC,02
+596.70,Heidi, Wahl,Parker,CO,190636,43,F,Mountain:XC,02
+597.17,Caitlin, Thompson,Philadelphia,PA,207716,29,F,Mountain:XC,02
+597.28,Brianna, Burnette,Chattanooga,TN,273455,34,F,Mountain:XC,02
+597.81,Victoria, Gates,Fitchburg,MA,281925,16,F,Mountain:XC,02
+598.00,Jennifer, Borell,Ripon,WI,184037,59,F,Mountain:XC,02
+598.00,Jessica, Hanover,Austin,TX,332390,40,F,Mountain:XC,02
+598.00,Laura, Sweeney,Kingston Springs,TN,237090,42,F,Mountain:XC,02
+598.00,Tammy, Richardson,Nashville,TN,140031,49,F,Mountain:XC,02
+598.00,Casey, Bailey,Huntersville,NC,365869,27,F,Mountain:XC,02
+598.00,Jennifer, Minery,Salem,MA,258529,33,F,Mountain:XC,02
+598.00,Judi, Mumm,Rio Rancho,NM,50026,48,F,Mountain:XC,02
+598.00,Kim, Cross,Hoover,AL,342984,37,F,Mountain:XC,02
+598.00,Suzanne, Hawkins,Waldron,AR,103607,65,F,Mountain:XC,02
+598.00,Patricia, Dowd,Bozeman,MT,262121,41,F,Mountain:XC,02
+598.00,joy, norris,Shreveport,LA,301847,29,F,Mountain:XC,02
+598.00,Lucy, Brown,Houston,TX,259584,17,F,Mountain:XC,02
+598.00,Emily, Cerna,Salinas,CA,356076,18,F,Mountain:XC,02
+598.00,Chrysa, Malosh,Nashville,TN,279311,35,F,Mountain:XC,02
+598.00,Kristen, Lukach,Salem,MA,268384,28,F,Mountain:XC,02
+598.00,Sierra, Trout,Durango,CO,401422,15,F,Mountain:XC,02
+598.00,Heather, Rose,Santa Barbara,CA,236955,38,F,Mountain:XC,02
+598.00,Jessica, Robinson,Vernon,NJ,393243,23,F,Mountain:XC,02
+598.01,Meghan, Kelley,Crystal Bay,NV,403745,15,F,Mountain:XC,02
+598.03,Heather, Kubiak,Jenison,MI,290301,50,F,Mountain:XC,02
+472.71,Marilee, Collier,Lake Villa,IL,297074,14,F,Mountain:XC,03
+477.70,allison, pieper,Kohler,WI,378653,15,F,Mountain:XC,03
+479.18,Arianna, Schafer,Barrington,IL,338174,12,F,Mountain:XC,03
+482.97,Cinthia, Lehner,Greer,SC,272896,22,F,Mountain:XC,03
+487.94,Lorissa, Thorpe,Wausau,WI,346768,12,F,Mountain:XC,03
+497.55,Emma, Osborne,Mequon,WI,359179,11,F,Mountain:XC,03
+520.03,Danielle, Krebs,Saint Charles,IL,368788,13,F,Mountain:XC,03
+521.16,Nicole, Miranda,Valley City,OH,218847,19,F,Mountain:XC,03
+521.36,Katherine, Schafer,Barrington,IL,378878,10,F,Mountain:XC,03
+526.51,Abigail, Yates,Rowlett,TX,386370,11,F,Mountain:XC,03
+527.75,Katherine, Santos,Louisville,KY,302383,16,F,Mountain:XC,03
+533.84,Mackenzie, Woodring,Belmont,MI,211079,34,F,Mountain:XC,03
+536.80,Ann, Drummond,Springdale,AR,367342,11,F,Mountain:XC,03
+537.97,Hailey, Fortin,Albuquerque,NM,309033,15,F,Mountain:XC,03
+539.56,Alexis, Bobbitt,Austin,TX,368653,12,F,Mountain:XC,03
+540.00,Josselyn, Gutierrez,Miramar,FL,389659,26,F,Mountain:XC,03
+540.00,Shea, Chavez,Flagstaff,AZ,394251,17,F,Mountain:XC,03
+545.26,Emmaline, BaxterHarwell,Austin,TX,396592,11,F,Mountain:XC,03
+547.36,Sarah, Ferrer,Delray Beach,FL,372659,32,F,Mountain:XC,03
+548.67,Katie, Clouse,Park City,UT,332072,12,F,Mountain:XC,03
+548.80,Katja, Freeburn,Durango,CO,401448,14,F,Mountain:XC,03
+552.00,Camille, Hughes,Richardson,TX,391866,40,F,Mountain:XC,03
+552.46,Elle, Williams,Big Bear City,CA,302781,13,F,Mountain:XC,03
+554.28,Megan, Ditty,Tulsa,OK,368931,27,F,Mountain:XC,03
+554.85,Roberta, Kimsey,Fortmill,SC,291792,56,F,Mountain:XC,03
+556.07,Kristin, Frandsen,Mill Valley,CA,331336,36,F,Mountain:XC,03
+556.80,Candice, VanSkike,Waco,TX,393995,25,F,Mountain:XC,03
+556.82,Jeanne, Autery,Haughton,LA,360689,46,F,Mountain:XC,03
+557.42,Olivia, Nicholls,Cave Creek,AZ,356742,14,F,Mountain:XC,03
+557.49,Lillian, Frasier,Boerne,TX,263801,14,F,Mountain:XC,03
+557.53,Zee, Cakmis,Jacksonville,FL,105342,52,F,Mountain:XC,03
+558.30,Elizabeth, Allen,Allentown,PA,263137,43,F,Mountain:XC,03
+558.67,Terri, Griffin,Dallas,TX,308205,54,F,Mountain:XC,03
+558.86,Mina, Anderberg,Boulder,CO,269982,15,F,Mountain:XC,03
+558.94,Phoebe, Dunn,Chino Valley,AZ,367374,12,F,Mountain:XC,03
+559.50,Claire, Boatman,Austin,TX,367044,14,F,Mountain:XC,03
+560.43,Megan, Branstetter,Edmond,OK,364621,26,F,Mountain:XC,03
+561.38,Victoria, Brocket,Raytown,MO,330494,12,F,Mountain:XC,03
+562.88,Zoe, Dunn,Chino Valley,AZ,366052,15,F,Mountain:XC,03
+563.68,Andrea, Tadros,Colfax,NC,393961,44,F,Mountain:XC,03
+563.96,Kelly, Hatcher,Wilmington,NC,389893,47,F,Mountain:XC,03
+564.00,Nancy, Heymann,Highland Park,IL,283728,53,F,Mountain:XC,03
+564.00,Kaselyn, Ondrias,San Antonio,TX,396656,13,F,Mountain:XC,03
+564.45,Emily, Elbers,Syracuse,NY,314836,19,F,Mountain:XC,03
+565.46,Michelle, Bishop,Bala  Cynwyd,PA,283001,34,F,Mountain:XC,03
+565.62,Antoinette,  McCall,Austin,TX,356380,11,F,Mountain:XC,03
+565.69,Wendy, Bobbitt,Austin,TX,284742,38,F,Mountain:XC,03
+567.46,Jennifer, Purcell,Austin,TX,193628,35,F,Mountain:XC,03
+567.75,Sophie, Barbier,Palo Alto,CA,304031,51,F,Mountain:XC,03
+569.00,Deborah, Robison,Lake Havasu City,AZ,300781,58,F,Mountain:XC,03
+569.11,Amanda, Bedard,Canton,CT,302668,52,F,Mountain:XC,03
+569.23,Bailey, Colfax,Santa Fe,NM,361974,16,F,Mountain:XC,03
+569.25,Vallen, Tupper,San Antonio,TX,400842,9,F,Mountain:XC,03
+569.91,Karrie, Norberg,Miami,FL,289604,52,F,Mountain:XC,03
+570.08,Janda, Hefner,Marion,NC,361801,43,F,Mountain:XC,03
+570.17,Kate, Dietrich,Prospect,KY,285651,14,F,Mountain:XC,03
+570.34,cheryl, pepper,Charlotte,NC,395709,36,F,Mountain:XC,03
+570.50,Regina, Jefferies,Phoenix,AZ,391265,32,F,Mountain:XC,03
+571.79,Lauren, Bingham,Sandy,UT,352968,11,F,Mountain:XC,03
+572.33,Amy, Dykema,Evanston,IL,10328,54,F,Mountain:XC,03
+572.39,Abigail, Youngwerth,Boise,ID,356410,13,F,Mountain:XC,03
+572.41,Melinda, Behrens,Jacksonville,FL,384615,43,F,Mountain:XC,03
+573.33,lisa, littrell,Somervillesomerville,AL,377231,49,F,Mountain:XC,03
+574.00,Tracy, Lillig,San Ramon,CA,181215,54,F,Mountain:XC,03
+574.20,Madelyn, Nichols,Wildwood,MO,365989,13,F,Mountain:XC,03
+574.33,Melody, Winsor,Greenbrier,AR,383327,45,F,Mountain:XC,03
+574.94,Lori, Watkins,Austin,TX,336382,41,F,Mountain:XC,03
+575.12,cindy, roddy,The Villages,FL,394948,48,F,Mountain:XC,03
+575.17,Birgit, Morris,Grand Junction,CO,357254,14,F,Mountain:XC,03
+575.52,Ramona, Kuna,Naperville,IL,211195,44,F,Mountain:XC,03
+576.15,Jessie, Vitulli,Houston,TX,354478,35,F,Mountain:XC,03
+576.35,Morgan, Fortin,Albuquerque,NM,332772,12,F,Mountain:XC,03
+576.54,Elisa, Rainey,Waco,TX,399674,43,F,Mountain:XC,03
+576.71,hailey, fogo,Boyne City,MI,371761,13,F,Mountain:XC,03
+577.11,BRITTANY, PARFFREY,Katy,TX,377033,23,F,Mountain:XC,03
+577.20,Maxine, Lamperti,Sebastopol,CA,383661,46,F,Mountain:XC,03
+577.33,Hanna, Fleming,Scotts Valley,CA,399681,13,F,Mountain:XC,03
+577.43,Leilah, Krohn,Gold Canyon,AZ,393750,25,F,Mountain:XC,03
+577.55,Corrine, Krasley,Coplay,PA,383360,11,F,Mountain:XC,03
+578.34,Jana, Eilermann,Brevard,NC,388204,24,F,Mountain:XC,03
+580.50,Carmen, Taylor,Brandon,MS,357181,46,F,Mountain:XC,03
+581.00,Jauron, Vetter,Milford,NH,325382,39,F,Mountain:XC,03
+581.00,Nicole, Dorholt,Bixby,OK,305725,35,F,Mountain:XC,03
+581.61,Veda, Gerasimek,Transfer,PA,297211,14,F,Mountain:XC,03
+582.00,Anne, Catherine Roch-Levecq,Oceanside,CA,279897,55,F,Mountain:XC,03
+582.58,Bridget, Alford,Flower Mound,TX,379523,44,F,Mountain:XC,03
+582.60,Lua, Walter,Alexandria,LA,367968,33,F,Mountain:XC,03
+582.67,Lori, Walsh,San Jose,CA,298981,50,F,Mountain:XC,03
+583.17,diane, dennedy,Springboro,OH,277425,33,F,Mountain:XC,03
+583.19,Anya, Decoteau,Greer,SC,395155,31,F,Mountain:XC,03
+583.38,Hayden, Colfax,Santa Fe,NM,361975,12,F,Mountain:XC,03
+583.49,Isabella, Olsson,Granby,CO,375003,15,F,Mountain:XC,03
+583.57,Brittany, Serra,South Salem,NY,347998,28,F,Mountain:XC,03
+583.66,Aubrey, Milner,Reno,NV,379019,13,F,Mountain:XC,03
+584.00,Angelina, Stilwell,Sierra Vista,AZ,335716,10,F,Mountain:XC,03
+584.02,Danielle, Mullis,Rochester,MI,296790,16,F,Mountain:XC,03
+584.33,Rebecca, Forsyth,Houston,TX,367683,23,F,Mountain:XC,03
+584.33,Candis, Massingill,Abilene,TX,393168,28,F,Mountain:XC,03
+585.00,Vanessa, Drummond,Oklahoma City,OK,400085,28,F,Mountain:XC,03
+585.84,Jessie, Linder,Cedar Crest,NM,379653,14,F,Mountain:XC,03
+586.00,Solange, whitehead,Scottsdale,AZ,391581,52,F,Mountain:XC,03
+586.00,Julie, Kinder,San Mateo,CA,392544,36,F,Mountain:XC,03
+586.09,Andrea, Casebolt,Olympia,WA,256332,17,F,Mountain:XC,03
+586.56,Sara, Chua,Elkins,WV,370396,41,F,Mountain:XC,03
+586.75,Kristi, Hanson,Chicago,IL,323632,34,F,Mountain:XC,03
+586.83,Kellie, Muddiman,Charlotte,NC,366171,37,F,Mountain:XC,03
+587.00,Kristin, Beville,Newton,MA,358598,34,F,Mountain:XC,03
+587.01,Julie, Gujer,River Falls,WI,262142,44,F,Mountain:XC,03
+587.07,Stephanie, Rynas,Chattanooga,TN,254020,26,F,Mountain:XC,03
+587.40,Gili, Rusak,Albany,NY,319836,16,F,Mountain:XC,03
+587.50,Joanne, Kovac-Roberts,Wewoka,OK,365633,42,F,Mountain:XC,03
+587.51,Kiara, McDonald,Porter,TX,368943,14,F,Mountain:XC,03
+587.64,Tara, McCarthy,Colorado Springs,CO,350362,33,F,Mountain:XC,03
+587.70,Crystal, Campagna,Hollywood,FL,388526,29,F,Mountain:XC,03
+588.00,Erja, Roesner,Winona Lake,IN,365980,10,F,Mountain:XC,03
+588.00,Candice, Moore,Broken Arrow,OK,306162,36,F,Mountain:XC,03
+588.00,Michelle, Morrill,San Francisco,CA,365569,41,F,Mountain:XC,03
+588.00,Sunny, Gilbert,Ballwin,MO,239522,34,F,Mountain:XC,03
+588.00,Lynn, Kernaghan,Silver City,NM,352878,42,F,Mountain:XC,03
+588.00,Kim, Cooley,Rossville,GA,392014,40,F,Mountain:XC,03
+588.00,jen, morris,Raleigh,NC,306184,32,F,Mountain:XC,03
+588.00,Gretchen, McElveen,Helena,AL,397429,35,F,Mountain:XC,03
+588.00,Katherine, Teubner,Fargo,ND,375013,28,F,Mountain:XC,03
+588.00,Katie, Bolton,Fairhope,AL,276010,31,F,Mountain:XC,03
+588.00,Hannah, Williams,Steamboat Springs,CO,401279,30,F,Mountain:XC,03
+588.00,Marta, Morris,Grand Junction,CO,315188,16,F,Mountain:XC,03
+588.00,Maggie, Canady,Memphis,TN,395171,28,F,Mountain:XC,03
+588.00,Dessie, Weigel,Boise,ID,390026,19,F,Mountain:XC,03
+588.00,Jennifer, Wong,Oakland,CA,80924,38,F,Mountain:XC,03
+588.00,Vanessa, Baumann,Alamo,CA,271750,51,F,Mountain:XC,03
+588.00,Hannah, Green,Boise,ID,371292,15,F,Mountain:XC,03
+588.00,Alyssa, Mease,York,PA,351464,31,F,Mountain:XC,03
+588.00,Sona, Korousova,Jessup,MD,402743,51,F,Mountain:XC,03
+588.25,Tania, Johnson,Hollywood,FL,393671,49,F,Mountain:XC,03
+588.59,Christine, Gurley,Jacksonville,FL,327152,47,F,Mountain:XC,03
+588.69,barb, beauregard,Traverse City,MI,312276,54,F,Mountain:XC,03
+588.91,Erica, Gaddy,Chicago,IL,316724,35,F,Mountain:XC,03
+589.25,Donna, Mellott,Pass Christian,MS,387105,50,F,Mountain:XC,03
+589.30,Elizabeth, Brady,Spartanburg,SC,294254,41,F,Mountain:XC,03
+589.46,Wendi, Garrison,Jackson,MS,390234,40,F,Mountain:XC,03
+589.50,Erin, Watson,Norman,OK,394981,39,F,Mountain:XC,03
+589.82,Kelly, Lein,Chicago,IL,329568,31,F,Mountain:XC,03
+590.00,Noel, Lawson,Chattanooga,TN,394921,36,F,Mountain:XC,03
+590.00,Jordan, Dube,Beverly,MA,320592,26,F,Mountain:XC,03
+590.18,Cynthia, Brouillette,Mobile,AL,376193,37,F,Mountain:XC,03
+590.50,Tracey, Andrew,Modesto,CA,391794,42,F,Mountain:XC,03
+590.50,Amy, Alton,Baltimore,MD,402122,39,F,Mountain:XC,03
+590.59,Kimberly, Miles,Kalamazoo,MI,390219,33,F,Mountain:XC,03
+591.00,Grace, Green,Boise,ID,384844,13,F,Mountain:XC,03
+591.12,Jessica, Eifler,Austin,TX,395925,33,F,Mountain:XC,03
+591.32,Angie, Boyens,Indianola,IA,336068,41,F,Mountain:XC,03
+591.33,Linda, Carlisle,Frederick,MD,329090,44,F,Mountain:XC,03
+591.33,Hannah, Brewer,Butler,PA,303338,29,F,Mountain:XC,03
+591.33,Courtney, Comer,San Marcos,CA,287901,14,F,Mountain:XC,03
+591.33,Patricia, Tessner,Cottondale,AL,390329,48,F,Mountain:XC,03
+591.33,Autumn, Hart,Wetumpka,AL,397503,33,F,Mountain:XC,03
+591.33,Leanne, Buell,Westdesmoines,IA,308817,51,F,Mountain:XC,03
+591.33,Leslie, Oley,Palo Alto,CA,397790,31,F,Mountain:XC,03
+591.34,Vicky, Pabon,Houston,TX,260836,27,F,Mountain:XC,03
+591.55,Robin, Lambidakis,Santa Cruz,CA,395657,14,F,Mountain:XC,03
+591.85,Katie, Cartee,Anchorage,AK,375080,20,F,Mountain:XC,03
+591.85,Lisa, Rike,Marina,CA,394598,47,F,Mountain:XC,03
+591.99,Emily, White,West Chester,PA,314046,14,F,Mountain:XC,03
+592.42,amy, meldrum,Lansing,MI,372357,39,F,Mountain:XC,03
+592.84,Sheryl, Leonard-Schneck,Wauwatosa,WI,235599,49,F,Mountain:XC,03
+592.99,andrea, madison,Vacaville,CA,403267,50,F,Mountain:XC,03
+593.00,Natalie, Kerr,Washington,IL,378115,15,F,Mountain:XC,03
+593.00,Bonni, Schervone,Delran,NJ,214811,51,F,Mountain:XC,03
+593.00,Kristen, Seib,Bryant Pond,ME,77355,51,F,Mountain:XC,03
+593.00,Kim, Marlin,Souderton,PA,397806,37,F,Mountain:XC,03
+593.00,Lily, Donovan,Gainesville,FL,401190,11,F,Mountain:XC,03
+593.07,Jennifer, Mace,Ocala,FL,337798,42,F,Mountain:XC,03
+593.38,Kate, Bennett,Pittsburgh,PA,271365,37,F,Mountain:XC,03
+593.39,Amy, Thompson,Meadowview,VA,350748,38,F,Mountain:XC,03
+593.50,Cristina, Mann,Fremont,CA,302649,35,F,Mountain:XC,03
+593.50,Michelle, Groves,Goldsboro,MD,281450,37,F,Mountain:XC,03
+593.56,Maddie, Ortenblad,Santa Cruz,CA,330648,17,F,Mountain:XC,03
+593.71,Mary, Isaac,Knoxville,TN,367986,42,F,Mountain:XC,03
+593.71,Shannon, Allison,Pinehurst,NC,397440,40,F,Mountain:XC,03
+593.95,Laura, Piippo,Ada,MI,376437,46,F,Mountain:XC,03
+594.00,Kristen, Uhlemann,Colorado Springs,CO,367358,24,F,Mountain:XC,03
+594.00,Lisa, Hulse,Chico,CA,399567,26,F,Mountain:XC,03
+594.57,Sarah, Fair,Albuquerque,NM,273218,40,F,Mountain:XC,03
+594.67,Allison, Foil,Charlotte,NC,263581,34,F,Mountain:XC,03
+594.67,Cheyenne, Comer,San Marcos,CA,297265,12,F,Mountain:XC,03
+594.67,Judith, Kendrick,Pineville,LA,237040,47,F,Mountain:XC,03
+594.67,Jennifer, Sloan,Tulsa,OK,365117,36,F,Mountain:XC,03
+594.86,Michelle, Nightengale,Modesto,CA,290262,53,F,Mountain:XC,03
+595.23,Miles, Caskey,Santa Fe,NM,367945,11,F,Mountain:XC,03
+595.39,Zoe, Colfax,Santa Fe,NM,386387,10,F,Mountain:XC,03
+595.49,Melissa, Werkman,Grand Haven,MI,289386,41,F,Mountain:XC,03
+595.98,Lauren, Walsh,Rochester Hills,MI,370218,31,F,Mountain:XC,03
+596.00,Jeannie, Ryan,Highland Park,IL,355664,46,F,Mountain:XC,03
+596.00,Debbie, Young,Morgan Hill,CA,387943,44,F,Mountain:XC,03
+596.00,Sarah, Oswald,Johns Creek,GA,298256,17,F,Mountain:XC,03
+596.30,Savannah, Blake,Boise,ID,277097,18,F,Mountain:XC,03
+596.90,Tazie, Stockwell,Highlands,TX,401116,35,F,Mountain:XC,03
+597.25,kate, mcneil,San Francisco,CA,390942,34,F,Mountain:XC,03
+598.00,Molly, Hurford,Easthampton,MA,289723,26,F,Mountain:XC,03
+598.00,Maya, Caskey,Santa Fe,NM,367944,11,F,Mountain:XC,03
+598.00,Beth, Fortuna,Boise,ID,378601,34,F,Mountain:XC,03
+598.00,Carly, Teater,St Joseph,MO,370059,31,F,Mountain:XC,03
+598.00,Brandy, Kilkenny,Dixon,CA,269561,41,F,Mountain:XC,03
+598.00,Ellen, Jablonski,College Station,TX,395689,20,F,Mountain:XC,03
+598.00,Mary, Pozzi,Salinas,CA,394897,58,F,Mountain:XC,03
+598.00,Jamie, Hull,San Jose,CA,396769,33,F,Mountain:XC,03
+598.00,Valerie, Myers,Burlington,NC,376161,46,F,Mountain:XC,03
+598.00,Heidi, Gurov,Cheyenne,WY,391540,30,F,Mountain:XC,03
+598.00,Nancy, Hales,Monroe,LA,393281,40,F,Mountain:XC,03
+598.00,Ryleigh, Line,Reston,VA,403322,11,F,Mountain:XC,03
+598.00,Kimberly, Hedrick,Zionsville,PA,387200,53,F,Mountain:XC,03
+271.17,Jacqueline, Harmony,Tucson,AZ,191051,35,F,Mountain:DH,PR
+280.89,Elinor, Wesner,Wappingers Falls,NY,334774,33,F,Mountain:DH,PR
+312.19,Rae, Gandolf,Zanesville,OH,272840,40,F,Mountain:DH,PR
+313.78,Joanna, Petterson,Jericho,VT,187041,34,F,Mountain:DH,PR
+326.27,Amber, Price,Westminster,CO,255122,37,F,Mountain:DH,PR
+326.45,Rebecca, Gardner,Marlboro,NY,298049,25,F,Mountain:DH,PR
+327.99,Katelyn, Parhiala,Arlington,MA,218448,29,F,Mountain:DH,PR
+335.03,Katie, Holden,Scotts Valley,CA,198434,28,F,Mountain:DH,PR
+335.23,Mary, Elges,Windsor,CT,77042,47,F,Mountain:DH,PR
+373.11,Jaime, Rees,Spokane,WA,228046,33,F,Mountain:DH,PR
+378.02,Taylor, Allison,Roxbury,NY,269964,17,F,Mountain:DH,PR
+430.99,Adrienne, Schneider,Incline Village,NV,176416,37,F,Mountain:DH,PR
+444.12,Eva, Wilson,Kensington,NH,279817,21,F,Mountain:DH,PR
+448.16,Robyn, Embrey,Kings Beach,CA,180734,28,F,Mountain:DH,PR
+448.16,Robyn, Embrey,Kings Beach,CA,180734,28,F,Mountain:DH,PR
+469.30,Ariana, Altier,Chico,CA,359327,20,F,Mountain:DH,PR
+469.70,Ana, Rodriguez,Salt Lake City,UT,282101,29,F,Mountain:DH,PR
+474.04,Jackie, Swider,San Luis Obispo,CA,361276,24,F,Mountain:DH,PR
+486.18,Katy, Hanlon,Avon,CO,286012,29,F,Mountain:DH,PR
+490.59,Anne, Galyean,Frederick,MD,314146,27,F,Mountain:DH,PR
+512.17,Karen, OConnell,Seattle,WA,312430,40,F,Mountain:DH,PR
+514.15,Joy, Martin,Park City,UT,165525,37,F,Mountain:DH,PR
+521.76,Christine, Dern,Salt Lake City,UT,358562,32,F,Mountain:DH,PR
+523.09,Britney, White,Bellingham,WA,228926,31,F,Mountain:DH,PR
+524.57,Christen, Boyer,Aspen,CO,248742,25,F,Mountain:DH,PR
+526.56,Jill, Kintner,Seattle,WA,186217,32,F,Mountain:DH,PR
+533.53,Amanda, Batty,Park City,UT,316554,26,F,Mountain:DH,PR
+534.16,Hillary, Elgert,Frederick,MD,118325,36,F,Mountain:DH,PR
+549.16,Adrian, Hopkins,Snoqualmie,WA,362102,33,F,Mountain:DH,PR
+552.48,Roxanne, Canent,Hayward,CA,275026,33,F,Mountain:DH,PR
+560.71,Gretchen, Johnson,South Lake Tahoe,CA,399680,32,F,Mountain:DH,PR
+568.36,Michelle, Benson,Bellingham,WA,320612,26,F,Mountain:DH,PR
+572.26,Leana, Gerrard,Lake Tapps,WA,149252,28,F,Mountain:DH,PR
+578.36,Emily, Smith,Everson,WA,319714,24,F,Mountain:DH,PR
+584.45,Shelby, Reilly,Gresham,OR,263084,18,F,Mountain:DH,PR
+448.24,Christie, Allebach,Harleysville,PA,317482,32,F,Mountain:DH,01
+461.48,Meghan, Kane,Dillon,CO,223279,21,F,Mountain:DH,01
+482.05,Elisa, Otter,Montpelier,VT,301746,27,F,Mountain:DH,01
+488.65,Essence, Barton,Thousand Oak,CA,179924,21,F,Mountain:DH,01
+510.53,Heather, Cowell,Pittsburgh,PA,333640,38,F,Mountain:DH,01
+511.37,Leila, Carrillo,Durango,CO,328154,19,F,Mountain:DH,01
+517.27,Caroline, Westray,Charlotte,NC,301162,25,F,Mountain:DH,01
+517.69,Nina, PorcelliFenn,Tahoe City,CA,399537,33,F,Mountain:DH,01
+519.16,Heather, McFadden,Morgan Hill,CA,269627,27,F,Mountain:DH,01
+524.49,Coleen, Pacurariu,Usaf Academy,CO,327320,20,F,Mountain:DH,01
+530.22,Katie, Cartee,Anchorage,AK,375080,20,F,Mountain:DH,01
+549.95,Sarah, Godish,Usafa,CO,358658,20,F,Mountain:DH,01
+550.91,Lindsay, Currier,Folsom,CA,353550,29,F,Mountain:DH,01
+553.18,Laura, Rice,Hendersonville,NC,358133,25,F,Mountain:DH,01
+553.74,Amanda, Cordell,Salt Lake City,UT,368535,26,F,Mountain:DH,01
+566.43,Corrine, Miller,Caseyville,IL,283598,30,F,Mountain:DH,01
+568.33,Avery, Morin,Roseville,CA,266914,16,F,Mountain:DH,01
+570.07,Shanna, Carlen,Soda Springs,CA,344442,30,F,Mountain:DH,01
+576.43,Kelly, Northcutt,Bend,OR,400631,24,F,Mountain:DH,01
+579.17,Gretchen, Nelson,Seattles,WA,343356,42,F,Mountain:DH,01
+580.05,Karina, Magrath,Seattle,WA,291034,29,F,Mountain:DH,01
+581.01,Ashley, Hernandez,San Juan Bautista,CA,285169,27,F,Mountain:DH,01
+585.01,Allison, Oliver,Carnelian Bay,CA,230786,33,F,Mountain:DH,01
+588.33,Noelle, Champagne,San Luis Obispo,CA,374732,41,F,Mountain:DH,01
+591.35,Sara, Jarrell,Colorado Springs,CO,253980,32,F,Mountain:DH,01
+593.33,Kirstie, Douglass,Auburnauburn,CA,331564,45,F,Mountain:DH,01
+594.43,Bridgette, LeBer,Butte,MT,312456,21,F,Mountain:DH,01
+596.67,Lindsay, Yost,Brighton,CO,330222,33,F,Mountain:DH,01
+378.08,Terah, Blake,Albuquerque,NM,377697,29,F,Mountain:DH,02
+454.35,Jill, Behlen,Boulder,CO,210228,22,F,Mountain:DH,02
+488.00,Linnea, Dixson,Steamboat Springs,CO,295757,21,F,Mountain:DH,02
+493.72,Hailey, Sarausky,Littleton,NH,300228,20,F,Mountain:DH,02
+562.39,Lindsey, Prososki,North Ridgeville,OH,277836,19,F,Mountain:DH,02
+567.43,Christina, Chappetta,Breckenridge,CO,402712,24,F,Mountain:DH,02
+580.93,Carolina, GomezVillafane,Los Gatos,CA,391083,21,F,Mountain:DH,02
+585.56,Sabrina, Norton,Golden,CO,396309,33,F,Mountain:DH,02
+585.77,Emily, Parker,Corryton,TN,243860,20,F,Mountain:DH,02
+587.78,Kim, Finch,Whittier,CA,243696,50,F,Mountain:DH,02
+588.33,Jennifer, Everhard,Bellevue,WA,108773,52,F,Mountain:DH,02
+590.96,Carter, Thomas,Oxford,MS,345318,29,F,Mountain:DH,02
+592.50,Rachel, Weaver,Santa Fe,NM,316416,34,F,Mountain:DH,02
+593.33,Kim, Godfrey,Louisville,CO,352832,33,F,Mountain:DH,02
+593.33,Rachel, Delateur,Tumwater,WA,9108,46,F,Mountain:DH,02
+593.89,Rachel, Byus,Argyle,TX,260379,27,F,Mountain:DH,02
+513.49,Nicole, Miranda,Valley City,OH,218847,19,F,Mountain:DH,03
+514.42,Kara, Uhl,Smithville,TX,185730,20,F,Mountain:DH,03
+555.15,Mackenzie, Filippi,Banner Elk,NC,318886,21,F,Mountain:DH,03
+580.00,Christine, Weir,Nevada City,CA,258083,21,F,Mountain:DH,03
+580.00,Ariana, Dittmer,Grand Junction,CO,305828,19,F,Mountain:DH,03
+581.11,Sarah, Pittiglio,Davis,CA,195004,36,F,Mountain:DH,03
+584.76,Sofia, Gomez Villafane,Durango,CO,332624,19,F,Mountain:DH,03
+588.39,Cinthia, Lehner,Greer,SC,272896,22,F,Mountain:DH,03
+589.99,Erica, Sander,Martinez,CA,387630,30,F,Mountain:DH,03
+590.45,Katherine, Shields,Salisbury,NC,220876,20,F,Mountain:DH,03
+593.33,Leah, Mullen,Reno,NV,388950,21,F,Mountain:DH,03
+593.34,McKenzie, Melcher,Mentone,CA,354114,19,F,Mountain:DH,03
+596.64,Emily, Shields,Salisbury,NC,220875,20,F,Mountain:DH,03
+561.69,Katie, Holden,Scotts Valley,CA,198434,28,F,Mountain:DS,PR
+577.55,Jacqueline, Harmony,Tucson,AZ,191051,35,F,Mountain:DS,PR
+593.42,Katelyn, Parhiala,Arlington,MA,218448,29,F,Mountain:DS,PR
+596.67,Christen, Boyer,Aspen,CO,248742,25,F,Mountain:DS,PR
+473.98,Eva, Wilson,Kensington,NH,279817,21,F,Mountain:DS,01
+506.46,Ariana, Altier,Chico,CA,359327,20,F,Mountain:DS,01
+510.52,Elisa, Otter,Montpelier,VT,301746,27,F,Mountain:DS,01
+514.03,Caroline, Westray,Charlotte,NC,301162,25,F,Mountain:DS,01
+526.90,Coleen, Pacurariu,Usaf Academy,CO,327320,20,F,Mountain:DS,01
+547.58,Sarah, Godish,Usafa,CO,358658,20,F,Mountain:DS,01
+577.59,Laura, Rice,Hendersonville,NC,358133,25,F,Mountain:DS,01
+585.65,Allison, Oliver,Carnelian Bay,CA,230786,33,F,Mountain:DS,01
+588.03,Heather, McFadden,Morgan Hill,CA,269627,27,F,Mountain:DS,01
+589.51,Bridgette, LeBer,Butte,MT,312456,21,F,Mountain:DS,01
+590.41,Ashley, Hernandez,San Juan Bautista,CA,285169,27,F,Mountain:DS,01
+592.79,Kirstie, Douglass,Auburnauburn,CA,331564,45,F,Mountain:DS,01
+595.17,Nina, PorcelliFenn,Tahoe City,CA,399537,33,F,Mountain:DS,01
+466.60,Jill, Behlen,Boulder,CO,210228,22,F,Mountain:DS,02
+502.98,Leila, Carrillo,Durango,CO,328154,19,F,Mountain:DS,02
+505.21,Essence, Barton,Thousand Oak,CA,179924,21,F,Mountain:DS,02
+516.28,Meghan, Kane,Dillon,CO,223279,21,F,Mountain:DS,02
+517.92,Linnea, Dixson,Steamboat Springs,CO,295757,21,F,Mountain:DS,02
+535.74,Hailey, Sarausky,Littleton,NH,300228,20,F,Mountain:DS,02
+561.96,Lindsey, Prososki,North Ridgeville,OH,277836,19,F,Mountain:DS,02
+566.99,Corrine, Miller,Caseyville,IL,283598,30,F,Mountain:DS,02
+584.17,McKenzie, Melcher,Mentone,CA,354114,19,F,Mountain:DS,02
+586.25,Sofia, Gomez Villafane,Durango,CO,332624,19,F,Mountain:DS,02
+593.33,Catherine, Opalka,Greenville,SC,284379,25,F,Mountain:DS,02
+596.67,Rachel, Byus,Argyle,TX,260379,27,F,Mountain:DS,02
+521.93,Kara, Uhl,Smithville,TX,185730,20,F,Mountain:DS,03
+541.02,Nicole, Miranda,Valley City,OH,218847,19,F,Mountain:DS,03
+568.35,McKenna, Merten,Jamul,CA,378493,11,F,Mountain:DS,03
+577.48,Katherine, Santos,Louisville,KY,302383,16,F,Mountain:DS,03
+580.00,Christine, Weir,Nevada City,CA,258083,21,F,Mountain:DS,03
+580.00,Lauren, Catlin,Fairfax,CA,256601,21,F,Mountain:DS,03
+581.03,Mackenzie, Filippi,Banner Elk,NC,318886,21,F,Mountain:DS,03
+582.18,Katie, Cartee,Anchorage,AK,375080,20,F,Mountain:DS,03
+589.64,Leah, Mullen,Reno,NV,388950,21,F,Mountain:DS,03
+593.73,Katherine, Shields,Salisbury,NC,220876,20,F,Mountain:DS,03
+596.68,Erikaceae, Pearsons,Sacramento,CA,303876,24,F,Mountain:DS,03
+376.09,Rebecca, Gross,Lakewood,CO,176014,33,F,Mountain:STXC,PR
+380.51,Lauren, Catlin,Fairfax,CA,256601,21,F,Mountain:STXC,PR
+387.79,Jill, Behlen,Boulder,CO,210228,22,F,Mountain:STXC,PR
+390.25,Chloe, Woodruff,Tucson,AZ,214920,26,F,Mountain:STXC,PR
+395.96,Lea, Davison,Jericho,VT,164014,30,F,Mountain:STXC,PR
+405.19,Deidre, York,Boulder,CO,178289,22,F,Mountain:STXC,PR
+409.17,Linnea, Dixson,Steamboat Springs,CO,295757,21,F,Mountain:STXC,PR
+422.44,Sarah, Sturm,Durango,CO,275320,24,F,Mountain:STXC,PR
+448.47,Elisa, Otter,Montpelier,VT,301746,27,F,Mountain:STXC,PR
+455.40,Judy, Freeman,Boulder,CO,182719,39,F,Mountain:STXC,PR
+466.33,Nina, Baum,Albuquerque,NM,180986,39,F,Mountain:STXC,PR
+474.18,Teal, Stetson-Lee,Durango,CO,252205,27,F,Mountain:STXC,PR
+500.90,Georgia, Gould,Fort Collins,CO,183192,33,F,Mountain:STXC,PR
+501.84,Evelyn, Dong,Park City,UT,381220,28,F,Mountain:STXC,PR
+503.70,Mary, McConneloug,Chilmark,MA,129285,42,F,Mountain:STXC,PR
+509.30,Meredith, Miller,Boulder,CO,143575,40,F,Mountain:STXC,PR
+511.16,Shayna, Powless,Roseville,CA,230397,19,F,Mountain:STXC,PR
+514.90,Kelli, Emmett,Colorado Springs,CO,156146,36,F,Mountain:STXC,PR
+520.50,Erin, Huck,Boulder,CO,194901,32,F,Mountain:STXC,PR
+523.30,Pua, Mata,Yucaipa,CA,208698,33,F,Mountain:STXC,PR
+531.70,Katherine, Sherwin,Heber City,UT,173633,40,F,Mountain:STXC,PR
+532.26,Elizabeth, Sampey,Nederland,CO,339186,31,F,Mountain:STXC,PR
+534.09,Erica, Tingey,Salt Lake City,UT,245589,36,F,Mountain:STXC,PR
+540.10,rose, grant,Kalispell,MT,332898,31,F,Mountain:STXC,PR
+541.12,Bonita, (Bonnie) Kleffman,Fort Mill,SC,272951,41,F,Mountain:STXC,PR
+543.38,Larissa, Fitchett,Silverado,CA,274696,27,F,Mountain:STXC,PR
+545.70,Amy, Dombroski,Boulder,CO,246803,26,F,Mountain:STXC,PR
+548.50,Heidi, Rentz,Moab,UT,252832,29,F,Mountain:STXC,PR
+548.77,Christina, Gokey-Smith,Denton,TX,217750,40,F,Mountain:STXC,PR
+550.90,Brianne, Marshall,Durango,CO,287045,34,F,Mountain:STXC,PR
+553.58,Amy, Beisel,Gunnison,CO,321990,29,F,Mountain:STXC,PR
+562.50,Rebecca, Blatt,Lakewood,CO,241201,33,F,Mountain:STXC,PR
+565.30,Jena, Greaser,Ketchum,ID,284803,27,F,Mountain:STXC,PR
+577.56,Erin, Alders,Nevada City,CA,196090,32,F,Mountain:STXC,PR
+580.00,Maren, Cosens,San Luis Obispo,CA,319930,21,F,Mountain:STXC,PR
+580.28,Kimberly, Flynn,Hixson,TN,122752,41,F,Mountain:STXC,PR
+584.44,Vanessa, Humic,Long Beach,CA,250250,33,F,Mountain:STXC,PR
+592.83,Anna, Dvorak,Reseda,CA,252867,26,F,Mountain:STXC,PR
+401.73,Abigail, Mickey,Aspen,CO,326204,23,F,Mountain:STXC,01
+417.28,Sofia, Gomez Villafane,Durango,CO,332624,19,F,Mountain:STXC,01
+446.64,Hailey, Sarausky,Littleton,NH,300228,20,F,Mountain:STXC,01
+455.78,Eva, Wilson,Kensington,NH,279817,21,F,Mountain:STXC,01
+480.67,Emily, Parker,Corryton,TN,243860,20,F,Mountain:STXC,01
+491.20,Essence, Barton,Thousand Oak,CA,179924,21,F,Mountain:STXC,01
+491.24,Katherine, Shields,Salisbury,NC,220876,20,F,Mountain:STXC,01
+496.12,Emily, Shields,Salisbury,NC,220875,20,F,Mountain:STXC,01
+497.79,Nathalie, Krantz,Durango,CO,267760,21,F,Mountain:STXC,01
+504.47,Rachel, Byus,Argyle,TX,260379,27,F,Mountain:STXC,01
+515.34,Ariana, Dittmer,Grand Junction,CO,305828,19,F,Mountain:STXC,01
+517.80,Kara, Uhl,Smithville,TX,185730,20,F,Mountain:STXC,01
+530.94,Lindsay, Dye,Flagstaff,AZ,296092,20,F,Mountain:STXC,01
+533.22,Suzie, Livingston,Fort Collins,CO,371452,28,F,Mountain:STXC,01
+533.86,Meghan, Kane,Dillon,CO,223279,21,F,Mountain:STXC,01
+534.86,Catherine, Opalka,Greenville,SC,284379,25,F,Mountain:STXC,01
+539.18,Sarah, Godish,Usafa,CO,358658,20,F,Mountain:STXC,01
+540.61,Erin, Donohue,Norwich,VT,299236,19,F,Mountain:STXC,01
+541.45,Laura, Rice,Hendersonville,NC,358133,25,F,Mountain:STXC,01
+542.73,Arleigh, Jenkins,Charlotte,NC,204257,29,F,Mountain:STXC,01
+543.17,Layla, Billowitz,Matthews,NC,261437,40,F,Mountain:STXC,01
+545.23,Virginia, Solomon,Culver City,CA,224221,33,F,Mountain:STXC,01
+548.16,Jodi, Winterton,Charlotte,NC,180608,38,F,Mountain:STXC,01
+552.29,Catherine, Hollibaugh,Carmel,IN,354456,20,F,Mountain:STXC,01
+557.51,Kaylee, Blevins,Durango,CO,278472,18,F,Mountain:STXC,01
+558.49,Ksenia, Lepikhina,Boulder,CO,296745,16,F,Mountain:STXC,01
+563.83,Grace, Alexander,Boise,ID,251513,19,F,Mountain:STXC,01
+569.36,Debbie, Gillespie,Travelers Rest,SC,272883,38,F,Mountain:STXC,01
+570.56,Talitha, Vogt,Lakewood,CO,290689,36,F,Mountain:STXC,01
+573.29,Jordan, Salman,Brevard,NC,346556,28,F,Mountain:STXC,01
+573.49,Ellen, Sherrill,South Lake Tahoe,CA,299535,34,F,Mountain:STXC,01
+575.43,Corrie, Osborne,Mequon,WI,298510,18,F,Mountain:STXC,01
+576.37,Christine, Weir,Nevada City,CA,258083,21,F,Mountain:STXC,01
+577.09,Christine, Irelan,Colorado Springs,CO,293959,45,F,Mountain:STXC,01
+578.74,Jana, Morris,Charlotte,NC,207118,47,F,Mountain:STXC,01
+579.44,Lee-Ann, Beatty,Phoenix,AZ,246753,33,F,Mountain:STXC,01
+580.00,Jane, Burlew,Weaverville,NC,360760,39,F,Mountain:STXC,01
+580.00,Amanda, Nauman,Mission Viejo,CA,292922,24,F,Mountain:STXC,01
+580.00,Melissa, Ross,Scottsdale,AZ,212478,28,F,Mountain:STXC,01
+580.00,April, Morgan,Minneapolis,MN,388916,30,F,Mountain:STXC,01
+580.00,Hayley, Olson,Minneapolis,MN,370793,21,F,Mountain:STXC,01
+580.99,Madonna, Conroy,Charlotte,NC,228308,41,F,Mountain:STXC,01
+585.88,Laura, Gleason,Charlotte,NC,220001,43,F,Mountain:STXC,01
+586.67,Alison, Jones,Laguna Beach,CA,375116,36,F,Mountain:STXC,01
+588.33,Brianne, Spiersch,Salinas,CA,295715,29,F,Mountain:STXC,01
+588.96,Tiziana, DeHorney,Albuquerque,NM,269499,16,F,Mountain:STXC,01
+590.01,rebecca, bubp,Charlotte,NC,334632,36,F,Mountain:STXC,01
+590.89,Sarah, Ginsbach,Spring,TX,319824,29,F,Mountain:STXC,01
+594.76,Emily, Shull,Libertyville,IL,264455,18,F,Mountain:STXC,01
+596.67,Karin, Edwards,South Lake Tahoe,CA,365895,32,F,Mountain:STXC,01
+596.67,Tricia, Davis,Scottsdale,AZ,123782,43,F,Mountain:STXC,01
+596.67,Joanna, Petterson,Jericho,VT,187041,34,F,Mountain:STXC,01
+596.69,Kathleen, Karpinski,Austin,TX,241074,43,F,Mountain:STXC,01
+519.95,Mackenzie, Filippi,Banner Elk,NC,318886,21,F,Mountain:STXC,02
+528.36,Sandra, Marshall,Kannapolis,NC,393094,41,F,Mountain:STXC,02
+552.17,Erikaceae, Pearsons,Sacramento,CA,303876,24,F,Mountain:STXC,02
+559.30,Matilda, Field,Durango,CO,303435,21,F,Mountain:STXC,02
+563.54,Lindsey, Prososki,North Ridgeville,OH,277836,19,F,Mountain:STXC,02
+577.11,Elsa, Lee,Charlotte,NC,310121,34,F,Mountain:STXC,02
+577.62,Leah, Mullen,Reno,NV,388950,21,F,Mountain:STXC,02
+578.39,Philicia, Marion,Mount Airy,NC,220598,30,F,Mountain:STXC,02
+581.19,Cristina, Lindsey,Greenville,SC,319058,36,F,Mountain:STXC,02
+581.44,Megan, Emerick,The Woodlands,TX,346620,22,F,Mountain:STXC,02
+581.59,Cathi, Mowery,Concord,NC,243999,47,F,Mountain:STXC,02
+587.75,Marsha, Williams,Nashville,TN,206219,43,F,Mountain:STXC,02
+588.33,Lindsay, Rodkey,Bloomington,IN,242247,33,F,Mountain:STXC,02
+588.33,Cathie, Docherty,Fort Mill,SC,272853,44,F,Mountain:STXC,02
+588.33,Leila, Carrillo,Durango,CO,328154,19,F,Mountain:STXC,02
+594.83,Leah, Mitcham,Cornelius,NC,235983,47,F,Mountain:STXC,02
+596.67,Karah, Lewis,Goodlettsville,TN,320958,28,F,Mountain:STXC,02
+523.00,Nicole, Miranda,Valley City,OH,218847,19,F,Mountain:STXC,03
+540.00,Kira, Zazzi,Denver,NC,393452,12,F,Mountain:STXC,03
+542.52,Cinthia, Lehner,Greer,SC,272896,22,F,Mountain:STXC,03
+549.28,Emily, Elbers,Syracuse,NY,314836,19,F,Mountain:STXC,03
+552.76,Samantha, Bendt,Rock Hill,SC,376683,35,F,Mountain:STXC,03
+560.83,Laurel, Long,Huntersville,NC,391682,11,F,Mountain:STXC,03
+565.10,April, Wells,Charlotte,NC,392167,34,F,Mountain:STXC,03
+566.68,Christina, Zikeli,Charlotte,NC,394982,47,F,Mountain:STXC,03
+576.39,Janda, Hefner,Marion,NC,361801,43,F,Mountain:STXC,03
+576.68,Jana, Eilermann,Brevard,NC,388204,24,F,Mountain:STXC,03
+580.00,Mina, Anderberg,Boulder,CO,269982,15,F,Mountain:STXC,03
+580.00,Katja, Freeburn,Durango,CO,401448,14,F,Mountain:STXC,03
+581.07,Roberta, Kimsey,Fortmill,SC,291792,56,F,Mountain:STXC,03
+581.45,Catherine, James,Travelers Rest,SC,251257,39,F,Mountain:STXC,03
+581.85,Sarah, Matchett,Davidson,NC,268002,43,F,Mountain:STXC,03
+582.90,Caroline, Westray,Charlotte,NC,301162,25,F,Mountain:STXC,03
+583.67,Allison, Foil,Charlotte,NC,263581,34,F,Mountain:STXC,03
+584.38,Katie, Cartee,Anchorage,AK,375080,20,F,Mountain:STXC,03
+585.88,Andrea, Tadros,Colfax,NC,393961,44,F,Mountain:STXC,03
+587.14,Jackie, Blackwell,Greenville,SC,231793,29,F,Mountain:STXC,03
+588.33,Hailey, Fortin,Albuquerque,NM,309033,15,F,Mountain:STXC,03
+590.14,Christina, Faust,High Point,NC,374735,39,F,Mountain:STXC,03
+596.67,Birgit, Morris,Grand Junction,CO,357254,14,F,Mountain:STXC,03
+543.43,Elisa, Otter,Montpelier,VT,301746,27,F,Mountain:SD,PR
+550.50,Elizabeth, Sampey,Nederland,CO,339186,31,F,Mountain:SD,PR
+552.70,Lea, Davison,Jericho,VT,164014,30,F,Mountain:SD,PR
+553.89,Nina, Baum,Albuquerque,NM,180986,39,F,Mountain:SD,PR
+560.93,Larissa, Fitchett,Silverado,CA,274696,27,F,Mountain:SD,PR
+563.33,Chloe, Woodruff,Tucson,AZ,214920,26,F,Mountain:SD,PR
+563.52,Judy, Freeman,Boulder,CO,182719,39,F,Mountain:SD,PR
+565.31,Erin, Alders,Nevada City,CA,196090,32,F,Mountain:SD,PR
+566.70,Kelli, Emmett,Colorado Springs,CO,156146,36,F,Mountain:SD,PR
+572.93,Shayna, Powless,Roseville,CA,230397,19,F,Mountain:SD,PR
+575.10,Shannon, Gibson,Durango,CO,156279,47,F,Mountain:SD,PR
+578.33,Vanessa, Humic,Long Beach,CA,250250,33,F,Mountain:SD,PR
+578.69,Katherine, Sherwin,Heber City,UT,173633,40,F,Mountain:SD,PR
+580.00,Maren, Cosens,San Luis Obispo,CA,319930,21,F,Mountain:SD,PR
+581.25,Sarah, Sturm,Durango,CO,275320,24,F,Mountain:SD,PR
+584.07,Erica, Tingey,Salt Lake City,UT,245589,36,F,Mountain:SD,PR
+584.68,Jamie, Busch,Los Gatos,CA,164976,33,F,Mountain:SD,PR
+585.00,Jill, Behlen,Boulder,CO,210228,22,F,Mountain:SD,PR
+592.96,Christina, Gokey-Smith,Denton,TX,217750,40,F,Mountain:SD,PR
+593.89,Evelyn, Dong,Park City,UT,381220,28,F,Mountain:SD,PR
+596.67,Olivia, Harkness,Santa Barbara,CA,294473,25,F,Mountain:SD,PR
+596.67,Lauren, Catlin,Fairfax,CA,256601,21,F,Mountain:SD,PR
+550.77,India, Waller,Durango,CO,355742,17,F,Mountain:SD,01
+561.56,Ariana, Dittmer,Grand Junction,CO,305828,19,F,Mountain:SD,01
+561.67,Christine, Weir,Nevada City,CA,258083,21,F,Mountain:SD,01
+571.58,Kim, Godfrey,Louisville,CO,352832,33,F,Mountain:SD,01
+575.32,Sara, Schroeder,Hailey,ID,298178,28,F,Mountain:SD,01
+577.24,Avery, Morin,Roseville,CA,266914,16,F,Mountain:SD,01
+578.40,Ellen, Sherrill,South Lake Tahoe,CA,299535,34,F,Mountain:SD,01
+579.40,Julie, Barton,Meadow Vista,CA,319724,19,F,Mountain:SD,01
+580.00,Lee-Ann, Beatty,Phoenix,AZ,246753,33,F,Mountain:SD,01
+580.00,Brianne, Spiersch,Salinas,CA,295715,29,F,Mountain:SD,01
+580.00,Essence, Barton,Thousand Oak,CA,179924,21,F,Mountain:SD,01
+580.00,Chi, Miranda,Carlsbad,CA,345710,40,F,Mountain:SD,01
+580.49,Heidi, Volpe,Topanga,CA,262291,46,F,Mountain:SD,01
+582.96,Heather, Ranoa,Murrieta,CA,240134,37,F,Mountain:SD,01
+585.56,Emily, Schaldach,Durango,CO,314034,18,F,Mountain:SD,01
+585.87,Emily, Shull,Libertyville,IL,264455,18,F,Mountain:SD,01
+588.13,Nina, Otter,Waterbury,VT,284886,27,F,Mountain:SD,01
+588.33,Amanda, Nauman,Mission Viejo,CA,292922,24,F,Mountain:SD,01
+588.33,Katie, Melena,Santacruz,CA,301855,35,F,Mountain:SD,01
+588.33,Jackie, Batson,Greenville,SC,286310,39,F,Mountain:SD,01
+592.10,Karen, Krasley,Coplay,PA,63818,39,F,Mountain:SD,01
+592.34,Kaylee, Blevins,Durango,CO,278472,18,F,Mountain:SD,01
+592.40,Andrianna, Zolton,Edmonds,WA,286622,28,F,Mountain:SD,01
+592.50,Hayley, Olson,Minneapolis,MN,370793,21,F,Mountain:SD,01
+594.81,Jenna, Kowalski,Los Angeles,CA,234400,27,F,Mountain:SD,01
+595.00,Eva, Wilson,Kensington,NH,279817,21,F,Mountain:SD,01
+596.67,Ashley, Stilwell,Sierravista,AZ,304903,20,F,Mountain:SD,01
+596.67,Sarah, Ginsbach,Spring,TX,319824,29,F,Mountain:SD,01
+596.67,Karin, Edwards,South Lake Tahoe,CA,365895,32,F,Mountain:SD,01
+576.67,Amanda, Cordell,Salt Lake City,UT,368535,26,F,Mountain:SD,02
+580.00,Rebecca, Gardner,Marlboro,NY,298049,25,F,Mountain:SD,02
+580.00,Noelle, Champagne,San Luis Obispo,CA,374732,41,F,Mountain:SD,02
+580.00,Ariana, Altier,Chico,CA,359327,20,F,Mountain:SD,02
+583.71,Rachel, Harris,Louisville,CO,297671,17,F,Mountain:SD,02
+585.56,Megan, Hopkins,Hendersonville,NC,397030,27,F,Mountain:SD,02
+588.33,Allison, Oliver,Carnelian Bay,CA,230786,33,F,Mountain:SD,02
+590.00,Jackie, Swider,San Luis Obispo,CA,361276,24,F,Mountain:SD,02
+590.18,Madison, Giger,Salinas,CA,382593,19,F,Mountain:SD,02
+592.50,Megan, Emerick,The Woodlands,TX,346620,22,F,Mountain:SD,02
+596.67,Erikaceae, Pearsons,Sacramento,CA,303876,24,F,Mountain:SD,02
+579.14,Hailey, Fortin,Albuquerque,NM,309033,15,F,Mountain:SD,03
+585.56,Kirstie, Douglass,Auburnauburn,CA,331564,45,F,Mountain:SD,03
+596.65,Morgan, Fortin,Albuquerque,NM,332772,12,F,Mountain:SD,03
+596.67,Christina, Faust,High Point,NC,374735,39,F,Mountain:SD,03
+596.67,Isabella, Olsson,Granby,CO,375003,15,F,Mountain:SD,03
+596.67,cheryl, pepper,Charlotte,NC,395709,36,F,Mountain:SD,03

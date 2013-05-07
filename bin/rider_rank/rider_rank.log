@@ -1,0 +1,177 @@
+2013-05-07 11:45:18,941 [1] INFO  com.mattygiedt.RiderRank -  loading BikeReg data file: REG_18266.csv
+2013-05-07 11:45:18,952 [1] INFO  com.mattygiedt.RiderRank -  loading USAC MEN rider data from: ../shared_data/USAC_ROAD_MEN.csv
+2013-05-07 11:45:19,183 [1] INFO  com.mattygiedt.RiderRank -  loading USAC WOMEN rider data from: ../shared_data/USAC_ROAD_WOMEN.csv
+2013-05-07 11:45:19,240 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: AT&T NCC Pro/1
+2013-05-07 11:45:19,246 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MARCO' 'ALEDIA' [58428,58428] 5/5/2013 8:57:58 PM
+2013-05-07 11:45:19,255 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'RAHSAAN' 'BAHATI' [116625,116625] 5/5/2013 8:57:58 PM
+2013-05-07 11:45:19,263 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ZACHARY' 'BERGH' [254872,254872] 5/3/2013 3:19:49 PM
+2013-05-07 11:45:19,271 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:19,271 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NICOLAI' 'BROCHNER' [INTL,INTL] 4/30/2013 11:50:59 AM
+2013-05-07 11:45:19,299 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CORTLAN' 'BROWN' [262949,262949] 5/3/2013 3:19:49 PM
+2013-05-07 11:45:19,308 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREW' 'BUNTZ' [291573,291573] 5/3/2013 3:19:49 PM
+2013-05-07 11:45:19,316 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANTHONY' 'CANEVARI' [293641,293641] 5/5/2013 8:57:58 PM
+2013-05-07 11:45:19,324 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'GRAHAM' 'DEWART' [241878,241878] 4/30/2013 11:54:01 AM
+2013-05-07 11:45:19,333 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRANDON' 'FEEHERY' [193035,193035] 5/3/2013 3:19:49 PM
+2013-05-07 11:45:19,341 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'EDWARD' 'GRYSTER' [244283,244283] 5/3/2013 3:19:49 PM
+2013-05-07 11:45:19,369 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ISAAC' 'HOWE' [201456,201456] 5/3/2013 1:48:22 AM
+2013-05-07 11:45:19,377 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOSH' 'JOHNSON' [,257134] 4/30/2013 11:54:01 AM
+2013-05-07 11:45:19,385 [1] WARN  com.mattygiedt.RankingEngine - MANUAL LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:19,386 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SHANE' 'KLINE' [0192584,192584] 5/3/2013 1:48:22 AM
+2013-05-07 11:45:19,394 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MAX' 'KORUS' [290610,290610] 5/3/2013 3:19:49 PM
+2013-05-07 11:45:19,402 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CHRIS' 'KROLL' [188069,188069] 5/2/2013 11:38:40 PM
+2013-05-07 11:45:19,410 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'WESTON' 'LUZADDER' [240464,240464] 4/30/2013 11:50:59 AM
+2013-05-07 11:45:19,418 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JORDAN' 'MATHES' [212239,212239] 5/5/2013 8:57:58 PM
+2013-05-07 11:45:19,426 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JUSTIN' 'MORRIS' [INTL,INT] 5/4/2013 8:26:10 AM
+2013-05-07 11:45:19,456 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ADAM' 'MYERSON' [52534,52534] 5/3/2013 1:48:22 AM
+2013-05-07 11:45:19,464 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREW' 'OTTE' [281578,218578] 5/6/2013 9:48:04 AM
+2013-05-07 11:45:19,472 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AARON' 'PERRY' [INTL,INT] 5/4/2013 8:26:10 AM
+2013-05-07 11:45:19,500 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRANDEN' 'RUSSELL' [INTL,INT] 5/4/2013 8:26:10 AM
+2013-05-07 11:45:19,508 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'RYAN' 'SHEAN' [290397,290397] 5/3/2013 8:43:39 PM
+2013-05-07 11:45:19,517 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MIKE' 'SHERER' [232977,232977] 5/4/2013 11:28:00 AM
+2013-05-07 11:45:19,524 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:19,524 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JACKIE' 'SIMES' [150549,150549] 5/3/2013 1:48:22 AM
+2013-05-07 11:45:19,533 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:19,533 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREI' 'STRELKOV' [INTL,INT] 5/4/2013 8:26:10 AM
+2013-05-07 11:45:19,560 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'FRANK' 'TRAVIESO' [160295,160295] 5/3/2013 1:48:22 AM
+2013-05-07 11:45:19,568 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CHRIS' 'UBERTI' [238311,238311] 5/3/2013 1:48:22 AM
+2013-05-07 11:45:19,576 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:19,577 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ALEX' 'WIESELER' [207324,207324] 4/30/2013 11:54:00 AM
+2013-05-07 11:45:19,585 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CHRIS' 'WILLIAMS' [INTL,INT] 5/4/2013 8:26:10 AM
+2013-05-07 11:45:19,612 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NATHANIEL' 'WILLIAMS' [220678,220678] 4/30/2013 11:54:01 AM
+2013-05-07 11:45:19,638 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: BTIG Women NCC Pro/1/2
+2013-05-07 11:45:19,638 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MELINA' 'BERNECKER' [332272,332272] 4/16/2013 8:41:14 PM
+2013-05-07 11:45:19,663 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOANIE' 'CARON' [INTL,CAN19840427] 4/17/2013 12:32:13 PM
+2013-05-07 11:45:19,690 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TERRA' 'JAMES' [281803,281803] 5/1/2013 11:30:32 PM
+2013-05-07 11:45:19,715 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ELIZABETH' 'LAUER' [290993,290993] 4/1/2013 11:45:34 PM
+2013-05-07 11:45:19,740 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KRISTEN' 'MESHBERG' [167518,167518] 5/7/2013 10:26:03 AM
+2013-05-07 11:45:19,766 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TIFFANY' 'PEZZULO' [89443,89443] 4/16/2013 5:28:02 PM
+2013-05-07 11:45:19,791 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JENNIFER' 'RIFE' [,345626] 5/2/2013 9:19:04 AM
+2013-05-07 11:45:19,816 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AMANDA' 'SCHAAP' [,342042] 4/3/2013 10:34:58 PM
+2013-05-07 11:45:19,842 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KAYTIE' 'SCOTT' [,311329] 4/20/2013 12:27:33 PM
+2013-05-07 11:45:19,867 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KORI' 'SEEHAFER' [77841,77841] 5/7/2013 7:55:38 AM
+2013-05-07 11:45:19,892 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AMBER' 'VRENDENBURG' [251058,251058] 5/1/2013 11:30:33 PM
+2013-05-07 11:45:19,917 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:19,917 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NICHOLE' 'WANGSGARD' [100972,100972] 4/15/2013 10:16:37 PM
+2013-05-07 11:45:19,947 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Category 2/3
+2013-05-07 11:45:19,947 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JULIAN' 'BAUMGARTNER' [215999,215999] 3/1/2013 9:08:02 AM
+2013-05-07 11:45:19,957 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREW' 'DALEY' [196389,196389] 3/1/2013 9:12:34 AM
+2013-05-07 11:45:19,967 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SHAWN' 'DELK' [97609,97609] 3/1/2013 10:07:58 AM
+2013-05-07 11:45:19,978 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TOM' 'DRIVER' [142034,142034] 3/1/2013 10:30:10 AM
+2013-05-07 11:45:19,988 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'RYAN' 'FAY' [288405,288405] 4/29/2013 5:01:59 PM
+2013-05-07 11:45:19,999 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRYAN' 'FULLER' [286446,286446] 4/29/2013 6:29:39 PM
+2013-05-07 11:45:20,010 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NATE' 'IDEN' [266664,266664] 3/1/2013 9:33:25 AM
+2013-05-07 11:45:20,018 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'PETER' 'KELLEY' [306717,306717] 4/29/2013 5:46:32 PM
+2013-05-07 11:45:20,028 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'PATRICK' 'MCNALLY' [79872,79872] 3/1/2013 10:33:33 PM
+2013-05-07 11:45:20,037 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JASON' 'MINDEMAN' [208254,208254] 3/1/2013 9:38:57 AM
+2013-05-07 11:45:20,048 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SEAN' 'PIPER' [273622,273622] 4/29/2013 9:28:07 AM
+2013-05-07 11:45:20,057 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOHN' 'WHIPPLE' [282898,282898] 4/23/2013 5:56:13 PM
+2013-05-07 11:45:20,066 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JESSE' 'WILLIAMS' [275391,275391] 3/1/2013 9:38:12 AM
+2013-05-07 11:45:20,080 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Category 4
+2013-05-07 11:45:20,080 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JAMES' 'BARCLAY' [385856,385856] 5/6/2013 11:32:24 PM
+2013-05-07 11:45:20,093 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KURT' 'BENTSEN' [375978,375978] 3/5/2013 1:41:32 PM
+2013-05-07 11:45:20,106 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRANDON' 'BERISH' [394999,944178] 3/4/2013 7:40:38 AM
+2013-05-07 11:45:20,121 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SEAN' 'BJORK' [309401,309401] 3/4/2013 9:32:53 AM
+2013-05-07 11:45:20,134 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREW' 'CAROLUS' [,361735] 3/5/2013 6:03:34 PM
+2013-05-07 11:45:20,148 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JACOB' 'CRAMER' [376719,376719] 3/6/2013 12:30:04 PM
+2013-05-07 11:45:20,161 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'DOUGLAS' 'GATTO' [196826,196826] 3/7/2013 2:08:17 PM
+2013-05-07 11:45:20,174 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ALEX' 'GRANT' [324348,324348] 3/15/2013 6:06:23 PM
+2013-05-07 11:45:20,187 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KEN' 'MITCHELL' [184336,184336] 5/6/2013 11:14:14 PM
+2013-05-07 11:45:20,214 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AVI' 'NEUROHR' [232437,232437] 5/3/2013 12:57:04 PM
+2013-05-07 11:45:20,226 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BYRON' 'NOLL' [342678,342678] 3/30/2013 3:50:26 PM
+2013-05-07 11:45:20,239 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDRE' 'ODENDAAL' [267109,267109] 3/1/2013 9:38:42 AM
+2013-05-07 11:45:20,252 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MIKE' 'PALMER' [326728,326728] 4/30/2013 7:29:32 PM
+2013-05-07 11:45:20,264 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'DAVID' 'PRATT' [312886,312886] 3/5/2013 1:24:55 PM
+2013-05-07 11:45:20,274 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AARON' 'STARKSTON' [,317188] 5/6/2013 11:44:09 PM
+2013-05-07 11:45:20,288 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'FREDERICK' 'SUDEKUM' [291772,291772] 3/3/2013 1:28:56 PM
+2013-05-07 11:45:20,301 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KEVIN' 'WHITFORD' [393810,393810] 4/22/2013 5:57:05 PM
+2013-05-07 11:45:20,321 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Category 5
+2013-05-07 11:45:20,322 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'DAVID' 'ANDERSON' [,387707] 4/4/2013 11:32:32 AM
+2013-05-07 11:45:20,334 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AARON' 'BAKER' [397713,397713] 3/28/2013 12:38:55 AM
+2013-05-07 11:45:20,349 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRANDON' 'BERISH' [394999,394999] 3/6/2013 6:38:05 PM
+2013-05-07 11:45:20,365 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NELSON' 'BERNABE' [383502,383502] 5/6/2013 10:20:39 AM
+2013-05-07 11:45:20,380 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TED' 'BUCKLEY' [394571,394571] 4/7/2013 11:08:33 PM
+2013-05-07 11:45:20,397 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BEN' 'CARTWRIGHT' [371289,371289] 4/2/2013 2:09:32 PM
+2013-05-07 11:45:20,412 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOHN' 'CASEY' [380046,380046] 4/5/2013 4:21:05 PM
+2013-05-07 11:45:20,427 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'PATRICK' 'CEBRZYNSKI' [356248,356248] 3/1/2013 6:17:29 AM
+2013-05-07 11:45:20,442 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'WOJCIECH' 'CZERKIES' [396957,396957] 4/8/2013 7:59:33 AM
+2013-05-07 11:45:20,458 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KEEFER' 'DUNN' [394077,394077] 4/4/2013 12:35:21 PM
+2013-05-07 11:45:20,473 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MICHAEL' 'EASTWAY' [358304,358304] 5/2/2013 9:17:33 PM
+2013-05-07 11:45:20,488 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'HUMBERTO' 'ESPINO' [311231,311231] 3/7/2013 12:41:51 AM
+2013-05-07 11:45:20,503 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JASON' 'HOLLY' [362289,362289] 4/17/2013 3:32:46 PM
+2013-05-07 11:45:20,518 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ALEXANDER' 'INGRAM' [,ONE DAY] 4/13/2013 11:12:56 PM
+2013-05-07 11:45:20,546 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'PETER' 'KAMAR' [399367,399367] 4/10/2013 11:24:31 AM
+2013-05-07 11:45:20,561 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MARCUS' 'KATZ' [186956,186956] 5/1/2013 9:10:08 PM
+2013-05-07 11:45:20,576 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CHRIS' 'KIRKHAM' [393521,393521] 3/3/2013 9:04:51 AM
+2013-05-07 11:45:20,591 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MATTHEW' 'KNOPOFF' [383584,383584] 4/15/2013 8:44:31 AM
+2013-05-07 11:45:20,608 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:20,608 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ROB' 'KOWALCZYK' [333620,333620] 3/1/2013 7:46:54 AM
+2013-05-07 11:45:20,624 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDRZEJ' 'KRZYSIAK' [402874,402874] 4/21/2013 5:12:51 PM
+2013-05-07 11:45:20,639 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRIAN' 'KWAK' [401562,401562] 4/9/2013 9:24:18 PM
+2013-05-07 11:45:20,655 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TIM' 'LOVELY' [403738,403738] 4/19/2013 1:04:57 PM
+2013-05-07 11:45:20,683 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRIAN' 'MASLOUSKI' [,379463] 3/10/2013 11:31:09 PM
+2013-05-07 11:45:20,698 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MAURICE' 'MATA' [,one day] 3/30/2013 4:47:32 PM
+2013-05-07 11:45:20,726 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NICK' 'POMELLA' [392940,392940] 4/12/2013 7:12:12 PM
+2013-05-07 11:45:20,742 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:20,742 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'EDWARD M.' 'RITCHIE' [,one day temp] 4/9/2013 8:29:22 PM
+2013-05-07 11:45:20,770 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JONATHAN' 'ROTH' [,360775] 3/12/2013 12:28:31 AM
+2013-05-07 11:45:20,798 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MATTHEW' 'SCHMITZ' [360071,360071] 3/1/2013 12:33:26 PM
+2013-05-07 11:45:20,813 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'RAYMOND' 'SCIUCKAS' [336378,336378] 4/23/2013 10:50:36 PM
+2013-05-07 11:45:20,828 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CORY' 'SPAETTI' [389577,389577] 4/14/2013 9:26:00 PM
+2013-05-07 11:45:20,856 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CAMERON' 'WARD' [309002,309002] 4/5/2013 5:38:11 PM
+2013-05-07 11:45:20,871 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOSHUA' 'WEEMHOFF' [396192,396192] 4/8/2013 8:47:51 PM
+2013-05-07 11:45:20,888 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ROBERT' 'WHITTIER' [384037,384037] 3/1/2013 10:15:17 AM
+2013-05-07 11:45:20,904 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'HANS' 'YEATES' [,380093] 4/19/2013 3:31:26 PM
+2013-05-07 11:45:20,919 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JASON' 'ZIOMEK' [,399731] 3/6/2013 3:23:43 PM
+2013-05-07 11:45:20,959 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Junior 10-14 (Boys & Girls)
+2013-05-07 11:45:20,959 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'DIEGO' 'ARANA' [361121,361121] 3/1/2013 11:55:29 AM
+2013-05-07 11:45:20,974 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AIDEN' 'RIEFE' [,404082] 4/23/2013 6:15:35 PM
+2013-05-07 11:45:21,004 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Junior 15-18 (Boys & Girls)
+2013-05-07 11:45:21,004 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'IAN' 'BORELLA' [345484,345484] 4/22/2013 9:36:37 PM
+2013-05-07 11:45:21,018 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOHN' 'KUHFAHL' [,380295] 4/29/2013 12:43:28 PM
+2013-05-07 11:45:21,035 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Masters 30+ Category 4/5
+2013-05-07 11:45:21,036 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JAMES' 'BARCLAY' [385856,385856] 5/6/2013 11:32:24 PM
+2013-05-07 11:45:21,048 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'VAIDAS' 'BARCYS' [375582,375582] 4/30/2013 9:31:41 PM
+2013-05-07 11:45:21,063 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SEAN' 'BJORK' [309401,309401] 3/4/2013 9:32:53 AM
+2013-05-07 11:45:21,077 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JESSE' 'BLEEMEL' [,400275] 3/18/2013 10:48:52 PM
+2013-05-07 11:45:21,106 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREW' 'CAROLUS' [,361735] 3/5/2013 6:03:34 PM
+2013-05-07 11:45:21,119 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BEN' 'CARTWRIGHT' [371289,371289] 4/2/2013 2:09:33 PM
+2013-05-07 11:45:21,134 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'HUMBERTO' 'ESPINO' [311231,311231] 3/7/2013 12:41:51 AM
+2013-05-07 11:45:21,149 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ALEX' 'GRANT' [324348,324348] 3/15/2013 6:06:23 PM
+2013-05-07 11:45:21,162 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'DARRELL' 'HALE' [304803,304803] 3/1/2013 1:03:35 AM
+2013-05-07 11:45:21,177 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JIM' 'HOTALING' [403172,403172] 5/2/2013 9:32:35 PM
+2013-05-07 11:45:21,193 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDRZEJ' 'KRZYSIAK' [402874,402874] 4/21/2013 5:12:51 PM
+2013-05-07 11:45:21,208 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JASON' 'LITTLE' [,375753] 4/26/2013 8:55:30 AM
+2013-05-07 11:45:21,223 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'AVI' 'NEUROHR' [232437,232437] 5/3/2013 12:57:04 PM
+2013-05-07 11:45:21,235 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDRE' 'ODENDAAL' [267109,267109] 3/1/2013 9:38:42 AM
+2013-05-07 11:45:21,248 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'BRAD' 'RAINKO' [308498,308498] 4/10/2013 11:59:44 AM
+2013-05-07 11:45:21,276 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'CORY' 'SPAETTI' [389577,389577] 4/14/2013 9:26:00 PM
+2013-05-07 11:45:21,303 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOSHUA' 'WEEMHOFF' [396192,396192] 4/8/2013 8:47:51 PM
+2013-05-07 11:45:21,319 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ROBERT' 'WHITTIER' [384037,384037] 4/19/2013 12:15:16 PM
+2013-05-07 11:45:21,335 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'HANS' 'YEATES' [,380093] 4/19/2013 3:31:26 PM
+2013-05-07 11:45:21,356 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Masters 30+ Category 1/2/3
+2013-05-07 11:45:21,357 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JULIAN' 'BAUMGARTNER' [215999,215999] 3/1/2013 9:08:02 AM
+2013-05-07 11:45:21,366 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'IAN' 'BYRD' [151532,151532] 3/1/2013 9:36:46 AM
+2013-05-07 11:45:21,377 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NEWT' 'COLE' [265138,265138] 3/1/2013 11:43:06 AM
+2013-05-07 11:45:21,387 [1] WARN  com.mattygiedt.RankingEngine - FOUND BY BIKEREG LICENSE WITH NAME CONFLICT
+2013-05-07 11:45:21,388 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANDREW' 'DALEY' [196389,196389] 3/1/2013 9:12:34 AM
+2013-05-07 11:45:21,398 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SHAWN' 'DELK' [97609,97609] 3/1/2013 10:07:58 AM
+2013-05-07 11:45:21,408 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TOM' 'DRIVER' [142034,142034] 3/1/2013 10:30:10 AM
+2013-05-07 11:45:21,418 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ERIC' 'GOODWIN' [203399,203399] 3/1/2013 9:07:23 AM
+2013-05-07 11:45:21,428 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'NATE' 'IDEN' [266664,266664] 3/1/2013 9:33:25 AM
+2013-05-07 11:45:21,437 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'PATRICK' 'MCNALLY' [79872,79872] 3/1/2013 10:33:33 PM
+2013-05-07 11:45:21,447 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JASON' 'MINDEMAN' [208254,208254] 3/1/2013 9:38:57 AM
+2013-05-07 11:45:21,457 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MATTHEW' 'O'KEEFE' [191838,191838] 3/1/2013 9:17:16 AM
+2013-05-07 11:45:21,485 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TODD' 'WENDELL' [,82335] 3/4/2013 11:57:32 AM
+2013-05-07 11:45:21,495 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'JOHN' 'WHIPPLE' [282898,282898] 4/23/2013 5:56:13 PM
+2013-05-07 11:45:21,503 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'TRISTAN' 'WHITEHEAD' [299151,299151] 3/1/2013 9:09:52 AM
+2013-05-07 11:45:21,522 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Masters 45+ Category 1/2/3/4
+2013-05-07 11:45:21,522 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ROBERT' 'BLECK' [131568,131568] 4/22/2013 2:14:12 PM
+2013-05-07 11:45:21,533 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'DAN' 'RUDRUD' [189312,189312] 4/22/2013 11:54:21 AM
+2013-05-07 11:45:21,546 [1] INFO  com.mattygiedt.RiderRank -  generating rider list for: Women Category 3/4
+2013-05-07 11:45:21,546 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'VANESSA' 'BUCCELLA' [296051,296051] 5/6/2013 4:24:16 PM
+2013-05-07 11:45:21,572 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KELLY' 'CLARKE' [334580,334580] 5/6/2013 3:52:50 PM
+2013-05-07 11:45:21,598 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'KRISTEN' 'COLEMAN' [377857,377857] 4/30/2013 1:26:49 AM
+2013-05-07 11:45:21,624 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'LINDSEY' 'FAHEY' [397587,397587] 5/6/2013 4:20:27 PM
+2013-05-07 11:45:21,650 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'ANNA' 'LUCKOW' [365847,365847] 4/2/2013 9:30:43 PM
+2013-05-07 11:45:21,676 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'MICHELLE' 'MOORE' [386382,386382] 5/7/2013 10:13:00 AM
+2013-05-07 11:45:21,702 [1] DEBUG com.mattygiedt.RankingEngine - Finding rider: 'SUE' 'WELLINGHOFF' [311622,311622] 3/1/2013 12:39:59 PM

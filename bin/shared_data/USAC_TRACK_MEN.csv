@@ -1,0 +1,2416 @@
+POINTS,FIRST_NAME,LAST_NAME,CITY,STATE,LICENSE,AGE,SEX,DISCIPLINE,CATEGORY
+261.19,Bobby, Lea,Mertztown,PA,65819,30,M,Track:PR,PR
+335.88,Ian, Moir,Long Beach,CA,218004,22,M,Track:PR,PR
+344.03,John, (Jackie) Simes,Alburtis,PA,150549,25,M,Track:PR,PR
+472.40,Charles, (Joe) Eldridge,Alpharetta,GA,194777,31,M,Track:PR,PR
+548.47,Ian, Burnett,Durango,CO,191725,27,M,Track:PR,PR
+561.85,David, Williams,Grand Rapids,MI,225765,25,M,Track:PR,PR
+592.50,Shane, Kline,Bally,PA,192584,24,M,Track:PR,PR
+309.41,Stefan, Rothe,Austin,TX,205741,32,M,Track:PR,01
+313.11,Daniel, Holloway,Morgan Hill,CA,181725,26,M,Track:PR,01
+323.62,Zachary, Kovalcik,Portland,OR,266774,30,M,Track:PR,01
+346.86,Collin, Berry,Huntington Beach,CA,298247,20,M,Track:PR,01
+364.22,Robert, Evans,Scotts Valley,CA,72893,35,M,Track:PR,01
+381.97,Austin, Carroll,Orange,CA,192670,26,M,Track:PR,01
+386.57,Liam, Donoghue,Boulder,CO,206188,29,M,Track:PR,01
+387.32,Danny, Heeley,Hermosa Beach,CA,247147,22,M,Track:PR,01
+395.47,Zack, Noonan,Kutztown,PA,249618,21,M,Track:PR,01
+399.62,Colt, Peterson,Huntington Beach,CA,287772,21,M,Track:PR,01
+483.42,Robert, Bodamer,Humble,TX,47069,51,M,Track:PR,01
+492.08,Phillip, Stephens,Kirkland,WA,47146,45,M,Track:PR,01
+498.44,Lawrence, Stoegbauer,Chicago,IL,249042,43,M,Track:PR,01
+501.77,Curtis, Tolson,Louisville,KY,46006,50,M,Track:PR,01
+504.37,Zachary, Carlson,Plano,TX,277433,18,M,Track:PR,01
+506.08,James, Flynn,Port Orchard,WA,51090,44,M,Track:PR,01
+519.45,Ian, Mensher,Seattle,WA,156693,34,M,Track:PR,01
+520.31,Aaron, Berntson,Port Orchard,WA,179545,49,M,Track:PR,01
+522.07,Zachary, Jones,Kent,WA,225834,33,M,Track:PR,01
+528.60,Conor, Klupar,Fall City,WA,250108,19,M,Track:PR,01
+535.14,Andrew, Carlberg,Bryan,TX,283020,23,M,Track:PR,01
+536.22,Emile, Abraham,Atlanta,GA,222021,39,M,Track:PR,01
+542.08,Ted, Kicey,Houston,TX,52884,52,M,Track:PR,01
+545.55,Chris, Carlson,Plano,TX,6135,50,M,Track:PR,01
+550.24,Mark, Gorman,Philadelphia,PA,54963,43,M,Track:PR,01
+551.04,Jacob, Duehring,Irvine,CA,288548,28,M,Track:PR,01
+552.16,Barry, Miller,Kutztown,PA,197897,25,M,Track:PR,01
+552.35,Andrew, Nevitt,Saratoga,CA,47463,49,M,Track:PR,01
+553.07,Jeffrey, Whiteman,Chicago,IL,181146,36,M,Track:PR,01
+553.17,Logan, Owen,Bremerton,WA,222488,18,M,Track:PR,01
+554.10,Adam, Leibovitz,Indianapolis,IN,221190,22,M,Track:PR,01
+555.22,David, Moyer,Honolulu,HI,273323,29,M,Track:PR,01
+556.13,Darin, Marhanka,Pickens,SC,51475,48,M,Track:PR,01
+556.84,Andres, Gonzalez,Katy,TX,236824,29,M,Track:PR,01
+559.49,Andrew, Armstrong,Dallas,TX,187559,31,M,Track:PR,01
+560.27,John, Tomlinson,Chicago,IL,239266,21,M,Track:PR,01
+560.71,Keith, Harper,Boulder,CO,46856,44,M,Track:PR,01
+561.69,Al, Urbanski,Portland,OR,262778,29,M,Track:PR,01
+562.59,Alex, Wieseler,Indianapolis,IN,207324,24,M,Track:PR,01
+562.71,David, Matthews,Seattle,WA,52628,45,M,Track:PR,01
+564.36,Gary, Brown,Auburn,WA,5069,41,M,Track:PR,01
+564.39,Eric, Workowski,Kutztown,PA,103440,43,M,Track:PR,01
+564.50,Patrick, Warner,Boulder,CO,37254,44,M,Track:PR,01
+566.53,Eduardo, Nieuwenhuyzen,Saint Louis,MO,232361,36,M,Track:PR,01
+569.48,Derek, Wilkerson,Issaquah,WA,52173,34,M,Track:PR,01
+570.18,David, McIntosh,Colorado Springs,CO,49024,43,M,Track:PR,01
+571.72,James, Stangeland,Seattle,WA,208222,33,M,Track:PR,01
+572.07,Gregory, Pent,Boulder,CO,47422,42,M,Track:PR,01
+573.20,Aaron, Levin,Mercer Island,WA,46828,45,M,Track:PR,01
+573.96,Armin, Rahm,S Pasadena,CA,96655,45,M,Track:PR,01
+576.40,Taylor, Fenstermacher,Redondo Beach,CA,52735,50,M,Track:PR,01
+577.55,Ryan, Sullivan,Nashville,TN,305979,29,M,Track:PR,01
+578.59,Butch, Stinton,Castle Rock,CO,34198,61,M,Track:PR,01
+583.06,Andrew, Kruse,Minneapolis,MN,160686,33,M,Track:PR,01
+583.92,Patric, Rostel,Grandjunction,CO,301113,27,M,Track:PR,01
+584.17,Ryan, Crissey,Garland,TX,133,41,M,Track:PR,01
+584.17,Wilhelmus, Zegers,Weston,FL,83470,50,M,Track:PR,01
+584.51,Joseph, Walsh,Chesterfield,MO,37090,49,M,Track:PR,01
+585.60,David, Scheetz,Andreas,PA,46136,50,M,Track:PR,01
+585.96,Bryan, Smith,Seattle,WA,50504,52,M,Track:PR,01
+588.33,Fortunato, Desario,Miami,FL,45257,59,M,Track:PR,01
+592.21,L Scott Porter,L Scott Porter,Flower Mound,TX,28463,60,M,Track:PR,01
+596.67,Matthew, Baranoski,Perkasie,PA,213251,20,M,Track:PR,01
+596.67,Joseph, LaCour,Mansfield,TX,171332,40,M,Track:PR,01
+596.67,John, Walsh,Playa Del Rey,CA,37101,50,M,Track:PR,01
+357.64,Daniel, Holt,Alpharetta,GA,63559,32,M,Track:PR,02
+367.46,Keith, Hillier,Millbrae,CA,276108,29,M,Track:PR,02
+383.69,Jason, Meidhof,Bethesda,MD,143088,39,M,Track:PR,02
+419.06,Martin, Vecchio,Detroit,MI,289623,28,M,Track:PR,02
+421.68,Daniel, Gay,Temecula,CA,214863,18,M,Track:PR,02
+479.73,Thomas, Wick,Seattle,WA,204808,44,M,Track:PR,02
+484.40,Brendan, Sharpe,Austin,TX,205553,30,M,Track:PR,02
+493.11,Ronald, Sielinski,Redmond,WA,260190,49,M,Track:PR,02
+494.56,peter, baughman,Carnation,WA,243415,41,M,Track:PR,02
+497.62,Griffin, Easter,Durango,CO,282590,22,M,Track:PR,02
+498.31,Cameron, Forsythe,Woodinville,WA,12059,36,M,Track:PR,02
+506.66,Lucas, Binder,San Diego,CA,262024,24,M,Track:PR,02
+510.76,Matthew, Haldeman,Mountlake Ter,WA,14657,45,M,Track:PR,02
+511.10,Robert, Isner,Issaquah,WA,257680,51,M,Track:PR,02
+514.00,Scott, Vinson,Bellevue,WA,70843,47,M,Track:PR,02
+517.61,Paul, Drees,Avondale,PA,193282,50,M,Track:PR,02
+520.71,Karl, Cunningham,Seattle,WA,293139,28,M,Track:PR,02
+524.65,Craig, Connors,Bainbridge Island,WA,277212,46,M,Track:PR,02
+525.14,Rory, Jack,Seattle,WA,329332,22,M,Track:PR,02
+526.46,Cameron, Reider,Easton,PA,41251,42,M,Track:PR,02
+526.69,Bobby, Unverzagt,Torrance,CA,253787,19,M,Track:PR,02
+529.02,Bill, Booth,Seattle,WA,333350,32,M,Track:PR,02
+529.32,Conrad, Kornmann,Seattle,WA,237292,36,M,Track:PR,02
+529.44,Joshua, Simpson,Seattle,WA,256802,38,M,Track:PR,02
+530.01,Guy, Tucker,Bellingham,WA,252718,42,M,Track:PR,02
+530.52,William, Kirk Robinson,Redmond,WA,151412,36,M,Track:PR,02
+530.56,Matthew, Herz,Shoreline,WA,191831,33,M,Track:PR,02
+531.34,David, DiPetrillo,Sammamish,WA,314732,28,M,Track:PR,02
+532.46,Johnathan, Freter,Columbus,OH,266654,21,M,Track:PR,02
+533.76,Colton, Barrett,Indianapolis,IN,224589,22,M,Track:PR,02
+534.22,Daniel, Tomko,Bellevue,WA,296954,37,M,Track:PR,02
+536.01,E Eric Johnson,E Eric Johnson,Seattle,WA,204929,49,M,Track:PR,02
+537.06,Tony, Cordova,Mercer Island,WA,336548,30,M,Track:PR,02
+538.19,David, Novak,Tunkhannock,PA,268729,20,M,Track:PR,02
+541.58,Thomas, Briney,Chicago,IL,274455,30,M,Track:PR,02
+542.66,Harrison, Devine,Bellevue,WA,290027,17,M,Track:PR,02
+542.70,Chris, Weber,Woodinville,WA,280946,43,M,Track:PR,02
+543.97,Daniel, Casper,Northfield,MN,214654,47,M,Track:PR,02
+546.14,Stanley, Terusaki,Livermore,CA,35241,54,M,Track:PR,02
+547.05,Nathaniel, Pitts,Seattle,WA,304664,25,M,Track:PR,02
+547.33,Michael, Heagney,Libertyville,IL,15584,43,M,Track:PR,02
+549.12,Vern, Cole,Kent,WA,65114,50,M,Track:PR,02
+550.08,Weston, Luzadder,Carmel,IN,240464,23,M,Track:PR,02
+551.43,Alexander, Riva,Pleasant Prairie,WI,260381,18,M,Track:PR,02
+552.08,Peter, Lucke,Louisville,CO,21761,47,M,Track:PR,02
+552.12,Donald, Langley,Morgan Hill,CA,20327,51,M,Track:PR,02
+552.87,John, Kelly,Indianapolis,IN,18827,45,M,Track:PR,02
+553.07,Jeromy, Cottell,Redwood City,CA,273912,38,M,Track:PR,02
+553.71,Kevin, Depasse,Bloomington,IN,323640,24,M,Track:PR,02
+554.34,Eric, Waterman,Seattle,WA,199360,50,M,Track:PR,02
+554.85,Jake, Boone,Hurst,TX,284344,20,M,Track:PR,02
+556.67,Craig, Jones,Katy,TX,280908,45,M,Track:PR,02
+556.98,Jonathan, Chambers,Hellertown,PA,198998,35,M,Track:PR,02
+557.13,Robert, McDaniel,Seattle,WA,284692,35,M,Track:PR,02
+557.44,Robert, Ryan,Lambertville,NJ,31001,47,M,Track:PR,02
+557.45,Brian, Rady,Chicago,IL,345470,32,M,Track:PR,02
+558.74,Brian, Evans,Macungie,PA,292568,40,M,Track:PR,02
+558.82,Mark, Winston,Skokie,IL,149826,48,M,Track:PR,02
+560.00,Kaleb, Koch,Glenview,IL,265924,19,M,Track:PR,02
+562.23,Jonathan, Davy,Torrance,CA,154991,38,M,Track:PR,02
+562.83,Daniel, Koski-Karell,Seattle,WA,259540,33,M,Track:PR,02
+563.89,Matthew, Valencia,Los Altos,CA,255576,17,M,Track:PR,02
+563.89,Jordan, Cullen,Hudson,WI,229280,18,M,Track:PR,02
+564.31,Thomas, Cuneio,Lake Saint Louis,MO,264312,41,M,Track:PR,02
+565.22,Timothy, Nixon,Bloomington,IN,337314,23,M,Track:PR,02
+565.26,Robert, Higgins,Chicago,IL,301873,43,M,Track:PR,02
+565.33,Glen, Winkel,Colorado Springs,CO,38640,58,M,Track:PR,02
+565.56,Doug, Fagan,Indianapolis,IN,205802,30,M,Track:PR,02
+566.54,Barry, Messmer,Fort Collins,CO,51850,63,M,Track:PR,02
+569.23,William, Fiser,Houston,TX,258668,27,M,Track:PR,02
+569.27,Daryl, Hemenway,San Jose,CA,133838,43,M,Track:PR,02
+569.66,Scott, Farmer,Fogelsville,PA,143369,46,M,Track:PR,02
+569.72,Jeffrey, Pyatt,Bellevue,WA,52532,54,M,Track:PR,02
+570.31,Daniel, Verner,Island Lake,IL,51737,47,M,Track:PR,02
+570.74,Joseph, Holmes,Bremerton,WA,16599,46,M,Track:PR,02
+571.18,Cory, Scott,Richmond,VA,253558,26,M,Track:PR,02
+572.05,Robert, Black,Auburn,AL,70439,56,M,Track:PR,02
+572.55,Joe, Dickerson,Los Gatos,CA,306664,26,M,Track:PR,02
+572.57,Steven, Worley,Boulder,CO,47502,62,M,Track:PR,02
+572.64,Edgar, Nunnelly,Houston,TX,117,41,M,Track:PR,02
+573.19,Grant, Mills,Mc Kinney,TX,330116,19,M,Track:PR,02
+573.33,Mike, Macdonald,Rancho Cordova,CA,45626,72,M,Track:PR,02
+573.73,Charles, (Mac) Cassin,Denver,CO,287030,22,M,Track:PR,02
+573.93,Lawrence, Bosch,Fort Collins,CO,4314,68,M,Track:PR,02
+574.44,Gregory, Ratzell,Blandon,PA,230201,18,M,Track:PR,02
+574.53,Lucas, Wardein,Naples,FL,233364,19,M,Track:PR,02
+575.00,Paul, Mittelstadt,Bethesda,MD,45693,56,M,Track:PR,02
+575.13,Ed, Amdahl,Redmond,WA,268589,44,M,Track:PR,02
+575.28,Colin, Gibson,Seattle,WA,250723,26,M,Track:PR,02
+575.57,Roman, Kilun,Oakland,CA,153790,32,M,Track:PR,02
+575.84,Ryan, Shean,Indianapolis,IN,290397,26,M,Track:PR,02
+576.53,James, Host,Plainfield,IL,126420,57,M,Track:PR,02
+576.59,Joseph, Paulson,Boulder,CO,46650,53,M,Track:PR,02
+576.67,Ron, Good,Naperville,IL,268828,55,M,Track:PR,02
+578.51,Brent, Emoff,Portland,OR,259427,29,M,Track:PR,02
+578.58,Gregory, White,Lafayette,CA,246669,29,M,Track:PR,02
+578.77,Keith, Ketterer,Camarillo,CA,48434,58,M,Track:PR,02
+578.89,Andrew, Brennan,Manasquan,NJ,70112,43,M,Track:PR,02
+579.04,Harley, Sheffield,Bellevue,WA,63148,50,M,Track:PR,02
+579.37,Thorsten, Askervold,Lake Stevens,WA,299287,17,M,Track:PR,02
+580.00,Chip, Berezny,Coopersburg,PA,45079,62,M,Track:PR,02
+580.00,Joel, Hawks,Plano,TX,284976,44,M,Track:PR,02
+580.00,Devin, Clark,St. Louis,MO,186238,29,M,Track:PR,02
+580.00,Michael, Gacki,Frisco,TX,58983,47,M,Track:PR,02
+580.00,Kevin, Phillips,Redondo Beach,CA,28056,40,M,Track:PR,02
+580.00,John, Elgart,Sacramento,CA,45071,67,M,Track:PR,02
+580.06,Raul, Arias J.R.,East Palo Alto,CA,366768,18,M,Track:PR,02
+581.05,Stephen, Sperry,Spartanburg,SC,46890,51,M,Track:PR,02
+581.39,Shannon, Malmquist,Miami,FL,58174,38,M,Track:PR,02
+581.47,David, Morse,Indianapolis,IN,215016,27,M,Track:PR,02
+581.51,Thomas, Lobdell,Indianapolis,IN,45607,66,M,Track:PR,02
+581.60,Andreas, Freund,Berkeley,CA,222320,21,M,Track:PR,02
+582.09,Sam, Harbison,Bloomington,IN,309939,23,M,Track:PR,02
+582.22,William, Hallberg,Indianapolis,IN,312998,44,M,Track:PR,02
+582.56,Isaiah, Newkirk,Indianapolis,IN,282064,23,M,Track:PR,02
+582.73,Sean, Burke,San Diego,CA,138946,39,M,Track:PR,02
+582.78,Todd, Scheske,Rochester,NY,50510,43,M,Track:PR,02
+582.95,Ryan, Perlman,Sammamish,WA,130051,41,M,Track:PR,02
+583.10,Bruce, Gordon,South Bend,IN,100338,56,M,Track:PR,02
+583.25,Carl, Westergren,Jacksonville,FL,37816,56,M,Track:PR,02
+583.88,Brian, Griffith,Seattle,WA,14184,57,M,Track:PR,02
+584.17,Andrzej, Banaszkiewicz,Indianapolis,IN,263833,38,M,Track:PR,02
+584.61,Fergus, Tanaka,San Francisco,CA,304367,33,M,Track:PR,02
+585.56,Roman, Morozov,Miami Beach,FL,67282,38,M,Track:PR,02
+585.56,Luke, Bligh,Saint Louis,MO,280844,33,M,Track:PR,02
+585.56,Bennie, Flores,Pride,LA,52111,43,M,Track:PR,02
+585.56,Robert, Mayfield,Saint Louis,MO,275501,28,M,Track:PR,02
+586.05,Wes, Harris,Bloomington,IN,15233,52,M,Track:PR,02
+586.46,Neal, Shepherd,Palm Coast,FL,244277,20,M,Track:PR,02
+586.67,George, Geier,Marion,IN,46633,62,M,Track:PR,02
+586.94,Alexander, Gil,Hialeah,FL,228635,24,M,Track:PR,02
+587.55,Ernie, Majarucon,Chicago,IL,247625,49,M,Track:PR,02
+587.73,Dale, Luedtke,Oceanside,CA,47262,59,M,Track:PR,02
+587.74,Matthew, Brandt,St Charles,MO,197984,25,M,Track:PR,02
+587.77,Nathan, Schickel,Indianapolis,IN,303,40,M,Track:PR,02
+588.22,Sam, Stone,North Freedom,WI,213424,22,M,Track:PR,02
+588.33,Brian, Adams,Novi,MI,80614,40,M,Track:PR,02
+588.33,Aaron, Hunter,Santa Cruz,CA,215194,45,M,Track:PR,02
+588.56,Alan, Buday,Manorville,NY,167365,46,M,Track:PR,02
+589.01,Zachary, LaBry,Somerville,MA,235849,27,M,Track:PR,02
+589.59,Brad, DeMott,Shelbyville,IN,9179,57,M,Track:PR,02
+589.97,Victor, Williams,Lonetree,CO,38436,51,M,Track:PR,02
+590.26,Chad, Burdzilauskas,Indianapolis,IN,122674,35,M,Track:PR,02
+590.28,Thomas, Schubert,Murrells Inlet,SC,291477,21,M,Track:PR,02
+590.49,Andrew, Utz,Portland,OR,272448,31,M,Track:PR,02
+590.65,Paul, Mack,Longmont,CO,22026,63,M,Track:PR,02
+592.05,Matt, Jones,Indianapolis,IN,239173,26,M,Track:PR,02
+593.39,Blaine, Benson,Birmingham,MI,268471,23,M,Track:PR,02
+593.65,David, McCook,Mountain View,CA,66627,44,M,Track:PR,02
+594.44,William, Pedler,Golden,CO,207726,53,M,Track:PR,02
+594.83,Matt, Gittings,Indianapolis,IN,359006,21,M,Track:PR,02
+595.28,Michel, Mouly Jr,Fort Lauderdale,FL,65848,36,M,Track:PR,02
+596.65,Zachary, Felpel,Willowstreet,PA,220467,23,M,Track:PR,02
+596.66,Alexander, Freund,Davis,CA,222322,19,M,Track:PR,02
+596.67,John, Puffer,Indianapolis,IN,116272,40,M,Track:PR,02
+596.67,Zachary, Semian,Mertztown,PA,250164,20,M,Track:PR,02
+596.67,Brian, Gristick,Budd Lake,NJ,191647,56,M,Track:PR,02
+596.67,George, Meilahn,Antioch,CA,166581,53,M,Track:PR,02
+514.48,Jerry, Shafer,Seattle,WA,54693,66,M,Track:PR,03
+525.31,Paul, Beaudoin,Bellevue,WA,325660,52,M,Track:PR,03
+529.67,Michael, Klisch,Carnation,WA,44109,50,M,Track:PR,03
+531.61,Michael, Thornton,Issaquah,WA,295555,45,M,Track:PR,03
+534.56,Mike, Freimann,Port Orchard,WA,342260,48,M,Track:PR,03
+536.19,Kyle, Watson,Redmond,WA,278072,40,M,Track:PR,03
+537.37,Jason, Corbridge,Redmond,WA,293327,28,M,Track:PR,03
+537.62,Mark, Sommers,Washington,DC,149858,57,M,Track:PR,03
+538.28,Will, Niemann-Ross,Portland,OR,272436,26,M,Track:PR,03
+538.30,Zqwan, Peterson,Kirkland,WA,109655,47,M,Track:PR,03
+539.30,Sean, Maginness,Snoqualmie,WA,252671,43,M,Track:PR,03
+540.00,Eric, Anderson,Bloomington,IN,266766,23,M,Track:PR,03
+540.00,Jordie, Field,Lake Forest,IL,353596,48,M,Track:PR,03
+540.00,jason, connell,Lynnwood,WA,305679,40,M,Track:PR,03
+540.20,Sylvio, Bravetti,Brier,WA,144794,36,M,Track:PR,03
+540.26,Samuele, Bianchi,Chicago,IL,278914,15,M,Track:PR,03
+541.15,Peter, Hinckley,Seattle,WA,328706,43,M,Track:PR,03
+541.32,Lars, Pedersen,Snohomish,WA,304399,44,M,Track:PR,03
+541.59,Grzegorz, Monko,Buffalo Grove,IL,381944,38,M,Track:PR,03
+542.16,Warren, McAndrew,Edmonds,WA,321144,39,M,Track:PR,03
+542.75,Landon, Sealey,Federal Way,WA,308514,37,M,Track:PR,03
+543.20,Kristian, Miller,Bozeman,MT,292040,25,M,Track:PR,03
+543.31,mark, mirante,Bellevue,WA,293125,48,M,Track:PR,03
+543.66,Robbin, Goldfoos,Maple Valley,WA,196376,57,M,Track:PR,03
+544.04,Derek, Churchyard,Woodinville,WA,339716,45,M,Track:PR,03
+544.17,Mathew, York,Dallas,TX,292077,42,M,Track:PR,03
+544.54,Brandon, Feehery,Homewood,IL,193035,21,M,Track:PR,03
+545.34,Eric, Biermann,Everett,WA,256422,39,M,Track:PR,03
+545.64,Gentry, McGrath,Bellevue,WA,23499,44,M,Track:PR,03
+546.25,Andy, Dobson,Arlington,VA,279105,57,M,Track:PR,03
+546.67,Steve, Cullen,Seattle,WA,211248,37,M,Track:PR,03
+546.99,Randy, Boettcher,Lake Forest Park,WA,62837,36,M,Track:PR,03
+547.27,William, Short,Falls Church,VA,96204,46,M,Track:PR,03
+548.07,Justin, Leong,Los Altos,CA,280621,15,M,Track:PR,03
+548.10,Patrick, Meyer,Skokie,IL,58676,45,M,Track:PR,03
+548.19,Robert, Gauss,Kenosha,WI,45366,41,M,Track:PR,03
+548.73,Kenneth, Dong,Seattle,WA,294079,46,M,Track:PR,03
+551.50,Jeffrey, Baird,Seattle,WA,247614,60,M,Track:PR,03
+552.34,Thomas, Donohue,Seattle,WA,238989,50,M,Track:PR,03
+552.51,Joshua, Gerak,Seattle,WA,256081,52,M,Track:PR,03
+553.24,Scott, Baumer,Indianapolis,IN,353428,28,M,Track:PR,03
+555.28,Jon, Lazard,Marion,IN,55674,51,M,Track:PR,03
+555.86,jason, cameron,Seattle,WA,288763,47,M,Track:PR,03
+559.45,John, Cline,Chicago,IL,265399,47,M,Track:PR,03
+560.51,Larry, Wolff,Sacramento,CA,219527,63,M,Track:PR,03
+560.53,Jeffery, Nettles,Seattle,WA,159943,50,M,Track:PR,03
+560.88,James, Day,Austin,TX,276837,22,M,Track:PR,03
+561.22,Christopher, Burns,Glen Allen,VA,221792,43,M,Track:PR,03
+561.25,Sebastian, York,Dallas,TX,307679,16,M,Track:PR,03
+561.96,Thomas, Gentry,Seattle,WA,97034,42,M,Track:PR,03
+562.22,Mark, McMurry,La Place,LA,50922,54,M,Track:PR,03
+564.17,Mark, Harris,Northbrook,IL,115364,43,M,Track:PR,03
+564.24,Steven, Carrell,Norcross,GA,6251,49,M,Track:PR,03
+564.30,Christopher, Adolf,Everett,WA,1204,51,M,Track:PR,03
+564.88,Ed, Thiemann,Bothell,WA,316058,53,M,Track:PR,03
+565.44,Voytek, Glinkowski,Buffalo Grove,IL,250244,54,M,Track:PR,03
+565.55,Bret, Sehorn,Kirkland,WA,88190,53,M,Track:PR,03
+566.87,Hyun, Lee,Bothell,WA,50227,42,M,Track:PR,03
+568.33,Chad, Farmer,Chicago,IL,115451,39,M,Track:PR,03
+568.84,Andrew, King,Hermosa Beach,CA,67883,54,M,Track:PR,03
+569.00,William, Richter,Rock Hill,SC,250330,19,M,Track:PR,03
+569.44,john, schmitz,Bargersville,IN,315756,52,M,Track:PR,03
+569.81,Michael, Birditt,Escondido,CA,47255,59,M,Track:PR,03
+569.89,Bubba, Melcher,Reno,NV,23961,53,M,Track:PR,03
+569.91,Zack, Allison,Fort Collins,CO,211435,24,M,Track:PR,03
+570.03,Grant, McElroy,Portland,OR,264707,15,M,Track:PR,03
+570.13,Garrison, Horton,Mckinney,TX,322974,17,M,Track:PR,03
+570.44,Peter, Stocker,Seattle,WA,34214,50,M,Track:PR,03
+570.73,Daniel, Tinklepaugh,Lewisville,TX,49901,53,M,Track:PR,03
+571.67,Carlos, Perea,Baton Rouge,LA,355122,24,M,Track:PR,03
+572.50,Mark, Alford,Indianapolis,IN,307004,26,M,Track:PR,03
+573.08,Luke, Momper,Fort Wayne,IN,339018,22,M,Track:PR,03
+573.89,Kyle, Sanders,Cypress,TX,261033,18,M,Track:PR,03
+574.15,Jordan, Marhanka,Pickens,SC,293467,16,M,Track:PR,03
+574.72,Andrew, (Drew) Tucker,Richardson,TX,145515,48,M,Track:PR,03
+574.73,Michael, Hart,Indianapolis,IN,314910,20,M,Track:PR,03
+575.05,Zeke, Mostov,San Francisco,CA,294912,17,M,Track:PR,03
+575.95,Broderick, Hartley,Lilburn,GA,256892,16,M,Track:PR,03
+576.67,Douglas, Evans,Katy,TX,367586,45,M,Track:PR,03
+576.85,Gavin, Hoover,Manhattan Beach,CA,280682,16,M,Track:PR,03
+577.50,Thomas, Revard,Carmel,IN,318688,16,M,Track:PR,03
+578.21,James, Brookshire,Hendersonville,NC,276390,15,M,Track:PR,03
+578.60,Eric, Myers,Glencoe,IL,320876,44,M,Track:PR,03
+578.65,Chazmichael, Morales,El Segundo,CA,280745,16,M,Track:PR,03
+578.75,Paul, Sollenberger,Dallas,TX,168161,28,M,Track:PR,03
+578.75,Peter, Czapiewski,Alexandria,VA,93207,58,M,Track:PR,03
+578.82,Jay, Wolkoff,Altadena,CA,38811,55,M,Track:PR,03
+578.89,Nathan, Labecki,Milwaukee,WI,209414,19,M,Track:PR,03
+579.04,Max, Ryan,Chicago,IL,356597,17,M,Track:PR,03
+579.64,Gregory, Auld,Golden,CO,91454,44,M,Track:PR,03
+580.00,Craig, Parker,Mill Valley,CA,127588,52,M,Track:PR,03
+580.00,Stanley, Prutz,Baton Rouge,LA,229031,56,M,Track:PR,03
+580.00,Spencer, Moak,Katy,TX,339808,42,M,Track:PR,03
+580.00,David, Hicken,Rochester Hills,MI,251192,51,M,Track:PR,03
+580.00,Devin, Carroll,Austin,TX,227547,27,M,Track:PR,03
+580.00,Scott, Bond,Greenfield,IN,190551,49,M,Track:PR,03
+580.00,Giancarlo, Bianchi,Miami,FL,179136,29,M,Track:PR,03
+580.00,Chris, Cain,Monterey,CA,339008,34,M,Track:PR,03
+580.00,David, Bozak,Hollidaysburg,PA,155889,38,M,Track:PR,03
+580.00,Neil, Laxamana,Milpitas,CA,383873,17,M,Track:PR,03
+580.00,Jos, Chalmers,Indian Harbour Beach,FL,271372,20,M,Track:PR,03
+580.00,Mark, Wagner,Saint James,NY,253551,27,M,Track:PR,03
+580.00,Greg, Langer,Falls Church,VA,20324,51,M,Track:PR,03
+580.00,William, Fallis,San Mateo,CA,45315,72,M,Track:PR,03
+580.30,John, Ryan,Carmel,IN,278498,40,M,Track:PR,03
+580.45,Grayson, Brookshire,Hendersonville,NC,258439,17,M,Track:PR,03
+580.83,Chuck, Judy,Chicago,IL,18341,51,M,Track:PR,03
+581.19,Jacob, MacArthur,Wenatchee,WA,203580,26,M,Track:PR,03
+581.35,James, Mellen,Schnecksville,PA,356116,17,M,Track:PR,03
+581.67,Steven, Lindell,Bellevue,WA,218873,54,M,Track:PR,03
+582.25,James, Hilyer,Trabuco Canyon,CA,291935,17,M,Track:PR,03
+582.64,Spencer, Oswald,Dubuque,IA,231748,21,M,Track:PR,03
+582.78,Will, Gleason,New Albany,OH,231092,20,M,Track:PR,03
+582.78,Zachary, Slavens,Saint Louis,MO,357850,23,M,Track:PR,03
+583.15,Richard, Rainville,Livonia,MI,305239,17,M,Track:PR,03
+583.33,Alexander, Voitik,Champaign,IL,184412,28,M,Track:PR,03
+583.42,Kurt, Broadhag,Los Angeles,CA,157173,43,M,Track:PR,03
+584.17,Eric, Andreus,Fogelsville,PA,102227,42,M,Track:PR,03
+584.17,Vance, Fletcher,Chariton,IA,278921,20,M,Track:PR,03
+584.41,Dave, Maminski,Campbell,CA,270067,52,M,Track:PR,03
+584.62,David, Mulica,Littleton,CO,48181,64,M,Track:PR,03
+584.70,Clark, Natwick,San Mateo,CA,25743,55,M,Track:PR,03
+585.00,James, Bellora,Falls Church,VA,132954,53,M,Track:PR,03
+585.00,Steven, Benni,Chicago,IL,271725,35,M,Track:PR,03
+585.19,Timothy, Jenkinson,Mars Hill,NC,325110,22,M,Track:PR,03
+585.49,David, Beitel,Conifer,CO,298098,56,M,Track:PR,03
+585.53,John, Carrica,Bellevue,WA,174289,45,M,Track:PR,03
+585.56,Stephen, Frattini,Port Washington,NY,126675,31,M,Track:PR,03
+585.56,Dave, Weaver,Towson,MD,37442,42,M,Track:PR,03
+585.56,Anthony, Bruley,Rochester Hills,MI,80460,44,M,Track:PR,03
+585.56,John, Licatesi,Davis,CA,183265,46,M,Track:PR,03
+585.56,John, Cheetham,Pleasanton,CA,202515,47,M,Track:PR,03
+585.56,Dustin, Drewes,Baton Rouge,LA,281156,23,M,Track:PR,03
+586.25,Joshua, Ballard,Richardson,TX,177319,42,M,Track:PR,03
+586.43,Robert, Webb,Bethlehem,PA,183612,42,M,Track:PR,03
+586.67,Peter, Moore,Niwot,CO,307655,71,M,Track:PR,03
+587.21,Jeffrey, Wardell,Boulder,CO,155512,45,M,Track:PR,03
+587.84,Tony, Veteri,Sammamish,WA,177397,45,M,Track:PR,03
+588.33,Aaron, Hauck,Ridgewood,NY,299800,35,M,Track:PR,03
+588.33,Daniel, Underwood,Reston,VA,63111,39,M,Track:PR,03
+588.33,John, Petrakis,Sonoma,CA,27937,67,M,Track:PR,03
+588.33,Said, Assali,Houston,TX,353912,30,M,Track:PR,03
+588.33,Robert, Kowal,Hillsborough,NJ,191926,56,M,Track:PR,03
+588.33,Kenny, Strickland,San Ramon,CA,270965,21,M,Track:PR,03
+588.34,Joshua, Prater,Indianapolis,IN,28616,35,M,Track:PR,03
+589.17,David, Gulick,Phoenixville,PA,45409,51,M,Track:PR,03
+589.17,Christopher, Day,Zionsville,IN,300120,22,M,Track:PR,03
+589.97,Sean, Tanabe,Seattle,WA,255667,39,M,Track:PR,03
+590.00,Mark, Neumann,Manhattan Beach,CA,256387,52,M,Track:PR,03
+590.15,Dean, Alleger,Sacramento,CA,196784,48,M,Track:PR,03
+591.11,Aidan, Kesner,Lexington,MA,353160,19,M,Track:PR,03
+591.11,Jacob, Schilling,Racine,WI,255842,17,M,Track:PR,03
+591.11,Shin, Umeda,Sunnyvale,CA,46023,54,M,Track:PR,03
+591.11,Ken, Sato,Santa Cruz,CA,82199,47,M,Track:PR,03
+591.11,Nick, Laughton,Rochester,MI,233026,45,M,Track:PR,03
+591.25,Gunnar, Scheck,Plano,TX,259935,16,M,Track:PR,03
+591.56,Nicholas, Grigsby,London,KY,228975,24,M,Track:PR,03
+592.50,Esteban, Arniella,Fort Lauderdale,FL,240874,36,M,Track:PR,03
+593.33,John, Bergman,Los Alamitos,CA,171706,54,M,Track:PR,03
+593.34,Eldon, Criswell,Alvin,TX,174416,63,M,Track:PR,03
+595.38,Brian, Ellison,Chicago Heights,IL,310844,22,M,Track:PR,03
+596.10,Michael, Souers,Fort Wayne,IN,196033,25,M,Track:PR,03
+596.66,Peter, Banko,Seattle,WA,46648,66,M,Track:PR,03
+596.66,Corey, Sepanski,Mount Pleasant,WI,333378,44,M,Track:PR,03
+596.67,Randall, Legeai,New Orleans,LA,45586,60,M,Track:PR,03
+596.67,Carl, Jones,Houston,TX,41109,52,M,Track:PR,03
+596.67,Art, Hicks,Racine,WI,255412,62,M,Track:PR,03
+596.67,Joshua, Schwiesow,Golden,CO,277942,36,M,Track:PR,03
+596.67,Max, Rogozinski,Woodbridge,VA,142114,60,M,Track:PR,03
+596.67,Harry, Morton,Clovis,CA,45712,70,M,Track:PR,03
+596.67,Ben, Williams,Dumfries,VA,38299,70,M,Track:PR,03
+596.67,Peter, Siegfried,Fogelsville,PA,160817,53,M,Track:PR,03
+596.67,Andreas, Vogel,San Francisco,CA,237199,48,M,Track:PR,03
+596.67,Steve, Jones,San Jose,CA,272546,45,M,Track:PR,03
+596.67,Anthony, Borba,Campbell,CA,255377,38,M,Track:PR,03
+596.67,John, Singleton,Carmel,IN,181968,53,M,Track:PR,03
+596.67,Erik, Camacho,San Jose,CA,303224,39,M,Track:PR,03
+596.67,Frank, Frederick,Miami,FL,243336,30,M,Track:PR,03
+540.00,Cameron, Croix,Seattle,WA,330074,13,M,Track:PR,04
+540.83,Miles, Johansen,Lynnwood,WA,266855,50,M,Track:PR,04
+542.38,Anders, Pedersen,Snohomish,WA,328344,17,M,Track:PR,04
+543.51,Konrad, Witt,Wood Dale,IL,247336,18,M,Track:PR,04
+544.17,Brennan, Hodgins,Mercer Island,WA,361294,12,M,Track:PR,04
+544.40,James, Shimada,Seattle,WA,356416,38,M,Track:PR,04
+544.85,Ben, Bauman,Seattle,WA,332812,23,M,Track:PR,04
+545.79,Layton, Carroll- Novack,Seattle,WA,368622,15,M,Track:PR,04
+546.67,Travis, Dougan,Kirkland,WA,280758,46,M,Track:PR,04
+546.94,Mike, Jors,Sammamish,WA,282773,16,M,Track:PR,04
+547.21,Mitchell, Thornton,Issaquah,WA,296923,14,M,Track:PR,04
+547.68,Bill, Kusler,Snohomish,WA,287695,57,M,Track:PR,04
+548.34,Erik, Philipson,Seattle,WA,281375,16,M,Track:PR,04
+548.45,Lance, Mooney,Houston,TX,350332,15,M,Track:PR,04
+548.61,Alexander, Walentynowicz,Mill Creek,WA,326272,13,M,Track:PR,04
+552.25,Brian, Bolin,Medina,WA,224629,48,M,Track:PR,04
+553.86,Aaron, Gaylor,Snohomish,WA,113188,46,M,Track:PR,04
+554.28,Bryan, Froehlicher,Arlington Heights,IL,284495,18,M,Track:PR,04
+555.01,Nicholas, McRight,Frisco,TX,333530,15,M,Track:PR,04
+555.49,Jared, Rogers,Chicago,IL,261146,36,M,Track:PR,04
+557.06,Daniel, Haller,Puyallup,WA,312866,47,M,Track:PR,04
+557.17,Timothy, McCormick,Bothell,WA,23329,56,M,Track:PR,04
+557.28,Andrew, Wright,Seattle,WA,284442,32,M,Track:PR,04
+557.49,Marc, Savage,Seattle,WA,350808,51,M,Track:PR,04
+558.42,Erik, Selberg,Seattle,WA,256111,41,M,Track:PR,04
+559.67,David, Parsons,Sammamish,WA,281615,50,M,Track:PR,04
+559.69,Adam, Arlan,Bothell,WA,304274,51,M,Track:PR,04
+559.83,Richard, Orr,Redmond,WA,229975,43,M,Track:PR,04
+560.00,Joshua, Gibson,Katy,TX,354940,13,M,Track:PR,04
+560.00,Jim, Turner,Menlo Park,CA,63449,74,M,Track:PR,04
+562.45,Victor, Morandi,Houston,TX,313036,15,M,Track:PR,04
+562.46,Scott, Perry,Indianapolis,IN,208296,43,M,Track:PR,04
+563.33,Matthew, Hohn,Carmel,IN,307977,23,M,Track:PR,04
+563.71,Luke, Woodard,Mason,OH,328148,20,M,Track:PR,04
+564.13,Cavan, Mcmillan,Stanwood,WA,381660,24,M,Track:PR,04
+567.93,Mackenzie, Dupuy,Naperville,IL,353512,20,M,Track:PR,04
+568.20,Logan, Fox,Bellevue,WA,333184,21,M,Track:PR,04
+568.48,Robert, Annis,Indianapolis,IN,331390,40,M,Track:PR,04
+568.55,Peter, Winski,Katy,TX,311179,16,M,Track:PR,04
+569.69,Sam, Margolis,Hellertown,PA,368379,14,M,Track:PR,04
+571.62,Garrett, Charlson,Issaquah,WA,331232,29,M,Track:PR,04
+572.69,Steven, Dickerson,Deerfield,IL,76282,47,M,Track:PR,04
+572.89,Zach, Prebosnyak,Bethlehem,PA,299289,16,M,Track:PR,04
+573.10,Alec, Ratzell,Blandon,PA,310898,15,M,Track:PR,04
+574.10,Justin, Haley,Bothell,WA,333584,40,M,Track:PR,04
+574.19,Christopher, Winski,Katy,TX,311559,17,M,Track:PR,04
+574.79,Matthew, Morse,Redmond,WA,377674,31,M,Track:PR,04
+575.14,Jules, Gilliam,Manhattan Beach,CA,295492,14,M,Track:PR,04
+575.42,Austin, Schneider,Houston,TX,381524,14,M,Track:PR,04
+575.51,Sean, Price,Baltimore,MD,28702,48,M,Track:PR,04
+575.59,John, Maino,Seattle,WA,340406,27,M,Track:PR,04
+575.74,Yngvar, Brynildssen,Indianapolis,IN,5285,47,M,Track:PR,04
+575.87,Jeremy, Treister,Chicago,IL,230339,42,M,Track:PR,04
+576.10,Jesse, Duncan,Austin,TX,350756,30,M,Track:PR,04
+576.11,William, Wong,Alexandria,VA,121718,42,M,Track:PR,04
+576.37,Rob, Sandusky,Frisco,TX,291129,16,M,Track:PR,04
+576.43,Connor, Westhoff,Plano,TX,369126,17,M,Track:PR,04
+576.59,Jeff, Barrett,Frisco,TX,45060,55,M,Track:PR,04
+577.45,Jason, Fergurson,Chicago,IL,278837,31,M,Track:PR,04
+577.50,Jason, Cobb,Redmond,WA,286911,41,M,Track:PR,04
+578.75,Chris, Dawson,Westfield,IN,129755,40,M,Track:PR,04
+579.09,Victor, Alcazar,Chicago,IL,192948,67,M,Track:PR,04
+579.17,Dale, Harless,Bellevue,WA,57571,70,M,Track:PR,04
+579.24,Nick, Oestreich,Powder Springs,GA,277048,15,M,Track:PR,04
+579.28,Oliver, Perry,Kent,WA,381316,16,M,Track:PR,04
+579.90,Philip, Newman,Seattle,WA,361796,29,M,Track:PR,04
+580.00,Peter, Eckel,Alpharetta,GA,168532,31,M,Track:PR,04
+580.00,Ian, McShane,Louisville,KY,257336,16,M,Track:PR,04
+580.00,Adam, McCullough,Magnolia,TX,308149,29,M,Track:PR,04
+580.00,John, Olinski,New Market,MD,235755,57,M,Track:PR,04
+580.00,Reydesel, Garcia III,Mckinney,TX,310049,13,M,Track:PR,04
+580.00,Graeme, Preston,New Orleans,LA,331200,27,M,Track:PR,04
+580.00,Paul, Heirtzler,Northville,MI,128854,41,M,Track:PR,04
+580.00,Michael, Robinson,Brooklyn,NY,120427,67,M,Track:PR,04
+580.00,Ben, Bradley,Plaquemine,LA,331166,27,M,Track:PR,04
+580.00,Kyle, Perry,Indianapolis,IN,240005,27,M,Track:PR,04
+581.28,John, Skrip,Breinigsville,PA,353394,15,M,Track:PR,04
+581.51,Robert, King,Woodinville,WA,53072,41,M,Track:PR,04
+581.67,Leo, Menestrina,San Jose,CA,117518,71,M,Track:PR,04
+582.08,Jonathan, Hoopingarner,Roseville,MI,364732,22,M,Track:PR,04
+582.21,David, Winski,Katy,TX,311181,17,M,Track:PR,04
+583.33,Greg, Sweney,Duvall,WA,306900,45,M,Track:PR,04
+583.33,Simon, Jones,Milwaukee,WI,291893,14,M,Track:PR,04
+583.33,Dennis, Roberts,Wildwood,MO,265342,52,M,Track:PR,04
+583.85,John, Hill,Mercer Island,WA,286380,34,M,Track:PR,04
+584.05,Donavon, Johnson,Huntington Beach,CA,306450,17,M,Track:PR,04
+584.17,Peter, Rizzo,Martinsville,NJ,172960,58,M,Track:PR,04
+584.17,John, Chamberlain,Great Falls,VA,190901,56,M,Track:PR,04
+584.17,Samuel, Cowans,Philadelphia,PA,313484,21,M,Track:PR,04
+584.17,Ryan, Rapolas,Phoenixville,PA,313046,31,M,Track:PR,04
+584.31,Jawara, OConnor,Renton,WA,367118,42,M,Track:PR,04
+584.95,Jordan, Zhdanov,Van Nuys,CA,291483,17,M,Track:PR,04
+585.55,Felipe, Cardenas,Indianapolis,IN,177206,41,M,Track:PR,04
+585.56,Edward, Fritzinger,Georgetown,IN,292245,14,M,Track:PR,04
+585.69,Fred, Rednor,Arlington,VA,154401,61,M,Track:PR,04
+586.40,Dylan, Gray,Fulshear,TX,305312,15,M,Track:PR,04
+586.49,Yves, Arrouye,Bellevue,WA,301346,43,M,Track:PR,04
+586.67,Jason, Bordelon,Boyce,LA,298245,24,M,Track:PR,04
+586.67,Bryson, Munroe,Plano,TX,381758,13,M,Track:PR,04
+586.75,Nikos, Hessert,Evanston,IL,347054,16,M,Track:PR,04
+586.84,Samuel, Hill,Woodland,CA,318306,14,M,Track:PR,04
+586.97,Christopher, Mailing,Northbrook,IL,46225,56,M,Track:PR,04
+587.42,Nicholas, Tveter,Derry,NH,380066,15,M,Track:PR,04
+587.65,Stephen, Spiller,Flemington,NJ,265410,16,M,Track:PR,04
+587.77,Alfonso, Lopez,Seattle,WA,333054,30,M,Track:PR,04
+587.78,Sean, Hourigan,Brooklyn,NY,193622,35,M,Track:PR,04
+588.33,Michael, Humphreys,Brandon,MS,252422,49,M,Track:PR,04
+588.33,Rene, Saenz,Houston,TX,50265,42,M,Track:PR,04
+588.33,Darren, Linkin,Philadelphia,PA,274396,43,M,Track:PR,04
+588.33,John, Cohen,Newark,DE,45197,60,M,Track:PR,04
+588.33,Ross, Creed,Philadelphia,PA,339204,28,M,Track:PR,04
+588.33,Stephen, Hulsman,La Grange,KY,344456,45,M,Track:PR,04
+588.33,Ian, Whitney,Evanston,IL,358123,32,M,Track:PR,04
+588.42,Nelson, Mittuch,Port Orchard,WA,263975,52,M,Track:PR,04
+588.88,Paul, Bishop,Snohomish,WA,335908,37,M,Track:PR,04
+588.89,Marcus, Williams,Seattle,WA,341866,38,M,Track:PR,04
+589.45,Sean, Rice,Annandale,NJ,318812,16,M,Track:PR,04
+589.98,Trey, Thornton,Issaquah,WA,296922,16,M,Track:PR,04
+590.00,Alexander, Meller,Annapolis,MD,253692,55,M,Track:PR,04
+590.00,Jordan, Wolfe,Sanjose,CA,282654,17,M,Track:PR,04
+590.00,Joseph, Bacala,Baton Rouge,LA,330938,24,M,Track:PR,04
+590.15,Steven, Goldberg,Northbrook,IL,201209,56,M,Track:PR,04
+590.42,Steve, Gorham,Perry Hall,MD,60145,59,M,Track:PR,04
+590.49,Jacob, Skrip,Breinigsville,PA,353400,14,M,Track:PR,04
+590.61,Theron, Sweet,Austin,TX,255241,28,M,Track:PR,04
+591.11,Joel, Steen,Laurel,MD,237732,40,M,Track:PR,04
+591.11,Jeremy, Wilson,Indianapolis,IN,358949,37,M,Track:PR,04
+591.11,Jedidiah, Fritzinger,Georgetown,IN,292244,16,M,Track:PR,04
+591.67,Angel, Leano,Bothell,WA,181808,53,M,Track:PR,04
+591.73,Kyle, Kalny,Downers Grove,IL,339934,22,M,Track:PR,04
+591.75,Zachariah, McClendon,Sanpablo,CA,307855,15,M,Track:PR,04
+592.27,Eliott, Schloetel,Seattle,WA,382770,28,M,Track:PR,04
+592.50,Logan, Sofjan,Tomball,TX,385631,14,M,Track:PR,04
+593.05,Stephen, Israel,Moreno Valley,CA,304834,17,M,Track:PR,04
+593.32,James, Anderson,Mill Creek,WA,304352,32,M,Track:PR,04
+593.32,dan, kalny,Downers Grove,IL,339850,25,M,Track:PR,04
+593.33,William, Jones,Baton Rouge,LA,238642,37,M,Track:PR,04
+593.33,Kenneth, Ziegenfus,New Tripoli,PA,325814,46,M,Track:PR,04
+593.89,Ted, Michaels,Leesburg,VA,206649,42,M,Track:PR,04
+593.95,Tony, Comer,San Marcos,CA,273036,17,M,Track:PR,04
+594.58,Timothy, Wozniak,Brownsburg,IN,273382,57,M,Track:PR,04
+594.83,Chistopher, Jones,Greenfield,IN,286228,27,M,Track:PR,04
+595.75,Andreas, Katehis,Franklin Square,NY,293601,17,M,Track:PR,04
+596.65,Paul, Noyes,Redmond,WA,308323,32,M,Track:PR,04
+596.67,William, McLaughlin,Ferndale,MI,76592,39,M,Track:PR,04
+596.67,Andrew, Singson,Piscataway,NJ,151533,48,M,Track:PR,04
+596.67,Jacob, Wood,Mc Kinney,TX,311490,31,M,Track:PR,04
+596.67,Skip, Sparry,Plano,TX,46768,76,M,Track:PR,04
+596.67,james, briggs,North Huntingdon,PA,274597,69,M,Track:PR,04
+596.67,gilbert, marrero,Flushing,NY,310861,65,M,Track:PR,04
+596.67,Johnnie, Lewis,Avon,IN,21084,44,M,Track:PR,04
+596.67,Sheldon, Parmer,Tomball,TX,339298,52,M,Track:PR,04
+596.67,Richard, Rae,Bothell,WA,195140,46,M,Track:PR,04
+596.67,Ino, Sofjan,Tomball,TX,386410,49,M,Track:PR,04
+596.67,Steven, Rusnak,Seminole,FL,230108,21,M,Track:PR,04
+596.67,Mark, Kline,West Chester,PA,257973,44,M,Track:PR,04
+596.67,Jackson, McNear,Louisville,KY,301315,14,M,Track:PR,04
+600.00,William, Howells,Webster Groves,MO,167246,50,M,Track:PR,04
+554.90,Alastair, Magun,Mercer Island,WA,317500,13,M,Track:PR,05
+558.53,Adrian, Magun,Mercer Island,WA,375179,9,M,Track:PR,05
+561.11,Perry, Olix,Woodinville,WA,356432,13,M,Track:PR,05
+561.11,Matthew, Adolf,Everett,WA,302963,13,M,Track:PR,05
+562.77,Justin, King,Woodinville,WA,324838,14,M,Track:PR,05
+568.33,Jerod, Kizer,Dana,IN,339162,32,M,Track:PR,05
+571.03,William, Muehlhausen,Bothell,WA,332792,18,M,Track:PR,05
+572.07,Mikey, Waine,Douglasville,GA,281158,15,M,Track:PR,05
+573.33,John, Kuhfahl,Ingleside,IL,380295,15,M,Track:PR,05
+573.89,Brayden, Buchanan,Seattle,WA,285748,14,M,Track:PR,05
+577.75,JAKE, SILVERBERG,Pembroke Pines,FL,312558,17,M,Track:PR,05
+580.00,Gregorino, Cordasco,Basking Ridge,NJ,346132,12,M,Track:PR,05
+580.00,daryus, patel,Evanston,IL,348972,15,M,Track:PR,05
+580.00,Tim, Gaidis,St Louis,MO,185668,49,M,Track:PR,05
+580.00,Michael, Simecek,Kirkland,WA,367978,20,M,Track:PR,05
+580.00,Jonathan, Baggett,Falls Church,VA,133076,32,M,Track:PR,05
+580.00,Matthew, Walp,Royal Oak,MI,111671,36,M,Track:PR,05
+581.93,Rupert, Cox,Emerald Hills,CA,309471,15,M,Track:PR,05
+582.22,Robert, Oellermann,St Charles,MO,95743,47,M,Track:PR,05
+582.31,Landon, Garcia,Macungie,PA,354524,14,M,Track:PR,05
+582.41,harrison, magun,Mercer Island,WA,323844,44,M,Track:PR,05
+582.78,Victor, Herrera,Dania,FL,258392,43,M,Track:PR,05
+583.33,Thomas, Duncan,Fremont,CA,303797,17,M,Track:PR,05
+584.17,beau, boggs,Zionsville,IN,316206,18,M,Track:PR,05
+584.17,jason, frizell,Denham Springsdenham Springs,LA,350826,39,M,Track:PR,05
+584.67,Anup, Diwakar,Rochester Hills,MI,383126,15,M,Track:PR,05
+585.00,James, Cannon,Elwood,IN,351298,22,M,Track:PR,05
+585.56,Jeffrey, Phillips,Baton Rouge,LA,380876,31,M,Track:PR,05
+585.83,Tim, McCormick,Dayton,OH,289795,54,M,Track:PR,05
+586.67,Gideon, Bender,Duvall,WA,271119,12,M,Track:PR,05
+587.14,Andrew, Austin,University Place,WA,316276,25,M,Track:PR,05
+588.33,William, Kalman,Bethlehem,PA,77672,68,M,Track:PR,05
+588.33,Andrew, Petty,Saint Louis,MO,346834,26,M,Track:PR,05
+588.33,Carl, Foltz,Washington,MI,382621,50,M,Track:PR,05
+588.33,Steven, Kusy,Washington,DC,306704,27,M,Track:PR,05
+589.47,Luke, Mullis,Rochester Hills,MI,296792,15,M,Track:PR,05
+589.72,Dan, Valdes,Plantation,FL,202522,41,M,Track:PR,05
+591.35,Christopher, Williams,Seattle,WA,372653,41,M,Track:PR,05
+591.52,Daniel, Szallai,Whitehouse Station,NJ,353174,15,M,Track:PR,05
+591.90,Noel, Kimber,Seattle,WA,366152,22,M,Track:PR,05
+592.04,Matthew, Muehlhausen,Bothell,WA,367238,49,M,Track:PR,05
+592.15,William, Krempa,Chalfont,PA,293372,16,M,Track:PR,05
+592.54,Brandon, Krasley,Emmaus,PA,319976,14,M,Track:PR,05
+593.33,Joshua, Williams,San Jose,CA,390452,17,M,Track:PR,05
+593.33,Solomon, Treister,Chicago,IL,310523,13,M,Track:PR,05
+593.33,Raymond, Plewacki,Fairfax,VA,222263,53,M,Track:PR,05
+593.88,Will, Revard,Carmel,IN,337938,14,M,Track:PR,05
+595.13,Paul, Beveridge,Seattle,WA,108058,52,M,Track:PR,05
+595.61,Kyle, Nock,Green Lane,PA,380829,15,M,Track:PR,05
+596.66,Jason, Klein,Cherry Hill,NJ,230357,24,M,Track:PR,05
+596.67,Brian, Shelton,Florissant,MO,321312,27,M,Track:PR,05
+596.67,Tom, Petty,Webster Groves,MO,344566,26,M,Track:PR,05
+596.67,Jeremy, Roberts,Wildwood,MO,382306,13,M,Track:PR,05
+596.67,Max, Staran,Farmington Hills,MI,384600,18,M,Track:PR,05
+596.67,Philip, Huyghe,Rochester,MI,372444,54,M,Track:PR,05
+342.34,Bobby, Lea,Mertztown,PA,65819,30,M,Track:SR,PR
+374.62,Ian, Moir,Long Beach,CA,218004,22,M,Track:SR,PR
+435.81,John, (Jackie) Simes,Alburtis,PA,150549,25,M,Track:SR,PR
+562.79,Charles, (Joe) Eldridge,Alpharetta,GA,194777,31,M,Track:SR,PR
+585.39,Ian, Burnett,Durango,CO,191725,27,M,Track:SR,PR
+585.71,Kyle, Wamsley,Alburtis,PA,37157,33,M,Track:SR,PR
+357.54,Zachary, Kovalcik,Portland,OR,266774,30,M,Track:SR,01
+359.41,Stefan, Rothe,Austin,TX,205741,32,M,Track:SR,01
+388.01,Daniel, Holloway,Morgan Hill,CA,181725,26,M,Track:SR,01
+402.96,Zack, Noonan,Kutztown,PA,249618,21,M,Track:SR,01
+405.77,Liam, Donoghue,Boulder,CO,206188,29,M,Track:SR,01
+414.14,David, Moyer,Honolulu,HI,273323,29,M,Track:SR,01
+415.11,Jeffrey, Whiteman,Chicago,IL,181146,36,M,Track:SR,01
+419.90,Robert, Bodamer,Humble,TX,47069,51,M,Track:SR,01
+427.53,Colt, Peterson,Huntington Beach,CA,287772,21,M,Track:SR,01
+432.94,Aaron, Berntson,Port Orchard,WA,179545,49,M,Track:SR,01
+441.66,Jacob, Duehring,Irvine,CA,288548,28,M,Track:SR,01
+441.95,Lawrence, Stoegbauer,Chicago,IL,249042,43,M,Track:SR,01
+446.68,Collin, Berry,Huntington Beach,CA,298247,20,M,Track:SR,01
+452.66,Danny, Heeley,Hermosa Beach,CA,247147,22,M,Track:SR,01
+473.30,Zachary, Jones,Kent,WA,225834,33,M,Track:SR,01
+478.01,James, Flynn,Port Orchard,WA,51090,44,M,Track:SR,01
+480.79,Danny, Robertson,Rolling Meadows,IL,256071,25,M,Track:SR,01
+482.41,Logan, Owen,Bremerton,WA,222488,18,M,Track:SR,01
+486.65,Jason, Garner,Glenview,IL,42620,40,M,Track:SR,01
+488.61,Phillip, Stephens,Kirkland,WA,47146,45,M,Track:SR,01
+492.83,Curtis, Tolson,Louisville,KY,46006,50,M,Track:SR,01
+498.29,Conor, Klupar,Fall City,WA,250108,19,M,Track:SR,01
+501.44,Emile, Abraham,Atlanta,GA,222021,39,M,Track:SR,01
+501.58,Chris, Carlson,Plano,TX,6135,50,M,Track:SR,01
+505.62,Gary, Brown,Auburn,WA,5069,41,M,Track:SR,01
+506.60,Andrew, Carlberg,Bryan,TX,283020,23,M,Track:SR,01
+510.34,Benjamin, Swedberg,Campbell,CA,200484,21,M,Track:SR,01
+513.71,Bryan, Smith,Seattle,WA,50504,52,M,Track:SR,01
+514.58,Zachary, Carlson,Plano,TX,277433,18,M,Track:SR,01
+515.11,Darin, Marhanka,Pickens,SC,51475,48,M,Track:SR,01
+524.06,Andrew, Nevitt,Saratoga,CA,47463,49,M,Track:SR,01
+524.17,Eduardo, Nieuwenhuyzen,Saint Louis,MO,232361,36,M,Track:SR,01
+526.71,Ted, Kicey,Houston,TX,52884,52,M,Track:SR,01
+532.56,Matthew, Baranoski,Perkasie,PA,213251,20,M,Track:SR,01
+538.27,John, Walsh,Playa Del Rey,CA,37101,50,M,Track:SR,01
+540.19,Austin, Carroll,Orange,CA,192670,26,M,Track:SR,01
+543.74,Al, Urbanski,Portland,OR,262778,29,M,Track:SR,01
+544.05,Adam, Leibovitz,Indianapolis,IN,221190,22,M,Track:SR,01
+544.37,Andres, Gonzalez,Katy,TX,236824,29,M,Track:SR,01
+548.18,Guy, East,Chula Vista,CA,174108,26,M,Track:SR,01
+549.00,Ian, Mensher,Seattle,WA,156693,34,M,Track:SR,01
+551.12,Barry, Miller,Kutztown,PA,197897,25,M,Track:SR,01
+553.12,Joseph, Walsh,Chesterfield,MO,37090,49,M,Track:SR,01
+554.56,James, Stangeland,Seattle,WA,208222,33,M,Track:SR,01
+555.39,Andrew, Armstrong,Dallas,TX,187559,31,M,Track:SR,01
+555.76,Andrew, Kruse,Minneapolis,MN,160686,33,M,Track:SR,01
+559.68,David, McIntosh,Colorado Springs,CO,49024,43,M,Track:SR,01
+559.77,Ignacio, (Iggy) Silva,San Diego,CA,166264,23,M,Track:SR,01
+564.61,Gregory, Pent,Boulder,CO,47422,42,M,Track:SR,01
+565.31,Patric, Rostel,Grandjunction,CO,301113,27,M,Track:SR,01
+565.68,Mark, Rodamaker,Los Altos,CA,30269,65,M,Track:SR,01
+566.90,David, Matthews,Seattle,WA,52628,45,M,Track:SR,01
+567.50,Robert, Evans,Scotts Valley,CA,72893,35,M,Track:SR,01
+571.67,Steven, Beardsley,Portland,OR,225787,31,M,Track:SR,01
+572.69,Ryan, Sullivan,Nashville,TN,305979,29,M,Track:SR,01
+572.86,Derek, Wilkerson,Issaquah,WA,52173,34,M,Track:SR,01
+573.52,Joseph, LaCour,Mansfield,TX,171332,40,M,Track:SR,01
+575.16,Alex, Wieseler,Indianapolis,IN,207324,24,M,Track:SR,01
+575.24,Kevin, Mansker,Long Beach,CA,269334,24,M,Track:SR,01
+578.80,Taylor, Fenstermacher,Redondo Beach,CA,52735,50,M,Track:SR,01
+582.25,David, Scheetz,Andreas,PA,46136,50,M,Track:SR,01
+586.81,Armin, Rahm,S Pasadena,CA,96655,45,M,Track:SR,01
+591.19,Andrew, Kuklis,Breinigsville,PA,96151,35,M,Track:SR,01
+593.89,Ryan, Crissey,Garland,TX,133,41,M,Track:SR,01
+596.66,Butch, Stinton,Castle Rock,CO,34198,61,M,Track:SR,01
+596.67,Eric, Workowski,Kutztown,PA,103440,43,M,Track:SR,01
+405.57,Daniel, Gay,Temecula,CA,214863,18,M,Track:SR,02
+441.28,Daniel, Holt,Alpharetta,GA,63559,32,M,Track:SR,02
+454.61,Aram, Bayzaee,Northbrook,IL,137582,46,M,Track:SR,02
+455.66,Joe, Dickerson,Los Gatos,CA,306664,26,M,Track:SR,02
+457.75,Daniel, Verner,Island Lake,IL,51737,47,M,Track:SR,02
+458.30,Ernie, Majarucon,Chicago,IL,247625,49,M,Track:SR,02
+468.76,James, Host,Plainfield,IL,126420,57,M,Track:SR,02
+469.40,Ron, Good,Naperville,IL,268828,55,M,Track:SR,02
+476.69,David, DiPetrillo,Sammamish,WA,314732,28,M,Track:SR,02
+477.03,Ronald, Sielinski,Redmond,WA,260190,49,M,Track:SR,02
+478.28,Guy, Tucker,Bellingham,WA,252718,42,M,Track:SR,02
+481.05,Ian, Crane,Sammamish,WA,184284,24,M,Track:SR,02
+483.07,Kaleb, Koch,Glenview,IL,265924,19,M,Track:SR,02
+486.21,David, McCook,Mountain View,CA,66627,44,M,Track:SR,02
+491.86,Matthew, Herz,Shoreline,WA,191831,33,M,Track:SR,02
+495.36,Thomas, Briney,Chicago,IL,274455,30,M,Track:SR,02
+496.63,Thomas, Wick,Seattle,WA,204808,44,M,Track:SR,02
+498.46,Ryan, Schneider,Huntington Beach,CA,304909,30,M,Track:SR,02
+498.71,Donald, Langley,Morgan Hill,CA,20327,51,M,Track:SR,02
+500.85,Kevin, Depasse,Bloomington,IN,323640,24,M,Track:SR,02
+501.02,Thorsten, Askervold,Lake Stevens,WA,299287,17,M,Track:SR,02
+503.96,E Eric Johnson,E Eric Johnson,Seattle,WA,204929,49,M,Track:SR,02
+505.14,Stathy, Touloumis,Highland Park,IL,86745,41,M,Track:SR,02
+505.68,Colton, Barrett,Indianapolis,IN,224589,22,M,Track:SR,02
+505.87,Mark, Winston,Skokie,IL,149826,48,M,Track:SR,02
+506.04,Daniel, Koski-Karell,Seattle,WA,259540,33,M,Track:SR,02
+507.93,William, Kirk Robinson,Redmond,WA,151412,36,M,Track:SR,02
+508.02,Jonathan, Chambers,Hellertown,PA,198998,35,M,Track:SR,02
+508.13,Matthew, Haldeman,Mountlake Ter,WA,14657,45,M,Track:SR,02
+511.38,Joshua, Simpson,Seattle,WA,256802,38,M,Track:SR,02
+513.61,Alexander, Riva,Pleasant Prairie,WI,260381,18,M,Track:SR,02
+516.51,Michael, Heagney,Libertyville,IL,15584,43,M,Track:SR,02
+516.77,Cameron, Forsythe,Woodinville,WA,12059,36,M,Track:SR,02
+517.89,Kevin, Phillips,Redondo Beach,CA,28056,40,M,Track:SR,02
+517.97,peter, baughman,Carnation,WA,243415,41,M,Track:SR,02
+518.29,Rory, Jack,Seattle,WA,329332,22,M,Track:SR,02
+519.49,Brendan, Sharpe,Austin,TX,205553,30,M,Track:SR,02
+520.90,Paul, Drees,Avondale,PA,193282,50,M,Track:SR,02
+521.03,Raul, Arias J.R.,East Palo Alto,CA,366768,18,M,Track:SR,02
+521.99,Robert, Isner,Issaquah,WA,257680,51,M,Track:SR,02
+526.65,Andrzej, Banaszkiewicz,Indianapolis,IN,263833,38,M,Track:SR,02
+533.61,Cameron, Reider,Easton,PA,41251,42,M,Track:SR,02
+534.14,John, Kelly,Indianapolis,IN,18827,45,M,Track:SR,02
+535.09,Joseph, Paulson,Boulder,CO,46650,53,M,Track:SR,02
+535.66,Robert, Mayfield,Saint Louis,MO,275501,28,M,Track:SR,02
+535.88,Ryan, Shean,Indianapolis,IN,290397,26,M,Track:SR,02
+535.93,Jeromy, Cottell,Redwood City,CA,273912,38,M,Track:SR,02
+537.53,Nathaniel, Pitts,Seattle,WA,304664,25,M,Track:SR,02
+537.59,Chris, Weber,Woodinville,WA,280946,43,M,Track:SR,02
+538.62,Zachary, Felpel,Willowstreet,PA,220467,23,M,Track:SR,02
+538.68,Joseph, Holmes,Bremerton,WA,16599,46,M,Track:SR,02
+539.59,Mike, Macdonald,Rancho Cordova,CA,45626,72,M,Track:SR,02
+540.09,Johnathan, Freter,Columbus,OH,266654,21,M,Track:SR,02
+540.44,Daniel, Tomko,Bellevue,WA,296954,37,M,Track:SR,02
+541.08,Conrad, Kornmann,Seattle,WA,237292,36,M,Track:SR,02
+542.00,Tony, Cordova,Mercer Island,WA,336548,30,M,Track:SR,02
+542.28,David, Morse,Indianapolis,IN,215016,27,M,Track:SR,02
+542.34,Victor, Williams,Lonetree,CO,38436,51,M,Track:SR,02
+543.33,Karl, Cunningham,Seattle,WA,293139,28,M,Track:SR,02
+543.72,Robert, Ryan,Lambertville,NJ,31001,47,M,Track:SR,02
+544.00,Brian, Rady,Chicago,IL,345470,32,M,Track:SR,02
+546.31,Vern, Cole,Kent,WA,65114,50,M,Track:SR,02
+547.04,Bill, Booth,Seattle,WA,333350,32,M,Track:SR,02
+547.64,Weston, Luzadder,Carmel,IN,240464,23,M,Track:SR,02
+548.72,William, Hallberg,Indianapolis,IN,312998,44,M,Track:SR,02
+548.77,William, Fiser,Houston,TX,258668,27,M,Track:SR,02
+551.08,Brian, Haas,Chicago,IL,162118,45,M,Track:SR,02
+551.31,Alexander, Freund,Davis,CA,222322,19,M,Track:SR,02
+551.72,Martin, Vecchio,Detroit,MI,289623,28,M,Track:SR,02
+552.43,Craig, Jones,Katy,TX,280908,45,M,Track:SR,02
+552.72,Kevin, Wayman,Saint Louis,MO,230808,56,M,Track:SR,02
+552.81,Stanley, Terusaki,Livermore,CA,35241,54,M,Track:SR,02
+553.40,Bobby, Unverzagt,Torrance,CA,253787,19,M,Track:SR,02
+553.72,Harrison, Devine,Bellevue,WA,290027,17,M,Track:SR,02
+553.94,Colin, Gibson,Seattle,WA,250723,26,M,Track:SR,02
+554.00,Thomas, Cuneio,Lake Saint Louis,MO,264312,41,M,Track:SR,02
+554.65,Robert, McDaniel,Seattle,WA,284692,35,M,Track:SR,02
+554.96,Eric, Waterman,Seattle,WA,199360,50,M,Track:SR,02
+555.29,Matthew, Valencia,Los Altos,CA,255576,17,M,Track:SR,02
+555.64,Daniel, Casper,Northfield,MN,214654,47,M,Track:SR,02
+559.51,Jonathan, Davy,Torrance,CA,154991,38,M,Track:SR,02
+560.48,Timothy, Nixon,Bloomington,IN,337314,23,M,Track:SR,02
+561.22,Luke, Bligh,Saint Louis,MO,280844,33,M,Track:SR,02
+561.75,Lucas, Wardein,Naples,FL,233364,19,M,Track:SR,02
+563.08,Joshua, Frick,Park City,UT,135709,38,M,Track:SR,02
+563.31,George, Geier,Marion,IN,46633,62,M,Track:SR,02
+564.19,Scott, Vinson,Bellevue,WA,70843,47,M,Track:SR,02
+565.01,David, Novak,Tunkhannock,PA,268729,20,M,Track:SR,02
+565.70,Glen, Winkel,Colorado Springs,CO,38640,58,M,Track:SR,02
+566.16,Grant, Mills,Mc Kinney,TX,330116,19,M,Track:SR,02
+566.71,Michael, Williams,Metairie,LA,53228,70,M,Track:SR,02
+567.13,Calan, Farley,Pittstown,NJ,233338,18,M,Track:SR,02
+567.15,Matthew, Brandt,St Charles,MO,197984,25,M,Track:SR,02
+567.32,Jake, Boone,Hurst,TX,284344,20,M,Track:SR,02
+569.29,Brent, Emoff,Portland,OR,259427,29,M,Track:SR,02
+569.44,Joel, Hawks,Plano,TX,284976,44,M,Track:SR,02
+569.57,Garrett, Hankins,Carmichael,CA,298571,20,M,Track:SR,02
+570.23,Craig, Connors,Bainbridge Island,WA,277212,46,M,Track:SR,02
+570.26,Rob, Gray,Fulshear,TX,305309,41,M,Track:SR,02
+570.61,Griffin, Easter,Durango,CO,282590,22,M,Track:SR,02
+570.99,Lawrence, Bosch,Fort Collins,CO,4314,68,M,Track:SR,02
+571.11,John, Elgart,Sacramento,CA,45071,67,M,Track:SR,02
+571.33,Kent, Menzel,Greencastle,IN,108690,54,M,Track:SR,02
+571.43,Ryan, Pomajevich,Schnecksville,PA,145887,39,M,Track:SR,02
+571.51,Sean, Burke,San Diego,CA,138946,39,M,Track:SR,02
+572.01,Todd, Scheske,Rochester,NY,50510,43,M,Track:SR,02
+572.76,John, Puffer,Indianapolis,IN,116272,40,M,Track:SR,02
+573.01,Peter, Lucke,Louisville,CO,21761,47,M,Track:SR,02
+573.22,Brad, DeMott,Shelbyville,IN,9179,57,M,Track:SR,02
+573.61,Wes, Harris,Bloomington,IN,15233,52,M,Track:SR,02
+573.81,Michael, Keenan,Orange Park,FL,261241,39,M,Track:SR,02
+573.98,Steven, Worley,Boulder,CO,47502,62,M,Track:SR,02
+574.85,Matt, Jones,Indianapolis,IN,239173,26,M,Track:SR,02
+575.19,Tyler, Nothstein,Orefield,PA,312612,18,M,Track:SR,02
+575.32,Brian, Evans,Macungie,PA,292568,40,M,Track:SR,02
+575.56,Brent, DelRosario,Shelby Twp,MI,232619,30,M,Track:SR,02
+576.32,Vincent, Juarez,San Jose,CA,286414,21,M,Track:SR,02
+576.41,Jason, Meidhof,Bethesda,MD,143088,39,M,Track:SR,02
+576.52,Edward, Horvet,West Hills,CA,290181,17,M,Track:SR,02
+576.95,Daryl, Hemenway,San Jose,CA,133838,43,M,Track:SR,02
+577.01,Michael, Gacki,Frisco,TX,58983,47,M,Track:SR,02
+577.76,Barry, Messmer,Fort Collins,CO,51850,63,M,Track:SR,02
+578.23,Zachary, LaBry,Somerville,MA,235849,27,M,Track:SR,02
+579.04,Robert, Higgins,Chicago,IL,301873,43,M,Track:SR,02
+579.25,Andreas, Freund,Berkeley,CA,222320,21,M,Track:SR,02
+579.93,Gregory, Ratzell,Blandon,PA,230201,18,M,Track:SR,02
+580.00,Bennie, Flores,Pride,LA,52111,43,M,Track:SR,02
+581.18,Dale, Luedtke,Oceanside,CA,47262,59,M,Track:SR,02
+581.85,Devin, Clark,St. Louis,MO,186238,29,M,Track:SR,02
+582.31,Darrell, Bratton,Quincy,IL,55734,50,M,Track:SR,02
+582.98,Isaiah, Newkirk,Indianapolis,IN,282064,23,M,Track:SR,02
+583.12,Tim, Tsuruda,Sunnyvale,CA,314158,31,M,Track:SR,02
+583.40,Ed, Amdahl,Redmond,WA,268589,44,M,Track:SR,02
+583.77,Bill, Golembieski,Boulder,CO,274222,22,M,Track:SR,02
+584.17,Zachary, Semian,Mertztown,PA,250164,20,M,Track:SR,02
+584.53,Adam, Lesniakowski,Chicago,IL,162418,39,M,Track:SR,02
+584.59,Edgar, Nunnelly,Houston,TX,117,41,M,Track:SR,02
+585.00,Nicholas, Roeder,Kunkletown,PA,235891,20,M,Track:SR,02
+585.62,Luke, Harris,Fort Collins,CO,269648,24,M,Track:SR,02
+586.89,Chad, Burdzilauskas,Indianapolis,IN,122674,35,M,Track:SR,02
+586.92,Ryan, Perlman,Sammamish,WA,130051,41,M,Track:SR,02
+587.78,Jeffrey, Pyatt,Bellevue,WA,52532,54,M,Track:SR,02
+588.33,Chip, Berezny,Coopersburg,PA,45079,62,M,Track:SR,02
+588.33,Brian, Gristick,Budd Lake,NJ,191647,56,M,Track:SR,02
+588.33,Brian, Adams,Novi,MI,80614,40,M,Track:SR,02
+588.33,Christopher, Matthews,Rochester Hills,MI,276259,44,M,Track:SR,02
+588.33,Aaron, Hunter,Santa Cruz,CA,215194,45,M,Track:SR,02
+588.88,Harley, Sheffield,Bellevue,WA,63148,50,M,Track:SR,02
+588.92,Gregory, White,Lafayette,CA,246669,29,M,Track:SR,02
+588.97,Bruce, Gordon,South Bend,IN,100338,56,M,Track:SR,02
+589.52,Andrew, Utz,Portland,OR,272448,31,M,Track:SR,02
+589.97,Nathan, Schickel,Indianapolis,IN,303,40,M,Track:SR,02
+590.47,Paul, Schuler,Fort Collins,CO,74307,57,M,Track:SR,02
+590.80,Sam, Harbison,Bloomington,IN,309939,23,M,Track:SR,02
+591.16,George, Meilahn,Antioch,CA,166581,53,M,Track:SR,02
+592.39,Thomas, Lobdell,Indianapolis,IN,45607,66,M,Track:SR,02
+592.88,Paul, Mack,Longmont,CO,22026,63,M,Track:SR,02
+594.71,Sam, Stone,North Freedom,WI,213424,22,M,Track:SR,02
+594.73,Eliot, Logan,Palo Alto,CA,182819,39,M,Track:SR,02
+595.58,Karl, Stover,St. Louis,MO,34328,41,M,Track:SR,02
+596.66,Kevin, Schaeffer,York,PA,73472,51,M,Track:SR,02
+596.67,Jeffrey, Pallin,Foster City,CA,106496,63,M,Track:SR,02
+596.67,Matthew, Furlow,Philadelphia,PA,283375,28,M,Track:SR,02
+596.69,Stephen, Sperry,Spartanburg,SC,46890,51,M,Track:SR,02
+596.70,Matt, Gittings,Indianapolis,IN,359006,21,M,Track:SR,02
+600.00,Gregory, Kick,Chicago,IL,239775,28,M,Track:SR,02
+470.10,Patrick, Meyer,Skokie,IL,58676,45,M,Track:SR,03
+500.38,Jon, Lazard,Marion,IN,55674,51,M,Track:SR,03
+503.34,Steven, Benni,Chicago,IL,271725,35,M,Track:SR,03
+505.36,Sebastian, York,Dallas,TX,307679,16,M,Track:SR,03
+505.89,Clark, Natwick,San Mateo,CA,25743,55,M,Track:SR,03
+510.25,Robert, Gauss,Kenosha,WI,45366,41,M,Track:SR,03
+517.59,John, Cline,Chicago,IL,265399,47,M,Track:SR,03
+519.03,Voytek, Glinkowski,Buffalo Grove,IL,250244,54,M,Track:SR,03
+525.12,Brandon, Feehery,Homewood,IL,193035,21,M,Track:SR,03
+531.94,Paul, Beaudoin,Bellevue,WA,325660,52,M,Track:SR,03
+533.27,David, Gulick,Phoenixville,PA,45409,51,M,Track:SR,03
+533.62,Jerry, Shafer,Seattle,WA,54693,66,M,Track:SR,03
+534.13,Mike, Freimann,Port Orchard,WA,342260,48,M,Track:SR,03
+534.87,Chuck, Judy,Chicago,IL,18341,51,M,Track:SR,03
+535.09,Justin, Leong,Los Altos,CA,280621,15,M,Track:SR,03
+535.13,Eric, Myers,Glencoe,IL,320876,44,M,Track:SR,03
+535.58,Paul, Sollenberger,Dallas,TX,168161,28,M,Track:SR,03
+535.85,Mark, Harris,Northbrook,IL,115364,43,M,Track:SR,03
+537.62,Peter, Hinckley,Seattle,WA,328706,43,M,Track:SR,03
+538.24,Randy, Boettcher,Lake Forest Park,WA,62837,36,M,Track:SR,03
+538.32,Joshua, Ballard,Richardson,TX,177319,42,M,Track:SR,03
+539.17,Andrew, Bernstein,Allentown,PA,204817,29,M,Track:SR,03
+539.56,Jeffery, Nettles,Seattle,WA,159943,50,M,Track:SR,03
+540.00,Gary, Woolfolk,Dallas,TX,195832,61,M,Track:SR,03
+540.00,Samuele, Bianchi,Chicago,IL,278914,15,M,Track:SR,03
+541.82,Larry, Wolff,Sacramento,CA,219527,63,M,Track:SR,03
+542.00,Kenneth, Dong,Seattle,WA,294079,46,M,Track:SR,03
+542.50,Sean, Maginness,Snoqualmie,WA,252671,43,M,Track:SR,03
+543.67,Kristian, Miller,Bozeman,MT,292040,25,M,Track:SR,03
+543.98,Landon, Sealey,Federal Way,WA,308514,37,M,Track:SR,03
+544.07,Garrison, Horton,Mckinney,TX,322974,17,M,Track:SR,03
+544.17,David, Stone,Pottstown,PA,200637,45,M,Track:SR,03
+545.78,Shin, Umeda,Sunnyvale,CA,46023,54,M,Track:SR,03
+546.24,Grzegorz, Monko,Buffalo Grove,IL,381944,38,M,Track:SR,03
+546.47,Gentry, McGrath,Bellevue,WA,23499,44,M,Track:SR,03
+546.68,jason, connell,Lynnwood,WA,305679,40,M,Track:SR,03
+546.76,john, schmitz,Bargersville,IN,315756,52,M,Track:SR,03
+548.07,Steve, Cullen,Seattle,WA,211248,37,M,Track:SR,03
+548.20,Michael, Thornton,Issaquah,WA,295555,45,M,Track:SR,03
+548.41,Lars, Pedersen,Snohomish,WA,304399,44,M,Track:SR,03
+548.51,George, Sherman,Slatington,PA,222799,42,M,Track:SR,03
+549.17,Scott, Baumer,Indianapolis,IN,353428,28,M,Track:SR,03
+549.59,Jay, Wolkoff,Altadena,CA,38811,55,M,Track:SR,03
+550.40,Ruben, Aymerich,Ballwin,MO,288942,43,M,Track:SR,03
+551.03,John, Carrica,Bellevue,WA,174289,45,M,Track:SR,03
+551.25,Zqwan, Peterson,Kirkland,WA,109655,47,M,Track:SR,03
+551.30,Max, Ryan,Chicago,IL,356597,17,M,Track:SR,03
+551.35,Eldon, Criswell,Alvin,TX,174416,63,M,Track:SR,03
+551.98,Will, Niemann-Ross,Portland,OR,272436,26,M,Track:SR,03
+552.28,Mathew, York,Dallas,TX,292077,42,M,Track:SR,03
+552.94,Michael, Klisch,Carnation,WA,44109,50,M,Track:SR,03
+553.38,Steven, Lindell,Bellevue,WA,218873,54,M,Track:SR,03
+553.47,Jason, Corbridge,Redmond,WA,293327,28,M,Track:SR,03
+553.50,Derek, Churchyard,Woodinville,WA,339716,45,M,Track:SR,03
+553.78,Chad, Farmer,Chicago,IL,115451,39,M,Track:SR,03
+553.89,Douglas, Evans,Katy,TX,367586,45,M,Track:SR,03
+555.51,Kyle, Watson,Redmond,WA,278072,40,M,Track:SR,03
+556.39,Joshua, Gerak,Seattle,WA,256081,52,M,Track:SR,03
+556.87,Dave, Maminski,Campbell,CA,270067,52,M,Track:SR,03
+557.42,Kyle, Sanders,Cypress,TX,261033,18,M,Track:SR,03
+557.49,Gunnar, Scheck,Plano,TX,259935,16,M,Track:SR,03
+557.92,Zack, Allison,Fort Collins,CO,211435,24,M,Track:SR,03
+558.55,Jordie, Field,Lake Forest,IL,353596,48,M,Track:SR,03
+559.14,Robbin, Goldfoos,Maple Valley,WA,196376,57,M,Track:SR,03
+559.77,Peter, Stocker,Seattle,WA,34214,50,M,Track:SR,03
+560.00,Eric, Anderson,Bloomington,IN,266766,23,M,Track:SR,03
+560.42,Thomas, Revard,Carmel,IN,318688,16,M,Track:SR,03
+561.51,Warren, McAndrew,Edmonds,WA,321144,39,M,Track:SR,03
+562.21,Spencer, Moak,Katy,TX,339808,42,M,Track:SR,03
+563.64,Ed, Thiemann,Bothell,WA,316058,53,M,Track:SR,03
+564.29,Zachary, Slavens,Saint Louis,MO,357850,23,M,Track:SR,03
+565.52,Jeffrey, Baird,Seattle,WA,247614,60,M,Track:SR,03
+565.82,Anthony, Borba,Campbell,CA,255377,38,M,Track:SR,03
+566.81,Alexander, Voitik,Champaign,IL,184412,28,M,Track:SR,03
+567.24,Jacob, MacArthur,Wenatchee,WA,203580,26,M,Track:SR,03
+568.33,Will, Gleason,New Albany,OH,231092,20,M,Track:SR,03
+569.35,Michael, Seguin,Chicago,IL,32101,45,M,Track:SR,03
+570.00,John, Ryan,Carmel,IN,278498,40,M,Track:SR,03
+570.45,Grant, McElroy,Portland,OR,264707,15,M,Track:SR,03
+570.83,Sylvio, Bravetti,Brier,WA,144794,36,M,Track:SR,03
+570.90,Daniel, Tinklepaugh,Lewisville,TX,49901,53,M,Track:SR,03
+571.11,K Erik Seaver,K Erik Seaver,St. Louis,MO,275021,41,M,Track:SR,03
+571.11,Chris, Cain,Monterey,CA,339008,34,M,Track:SR,03
+571.89,Michael, Birditt,Escondido,CA,47255,59,M,Track:SR,03
+572.50,Dustin, Drewes,Baton Rouge,LA,281156,23,M,Track:SR,03
+572.50,Mark, McMurry,La Place,LA,50922,54,M,Track:SR,03
+572.81,Scott, Bond,Greenfield,IN,190551,49,M,Track:SR,03
+572.81,David, Guttenplan,Miami,FL,177906,28,M,Track:SR,03
+572.97,mark, mirante,Bellevue,WA,293125,48,M,Track:SR,03
+573.30,Zeke, Mostov,San Francisco,CA,294912,17,M,Track:SR,03
+573.59,Tony, Veteri,Sammamish,WA,177397,45,M,Track:SR,03
+574.54,Ben, Stalker,Durango,CO,252617,26,M,Track:SR,03
+574.66,Craig, Parker,Mill Valley,CA,127588,52,M,Track:SR,03
+574.74,Dennis, Pedersen,Santa Cruz,CA,126404,52,M,Track:SR,03
+574.82,James, Brookshire,Hendersonville,NC,276390,15,M,Track:SR,03
+574.91,Chazmichael, Morales,El Segundo,CA,280745,16,M,Track:SR,03
+574.93,Peter, Moore,Niwot,CO,307655,71,M,Track:SR,03
+574.99,Ricky, Shorts,Long Beach,CA,52251,59,M,Track:SR,03
+576.18,Mark, Sommers,Washington,DC,149858,57,M,Track:SR,03
+576.67,Carlos, Perea,Baton Rouge,LA,355122,24,M,Track:SR,03
+576.79,Leonard, Cabaltera,Racine,WI,50058,49,M,Track:SR,03
+577.31,Rainier, Schaefer,Sanfrancisco,CA,304249,27,M,Track:SR,03
+577.33,James, Hilyer,Trabuco Canyon,CA,291935,17,M,Track:SR,03
+577.39,David, Bozak,Hollidaysburg,PA,155889,38,M,Track:SR,03
+577.50,Andy, Dobson,Arlington,VA,279105,57,M,Track:SR,03
+578.57,Andrew, King,Hermosa Beach,CA,67883,54,M,Track:SR,03
+578.72,James, Day,Austin,TX,276837,22,M,Track:SR,03
+579.75,Grayson, Brookshire,Hendersonville,NC,258439,17,M,Track:SR,03
+580.00,Hayden, Warner,Neoga,IL,325222,21,M,Track:SR,03
+580.00,Devin, Carroll,Austin,TX,227547,27,M,Track:SR,03
+580.00,Mark, Wagner,Saint James,NY,253551,27,M,Track:SR,03
+580.00,Neil, Laxamana,Milpitas,CA,383873,17,M,Track:SR,03
+580.00,David, Hicken,Rochester Hills,MI,251192,51,M,Track:SR,03
+580.08,Timothy, Jenkinson,Mars Hill,NC,325110,22,M,Track:SR,03
+580.56,Gavin, Hoover,Manhattan Beach,CA,280682,16,M,Track:SR,03
+581.11,Bret, Sehorn,Kirkland,WA,88190,53,M,Track:SR,03
+581.36,Richard, Rainville,Livonia,MI,305239,17,M,Track:SR,03
+581.54,David, Mulica,Littleton,CO,48181,64,M,Track:SR,03
+581.66,Thomas, Donohue,Seattle,WA,238989,50,M,Track:SR,03
+581.93,Ryan, Cleveland,Durango,CO,210683,22,M,Track:SR,03
+582.02,jason, cameron,Seattle,WA,288763,47,M,Track:SR,03
+582.20,Andrew, Tschampa,Glen Ellyn,IL,89323,53,M,Track:SR,03
+583.33,Luke, Momper,Fort Wayne,IN,339018,22,M,Track:SR,03
+583.33,Said, Assali,Houston,TX,353912,30,M,Track:SR,03
+583.39,Chris, Miller,Florissant,MO,233745,31,M,Track:SR,03
+583.81,Robert, Vigeant,Gresham,OR,316948,49,M,Track:SR,03
+583.83,Fran, Rudy,Ooltewah,TN,58193,67,M,Track:SR,03
+583.89,John, Petrakis,Sonoma,CA,27937,67,M,Track:SR,03
+584.17,Anthony, Bruley,Rochester Hills,MI,80460,44,M,Track:SR,03
+584.17,Vance, Fletcher,Chariton,IA,278921,20,M,Track:SR,03
+584.30,Eric, Andreus,Fogelsville,PA,102227,42,M,Track:SR,03
+584.35,James, Lawrence,Colorado Springs,CO,311262,45,M,Track:SR,03
+584.44,Andrew, (Drew) Tucker,Richardson,TX,145515,48,M,Track:SR,03
+584.59,Steven, Carrell,Norcross,GA,6251,49,M,Track:SR,03
+584.99,Richard, Pearson,New Albany,IN,51981,59,M,Track:SR,03
+585.01,John, Singleton,Carmel,IN,181968,53,M,Track:SR,03
+585.40,James, Mellen,Schnecksville,PA,356116,17,M,Track:SR,03
+585.56,Stephen, Frattini,Port Washington,NY,126675,31,M,Track:SR,03
+585.93,Scott, Cohen,Oak Park,CA,253153,18,M,Track:SR,03
+586.20,Jordan, Marhanka,Pickens,SC,293467,16,M,Track:SR,03
+586.67,Eddie, Sanchez,Katy,TX,328100,28,M,Track:SR,03
+587.84,Corey, Sepanski,Mount Pleasant,WI,333378,44,M,Track:SR,03
+588.33,Nathan, Labecki,Milwaukee,WI,209414,19,M,Track:SR,03
+588.33,Andreas, Vogel,San Francisco,CA,237199,48,M,Track:SR,03
+588.33,Stanley, Prutz,Baton Rouge,LA,229031,56,M,Track:SR,03
+588.33,Kenny, Strickland,San Ramon,CA,270965,21,M,Track:SR,03
+588.70,Hyun, Lee,Bothell,WA,50227,42,M,Track:SR,03
+589.09,Jos, Chalmers,Indian Harbour Beach,FL,271372,20,M,Track:SR,03
+589.31,Stefan, Zavislan,Usaf Academy,CO,296754,21,M,Track:SR,03
+591.67,Christopher, Day,Zionsville,IN,300120,22,M,Track:SR,03
+592.50,Randall, Legeai,New Orleans,LA,45586,60,M,Track:SR,03
+592.80,Kalani, Hines,San Francisco,CA,219316,35,M,Track:SR,03
+593.01,Spencer, Oswald,Dubuque,IA,231748,21,M,Track:SR,03
+593.32,Christopher, Adolf,Everett,WA,1204,51,M,Track:SR,03
+593.33,Michael, DeEstrada,Benbrook,TX,166769,67,M,Track:SR,03
+593.33,Kevin, Lantz,Washington,IL,46529,47,M,Track:SR,03
+593.33,Jacob, Schilling,Racine,WI,255842,17,M,Track:SR,03
+593.57,David, Beitel,Conifer,CO,298098,56,M,Track:SR,03
+593.89,Erik, Camacho,San Jose,CA,303224,39,M,Track:SR,03
+593.99,Imari, Miller,Fort Worth,TX,274863,18,M,Track:SR,03
+594.21,Jeffrey, Wardell,Boulder,CO,155512,45,M,Track:SR,03
+594.58,Michael, Hart,Indianapolis,IN,314910,20,M,Track:SR,03
+594.85,Justin, Lowe,Columbia,KY,291819,24,M,Track:SR,03
+595.11,Eric, Biermann,Everett,WA,256422,39,M,Track:SR,03
+595.27,Joshua, Schwiesow,Golden,CO,277942,36,M,Track:SR,03
+595.54,Thomas, Gentry,Seattle,WA,97034,42,M,Track:SR,03
+596.66,William, Fallis,San Mateo,CA,45315,72,M,Track:SR,03
+596.67,Michael, Souers,Fort Wayne,IN,196033,25,M,Track:SR,03
+596.67,John, Cheetham,Pleasanton,CA,202515,47,M,Track:SR,03
+596.67,Russell, White,Lafayette,CA,236024,34,M,Track:SR,03
+596.67,Kelly, Silberberg,San Anselmo,CA,107871,52,M,Track:SR,03
+596.67,Mikael, Weitze,Long Beach,CA,175010,49,M,Track:SR,03
+596.67,Robert, Kowal,Hillsborough,NJ,191926,56,M,Track:SR,03
+596.67,John, Licatesi,Davis,CA,183265,46,M,Track:SR,03
+596.67,Steve, Jones,San Jose,CA,272546,45,M,Track:SR,03
+596.67,Harry, Morton,Clovis,CA,45712,70,M,Track:SR,03
+596.68,Aidan, Kesner,Lexington,MA,353160,19,M,Track:SR,03
+596.69,Andrew, Erickson,Seattle,WA,273331,26,M,Track:SR,03
+600.00,Jamey, Munroe,Plano,TX,211410,46,M,Track:SR,03
+498.65,Weston, Giem,Valencia,CA,335014,13,M,Track:SR,04
+514.40,Reydesel, Garcia III,Mckinney,TX,310049,13,M,Track:SR,04
+519.97,Leo, Menestrina,San Jose,CA,117518,71,M,Track:SR,04
+537.35,Lance, Mooney,Houston,TX,350332,15,M,Track:SR,04
+540.00,Alexander, Walentynowicz,Mill Creek,WA,326272,13,M,Track:SR,04
+540.00,Brennan, Hodgins,Mercer Island,WA,361294,12,M,Track:SR,04
+540.00,Cameron, Croix,Seattle,WA,330074,13,M,Track:SR,04
+545.95,Joshua, Gibson,Katy,TX,354940,13,M,Track:SR,04
+546.55,Luke, Woodard,Mason,OH,328148,20,M,Track:SR,04
+546.71,Sean, Price,Baltimore,MD,28702,48,M,Track:SR,04
+547.18,Anders, Pedersen,Snohomish,WA,328344,17,M,Track:SR,04
+547.20,Mike, Jors,Sammamish,WA,282773,16,M,Track:SR,04
+548.33,Daniel, Haller,Puyallup,WA,312866,47,M,Track:SR,04
+549.46,Miles, Johansen,Lynnwood,WA,266855,50,M,Track:SR,04
+549.55,Sam, Margolis,Hellertown,PA,368379,14,M,Track:SR,04
+549.79,Danny, Finlan,Prosper,TX,247241,46,M,Track:SR,04
+551.11,Connor, Westhoff,Plano,TX,369126,17,M,Track:SR,04
+551.14,Bill, Kusler,Snohomish,WA,287695,57,M,Track:SR,04
+551.32,Aaron, Gaylor,Snohomish,WA,113188,46,M,Track:SR,04
+552.57,Erik, Philipson,Seattle,WA,281375,16,M,Track:SR,04
+553.74,Travis, Dougan,Kirkland,WA,280758,46,M,Track:SR,04
+553.84,Steven, Dickerson,Deerfield,IL,76282,47,M,Track:SR,04
+553.92,James, Shimada,Seattle,WA,356416,38,M,Track:SR,04
+554.86,Mitchell, Thornton,Issaquah,WA,296923,14,M,Track:SR,04
+554.95,Andrew, Wright,Seattle,WA,284442,32,M,Track:SR,04
+555.17,Adam, Arlan,Bothell,WA,304274,51,M,Track:SR,04
+557.42,Layton, Carroll- Novack,Seattle,WA,368622,15,M,Track:SR,04
+557.67,Matthew, Hohn,Carmel,IN,307977,23,M,Track:SR,04
+558.94,Cole, Reece,Emmaus,PA,325336,17,M,Track:SR,04
+559.26,Marc, Savage,Seattle,WA,350808,51,M,Track:SR,04
+559.66,Victor, Morandi,Houston,TX,313036,15,M,Track:SR,04
+560.23,Oliver, Perry,Kent,WA,381316,16,M,Track:SR,04
+561.10,Jared, Rogers,Chicago,IL,261146,36,M,Track:SR,04
+561.15,Dennis, Roberts,Wildwood,MO,265342,52,M,Track:SR,04
+561.18,Felipe, Cardenas,Indianapolis,IN,177206,41,M,Track:SR,04
+561.75,Mackenzie, Dupuy,Naperville,IL,353512,20,M,Track:SR,04
+561.82,David, Parsons,Sammamish,WA,281615,50,M,Track:SR,04
+562.37,Brian, Bolin,Medina,WA,224629,48,M,Track:SR,04
+562.70,Rock, Wamsley,Saint Louis,MO,101330,40,M,Track:SR,04
+562.98,Peter, Winski,Katy,TX,311179,16,M,Track:SR,04
+563.01,Logan, Fox,Bellevue,WA,333184,21,M,Track:SR,04
+563.25,Robert, Annis,Indianapolis,IN,331390,40,M,Track:SR,04
+563.81,Jeremy, Treister,Chicago,IL,230339,42,M,Track:SR,04
+563.89,Nicholas, McRight,Frisco,TX,333530,15,M,Track:SR,04
+564.83,Edward, Weiss,Webster Groves,MO,56474,47,M,Track:SR,04
+565.00,Yngvar, Brynildssen,Indianapolis,IN,5285,47,M,Track:SR,04
+565.77,Darren, Linkin,Philadelphia,PA,274396,43,M,Track:SR,04
+566.53,Scott, Ogilvie,St. Louis,MO,176998,33,M,Track:SR,04
+567.01,Christopher, Mailing,Northbrook,IL,46225,56,M,Track:SR,04
+568.77,William, Howells,Webster Groves,MO,167246,50,M,Track:SR,04
+568.79,Cavan, Mcmillan,Stanwood,WA,381660,24,M,Track:SR,04
+570.74,Jawara, OConnor,Renton,WA,367118,42,M,Track:SR,04
+570.94,Todd, Lippin,Philadelphia,PA,225197,43,M,Track:SR,04
+572.14,Timothy, McCormick,Bothell,WA,23329,56,M,Track:SR,04
+572.20,Jules, Gilliam,Manhattan Beach,CA,295492,14,M,Track:SR,04
+572.50,Greg, Sweney,Duvall,WA,306900,45,M,Track:SR,04
+572.98,Devin, Carlson,Plano,TX,341552,12,M,Track:SR,04
+573.07,Nick, Oestreich,Powder Springs,GA,277048,15,M,Track:SR,04
+573.33,Kenneth, Ziegenfus,New Tripoli,PA,325814,46,M,Track:SR,04
+573.33,Zach, Prebosnyak,Bethlehem,PA,299289,16,M,Track:SR,04
+573.34,Nelson, Mittuch,Port Orchard,WA,263975,52,M,Track:SR,04
+573.70,Jim, Turner,Menlo Park,CA,63449,74,M,Track:SR,04
+574.36,Brad, Gutting,Saint Louis,MO,379925,35,M,Track:SR,04
+574.89,Timothy, Wozniak,Brownsburg,IN,273382,57,M,Track:SR,04
+575.03,Rob, Sandusky,Frisco,TX,291129,16,M,Track:SR,04
+575.34,Victor, Alcazar,Chicago,IL,192948,67,M,Track:SR,04
+575.40,Chris, Dawson,Westfield,IN,129755,40,M,Track:SR,04
+575.41,Marcus, Williams,Seattle,WA,341866,38,M,Track:SR,04
+575.59,Dale, Harless,Bellevue,WA,57571,70,M,Track:SR,04
+575.69,John, Skrip,Breinigsville,PA,353394,15,M,Track:SR,04
+576.24,Christopher, Winski,Katy,TX,311559,17,M,Track:SR,04
+577.48,Garrett, Charlson,Issaquah,WA,331232,29,M,Track:SR,04
+577.63,Scott, Perry,Indianapolis,IN,208296,43,M,Track:SR,04
+578.14,Jordan, Zhdanov,Van Nuys,CA,291483,17,M,Track:SR,04
+578.23,Matthew, Morse,Redmond,WA,377674,31,M,Track:SR,04
+579.25,James, O'Connell,Northbrook,IL,219317,54,M,Track:SR,04
+579.55,Gary, Bridges,San Carlos,CA,4819,70,M,Track:SR,04
+579.60,John, Maino,Seattle,WA,340406,27,M,Track:SR,04
+580.00,Hogan, Sills,West Lafayette,IN,257611,23,M,Track:SR,04
+580.00,Ryan, Rapolas,Phoenixville,PA,313046,31,M,Track:SR,04
+580.00,Andrew, Boyd,Louisville,KY,289340,26,M,Track:SR,04
+580.00,Peter, Eckel,Alpharetta,GA,168532,31,M,Track:SR,04
+580.00,Adam, McCullough,Magnolia,TX,308149,29,M,Track:SR,04
+580.00,Paul, Heirtzler,Northville,MI,128854,41,M,Track:SR,04
+580.00,Michael, Houghton,West Point,NY,341384,21,M,Track:SR,04
+580.00,Ian, McShane,Louisville,KY,257336,16,M,Track:SR,04
+580.00,Joseph, Bacala,Baton Rouge,LA,330938,24,M,Track:SR,04
+580.00,Kyle, Perry,Indianapolis,IN,240005,27,M,Track:SR,04
+580.15,Steven, Goldberg,Northbrook,IL,201209,56,M,Track:SR,04
+580.50,Austin, Schneider,Houston,TX,381524,14,M,Track:SR,04
+580.76,Ben, Bauman,Seattle,WA,332812,23,M,Track:SR,04
+580.93,Dylan, Gray,Fulshear,TX,305312,15,M,Track:SR,04
+581.34,Niles, Wesley,Alameda,CA,352902,12,M,Track:SR,04
+581.52,Alex, Borsuk,Wales Center,NY,347692,23,M,Track:SR,04
+581.71,dan, kalny,Downers Grove,IL,339850,25,M,Track:SR,04
+581.81,Simon, Jones,Milwaukee,WI,291893,14,M,Track:SR,04
+581.87,John, Cowan,Richardson,TX,294754,31,M,Track:SR,04
+581.90,Darren, Marhanka,O Fallon,MO,262210,47,M,Track:SR,04
+582.08,Jonathan, Hoopingarner,Roseville,MI,364732,22,M,Track:SR,04
+582.17,Stephen, Israel,Moreno Valley,CA,304834,17,M,Track:SR,04
+582.38,Adam, Leibman,Hoffman Estates,IL,278207,35,M,Track:SR,04
+582.68,Alec, Ratzell,Blandon,PA,310898,15,M,Track:SR,04
+582.78,Jeremy, Wilson,Indianapolis,IN,358949,37,M,Track:SR,04
+582.85,Rene, Saenz,Houston,TX,50265,42,M,Track:SR,04
+583.27,Jeff, Barrett,Frisco,TX,45060,55,M,Track:SR,04
+583.59,Bryson, Munroe,Plano,TX,381758,13,M,Track:SR,04
+583.80,Erik, Selberg,Seattle,WA,256111,41,M,Track:SR,04
+584.17,Jedidiah, Fritzinger,Georgetown,IN,292244,16,M,Track:SR,04
+584.17,Ben, Bradley,Plaquemine,LA,331166,27,M,Track:SR,04
+584.59,Sean, Rice,Annandale,NJ,318812,16,M,Track:SR,04
+584.76,Robert, King,Woodinville,WA,53072,41,M,Track:SR,04
+585.00,Eliott, Schloetel,Seattle,WA,382770,28,M,Track:SR,04
+585.40,Chistopher, Jones,Greenfield,IN,286228,27,M,Track:SR,04
+585.46,Noah, Thomas,Mertztown,PA,320520,15,M,Track:SR,04
+585.56,Jordan, Wolfe,Sanjose,CA,282654,17,M,Track:SR,04
+585.85,Kyle, Kalny,Downers Grove,IL,339934,22,M,Track:SR,04
+585.88,Brian, Arfmann,Arlington Heights,IL,282223,22,M,Track:SR,04
+586.06,Logan, Park,Noblesville,IN,335258,20,M,Track:SR,04
+586.17,Nicholas, Tveter,Derry,NH,380066,15,M,Track:SR,04
+586.38,Zachariah, McClendon,Sanpablo,CA,307855,15,M,Track:SR,04
+586.49,Richard, Orr,Redmond,WA,229975,43,M,Track:SR,04
+586.67,Steven, Rusnak,Seminole,FL,230108,21,M,Track:SR,04
+586.67,Graeme, Preston,New Orleans,LA,331200,27,M,Track:SR,04
+587.58,Travis, Rabbit,New Haven,CT,368373,30,M,Track:SR,04
+587.92,Jacob, Skrip,Breinigsville,PA,353400,14,M,Track:SR,04
+588.05,Krystian, Pac,Chicago,IL,149853,38,M,Track:SR,04
+588.33,Edward, Fritzinger,Georgetown,IN,292245,14,M,Track:SR,04
+588.33,Gerald, Adasavage,Philadelphia,PA,278103,27,M,Track:SR,04
+588.62,Donavon, Johnson,Huntington Beach,CA,306450,17,M,Track:SR,04
+588.69,Jesse, Duncan,Austin,TX,350756,30,M,Track:SR,04
+588.87,Jason, Cobb,Redmond,WA,286911,41,M,Track:SR,04
+589.36,Benjamin, Weekes,Oakland,CA,109383,55,M,Track:SR,04
+589.43,Stephen, Spiller,Flemington,NJ,265410,16,M,Track:SR,04
+589.99,James, Anderson,Mill Creek,WA,304352,32,M,Track:SR,04
+590.00,Bradyn, Smith,Garland,TX,354564,13,M,Track:SR,04
+590.00,Jason, Bordelon,Boyce,LA,298245,24,M,Track:SR,04
+590.24,Nikos, Hessert,Evanston,IL,347054,16,M,Track:SR,04
+591.11,Sean, Hourigan,Brooklyn,NY,193622,35,M,Track:SR,04
+591.52,Samuel, Hill,Woodland,CA,318306,14,M,Track:SR,04
+591.53,Phil, Nadeau,Saint Louis,MO,281072,44,M,Track:SR,04
+591.90,Joseph, Webster,Indianapolis,IN,199652,46,M,Track:SR,04
+592.05,Johnnie, Lewis,Avon,IN,21084,44,M,Track:SR,04
+592.30,Justin, Haley,Bothell,WA,333584,40,M,Track:SR,04
+592.36,Logan, Sofjan,Tomball,TX,385631,14,M,Track:SR,04
+592.50,Thomas, Bartolacci,Schnecksville,PA,57616,52,M,Track:SR,04
+592.50,Peter, Rizzo,Martinsville,NJ,172960,58,M,Track:SR,04
+593.04,Trey, Thornton,Issaquah,WA,296922,16,M,Track:SR,04
+593.89,David, Winski,Katy,TX,311181,17,M,Track:SR,04
+594.20,Shawn, Bentley,Plano,TX,377307,34,M,Track:SR,04
+594.67,Jacob, Wood,Mc Kinney,TX,311490,31,M,Track:SR,04
+595.00,Angel, Leano,Bothell,WA,181808,53,M,Track:SR,04
+595.15,Stephen, Hulsman,La Grange,KY,344456,45,M,Track:SR,04
+595.75,Yves, Arrouye,Bellevue,WA,301346,43,M,Track:SR,04
+595.88,Gabriel, Castano,Allentown,PA,378224,16,M,Track:SR,04
+596.67,Skip, Sparry,Plano,TX,46768,76,M,Track:SR,04
+596.67,Sheldon, Parmer,Tomball,TX,339298,52,M,Track:SR,04
+596.67,Michael, Humphreys,Brandon,MS,252422,49,M,Track:SR,04
+596.67,Samuel, Cowans,Philadelphia,PA,313484,21,M,Track:SR,04
+596.67,Theron, Sweet,Austin,TX,255241,28,M,Track:SR,04
+596.67,Jackson, McNear,Louisville,KY,301315,14,M,Track:SR,04
+596.67,Mark, Kline,West Chester,PA,257973,44,M,Track:SR,04
+596.67,Ross, Creed,Philadelphia,PA,339204,28,M,Track:SR,04
+596.67,William, McLaughlin,Ferndale,MI,76592,39,M,Track:SR,04
+520.43,Douglas, Wells,Rochester Hills,MI,341850,12,M,Track:SR,05
+543.33,Perry, Olix,Woodinville,WA,356432,13,M,Track:SR,05
+543.43,Thomas, Berdahl,Allentown,PA,319872,13,M,Track:SR,05
+546.37,Gerard, Josulevicz,Allentown,PA,380553,11,M,Track:SR,05
+547.14,james, smith,Saint Louis,MO,350458,49,M,Track:SR,05
+547.54,Alexander, Tveter,Derry,NH,380068,13,M,Track:SR,05
+548.51,Tom, Petty,Webster Groves,MO,344566,26,M,Track:SR,05
+550.87,Gregorino, Cordasco,Basking Ridge,NJ,346132,12,M,Track:SR,05
+552.63,Alex, Morton,Saint Clair,MI,373419,12,M,Track:SR,05
+553.49,Robert, Oellermann,St Charles,MO,95743,47,M,Track:SR,05
+554.17,Adrian, Magun,Mercer Island,WA,375179,9,M,Track:SR,05
+554.82,Andrew, Petty,Saint Louis,MO,346834,26,M,Track:SR,05
+556.67,Jeremy, Roberts,Wildwood,MO,382306,13,M,Track:SR,05
+557.78,John, Kuhfahl,Ingleside,IL,380295,15,M,Track:SR,05
+558.39,Jerod, Kizer,Dana,IN,339162,32,M,Track:SR,05
+560.00,Jon, Rinehart,Saint Louis,MO,380366,20,M,Track:SR,05
+560.00,ayuub, atkinson,San Jose,CA,354248,13,M,Track:SR,05
+560.05,Justin, King,Woodinville,WA,324838,14,M,Track:SR,05
+560.89,Jeff, Stein,St. Louis,MO,299124,50,M,Track:SR,05
+562.23,Michael, Simecek,Kirkland,WA,367978,20,M,Track:SR,05
+562.79,Alastair, Magun,Mercer Island,WA,317500,13,M,Track:SR,05
+563.33,Matthew, Adolf,Everett,WA,302963,13,M,Track:SR,05
+567.55,Colin, Boulard,South Lyon,MI,384730,11,M,Track:SR,05
+567.69,Tom, Grehn,St. Louis,MO,278696,48,M,Track:SR,05
+568.57,Brigg, Wenstrand,Pleasanton,CA,360862,11,M,Track:SR,05
+569.16,Gideon, Bender,Duvall,WA,271119,12,M,Track:SR,05
+569.42,Dexter, Koester,Los Angeles,CA,381512,11,M,Track:SR,05
+570.04,Brian, Shelton,Florissant,MO,321312,27,M,Track:SR,05
+571.12,Frank, Brummer,Teutopolis,IL,160252,55,M,Track:SR,05
+571.49,William, Muehlhausen,Bothell,WA,332792,18,M,Track:SR,05
+572.04,Brayden, Buchanan,Seattle,WA,285748,14,M,Track:SR,05
+573.33,daryus, patel,Evanston,IL,348972,15,M,Track:SR,05
+574.74,Andrew, Comer,San Marcos,CA,290914,13,M,Track:SR,05
+576.57,Mikey, Waine,Douglasville,GA,281158,15,M,Track:SR,05
+576.65,Luke, Mullis,Rochester Hills,MI,296792,15,M,Track:SR,05
+576.70,Steven, Kusy,Washington,DC,306704,27,M,Track:SR,05
+577.28,David, Gray,St. Louis,MO,251991,45,M,Track:SR,05
+577.44,Daniel, Szallai,Whitehouse Station,NJ,353174,15,M,Track:SR,05
+578.09,Doug, Havlin,Saint Louis,MO,378795,40,M,Track:SR,05
+578.37,Noel, Kimber,Seattle,WA,366152,22,M,Track:SR,05
+579.25,William, Walton,Allentown,PA,382206,12,M,Track:SR,05
+580.00,Matthew, Walp,Royal Oak,MI,111671,36,M,Track:SR,05
+580.00,Brandon, Knettel,Philadelphia,PA,338692,30,M,Track:SR,05
+580.00,Jeffrey, Phillips,Baton Rouge,LA,380876,31,M,Track:SR,05
+580.00,Michael, McCullough,Chesterfield,MO,276269,51,M,Track:SR,05
+581.15,Andrew, Austin,University Place,WA,316276,25,M,Track:SR,05
+581.23,Rupert, Cox,Emerald Hills,CA,309471,15,M,Track:SR,05
+581.85,Tim, Gaidis,St Louis,MO,185668,49,M,Track:SR,05
+582.27,Spencer, Brauchla,Laotto,IN,380101,21,M,Track:SR,05
+582.78,Thomas, Duncan,Fremont,CA,303797,17,M,Track:SR,05
+583.03,Kenneth, Dailey,West Point,NY,388382,20,M,Track:SR,05
+584.10,James, Cannon,Elwood,IN,351298,22,M,Track:SR,05
+584.43,Landon, Garcia,Macungie,PA,354524,14,M,Track:SR,05
+585.55,Tim, McCormick,Dayton,OH,289795,54,M,Track:SR,05
+585.66,Anup, Diwakar,Rochester Hills,MI,383126,15,M,Track:SR,05
+586.06,Kevin, Carringer,West Point,NY,388386,20,M,Track:SR,05
+586.25,Nikita, Lindgren,Wentzville,MO,366496,24,M,Track:SR,05
+586.77,Michael, Flanigan,Eureka,MO,209630,31,M,Track:SR,05
+587.20,Will, Revard,Carmel,IN,337938,14,M,Track:SR,05
+588.33,Carl, Foltz,Washington,MI,382621,50,M,Track:SR,05
+588.80,Mark, Hasler,Millstadt,IL,193729,46,M,Track:SR,05
+589.09,Stephen, Rogacki,Westpoint,NY,302975,23,M,Track:SR,05
+589.67,Kyle, Nock,Green Lane,PA,380829,15,M,Track:SR,05
+590.00,Reuben, Dupre,Mobile,AL,347008,21,M,Track:SR,05
+590.27,ryder, phillips,Redondo Beach,CA,381481,11,M,Track:SR,05
+590.61,Kevin, Curran,Madison Township,PA,273138,24,M,Track:SR,05
+591.18,Kristianson, Dillon,Alexandria,VA,366372,11,M,Track:SR,05
+591.35,Matt, McKinney,Indianapolis,IN,332594,29,M,Track:SR,05
+591.41,Perry, Andre,Bridgewater,NJ,297658,15,M,Track:SR,05
+591.85,Haegan, Altizer,Decatur,GA,350322,17,M,Track:SR,05
+592.29,Ryan, Bailis,Bethlehem,PA,358388,14,M,Track:SR,05
+592.66,Andrew, Dapper,Macungie,PA,297396,16,M,Track:SR,05
+592.84,Jason, Klein,Cherry Hill,NJ,230357,24,M,Track:SR,05
+593.33,Solomon, Treister,Chicago,IL,310523,13,M,Track:SR,05
+593.33,Jacob, Horvet,West Hills,CA,336766,13,M,Track:SR,05
+593.64,Garrett, Lynch,Randolph,NJ,250382,28,M,Track:SR,05
+593.89,Joshua, Williams,San Jose,CA,390452,17,M,Track:SR,05
+594.03,Brandon, Krasley,Emmaus,PA,319976,14,M,Track:SR,05
+594.17,Matthew, Muehlhausen,Bothell,WA,367238,49,M,Track:SR,05
+594.28,Dan, Feeherty,Saint Charles,MO,385804,24,M,Track:SR,05
+595.15,Brendan, Diener,New Castle,DE,308810,23,M,Track:SR,05
+596.67,Brandon, Masterman,Brooklyn,NY,383414,31,M,Track:SR,05
+596.67,Ashton, Braddock,Saint Louis,MO,310412,13,M,Track:SR,05
+596.67,Max, Staran,Farmington Hills,MI,384600,18,M,Track:SR,05
+596.67,Philip, Huyghe,Rochester,MI,372444,54,M,Track:SR,05
+596.67,Kyle, Eckley,Beech Creek,PA,80336,38,M,Track:SR,05
+596.69,Travis, Raymond,Pasadena,TX,379183,16,M,Track:SR,05
+553.76,Bobby, Lea,Mertztown,PA,65819,30,M,Track:IP,PR
+562.34,Ian, Burnett,Durango,CO,191725,27,M,Track:IP,PR
+565.20,Ian, Moir,Long Beach,CA,218004,22,M,Track:IP,PR
+507.54,Zachary, Carlson,Plano,TX,277433,18,M,Track:IP,01
+516.93,Chris, Carlson,Plano,TX,6135,50,M,Track:IP,01
+521.54,Adam, Leibovitz,Indianapolis,IN,221190,22,M,Track:IP,01
+526.05,Colt, Peterson,Huntington Beach,CA,287772,21,M,Track:IP,01
+528.36,Ryan, Sullivan,Nashville,TN,305979,29,M,Track:IP,01
+539.48,Stefan, Rothe,Austin,TX,205741,32,M,Track:IP,01
+545.41,Patric, Rostel,Grandjunction,CO,301113,27,M,Track:IP,01
+547.72,Robert, Bodamer,Humble,TX,47069,51,M,Track:IP,01
+549.82,Ted, Kicey,Houston,TX,52884,52,M,Track:IP,01
+555.73,Andrew, Armstrong,Dallas,TX,187559,31,M,Track:IP,01
+556.62,Liam, Donoghue,Boulder,CO,206188,29,M,Track:IP,01
+559.48,Lawrence, Nolan,Fremont,CA,26205,55,M,Track:IP,01
+561.60,Andrew, Carlberg,Bryan,TX,283020,23,M,Track:IP,01
+565.63,Gregory, Pent,Boulder,CO,47422,42,M,Track:IP,01
+568.06,Zack, Noonan,Kutztown,PA,249618,21,M,Track:IP,01
+569.30,Eduardo, Nieuwenhuyzen,Saint Louis,MO,232361,36,M,Track:IP,01
+571.41,Kevin, Nicol,Lafayette,CO,46845,46,M,Track:IP,01
+571.45,Lawrence, Stoegbauer,Chicago,IL,249042,43,M,Track:IP,01
+571.55,Ignacio, (Iggy) Silva,San Diego,CA,166264,23,M,Track:IP,01
+578.85,Curtis, Tolson,Louisville,KY,46006,50,M,Track:IP,01
+580.33,Aaron, Berntson,Port Orchard,WA,179545,49,M,Track:IP,01
+584.79,Taylor, Fenstermacher,Redondo Beach,CA,52735,50,M,Track:IP,01
+586.28,John, Walsh,Playa Del Rey,CA,37101,50,M,Track:IP,01
+586.97,David, Matthews,Seattle,WA,52628,45,M,Track:IP,01
+587.78,Andres, Gonzalez,Katy,TX,236824,29,M,Track:IP,01
+480.51,Jake, Boone,Hurst,TX,284344,20,M,Track:IP,02
+487.91,Griffin, Easter,Durango,CO,282590,22,M,Track:IP,02
+514.72,Weston, Luzadder,Carmel,IN,240464,23,M,Track:IP,02
+515.85,Charles, (Mac) Cassin,Denver,CO,287030,22,M,Track:IP,02
+518.13,David, Novak,Tunkhannock,PA,268729,20,M,Track:IP,02
+522.67,Zachary, LaBry,Somerville,MA,235849,27,M,Track:IP,02
+523.81,Shane, Haga,Mckinney,TX,249581,22,M,Track:IP,02
+527.22,Thomas, Schubert,Murrells Inlet,SC,291477,21,M,Track:IP,02
+531.77,Johnathan, Freter,Columbus,OH,266654,21,M,Track:IP,02
+532.90,Zachary, Felpel,Willowstreet,PA,220467,23,M,Track:IP,02
+534.04,Bill, Golembieski,Boulder,CO,274222,22,M,Track:IP,02
+535.18,Karl, Schroeder,Usaf Academy,CO,193633,22,M,Track:IP,02
+536.31,Cory, Scott,Richmond,VA,253558,26,M,Track:IP,02
+540.41,Alexander, Freund,Davis,CA,222322,19,M,Track:IP,02
+542.00,Alexander, Gil,Hialeah,FL,228635,24,M,Track:IP,02
+543.13,Neal, Shepherd,Palm Coast,FL,244277,20,M,Track:IP,02
+546.71,Bobby, Unverzagt,Torrance,CA,253787,19,M,Track:IP,02
+548.82,Matt, Gittings,Indianapolis,IN,359006,21,M,Track:IP,02
+549.95,Matthew, Brandt,St Charles,MO,197984,25,M,Track:IP,02
+552.44,Joshua, Frick,Park City,UT,135709,38,M,Track:IP,02
+554.50,Taylor, Warren,Loveland,CO,287780,21,M,Track:IP,02
+555.66,Steven, Worley,Boulder,CO,47502,62,M,Track:IP,02
+555.77,peter, baughman,Carnation,WA,243415,41,M,Track:IP,02
+556.77,Dean, Haas,Lakewood,CO,271420,19,M,Track:IP,02
+557.44,James, Host,Plainfield,IL,126420,57,M,Track:IP,02
+558.34,Roman, Kilun,Oakland,CA,153790,32,M,Track:IP,02
+559.81,Kevin, Phillips,Redondo Beach,CA,28056,40,M,Track:IP,02
+560.18,Sean, Vig,Urbana,IL,291066,24,M,Track:IP,02
+560.96,Victor, Williams,Lonetree,CO,38436,51,M,Track:IP,02
+561.32,Cody, Stephenson,Fort Collins,CO,146653,28,M,Track:IP,02
+561.36,Glen, Winkel,Colorado Springs,CO,38640,58,M,Track:IP,02
+561.57,Daniel, Gay,Temecula,CA,214863,18,M,Track:IP,02
+562.59,Daniel, Casper,Northfield,MN,214654,47,M,Track:IP,02
+563.86,Barry, Messmer,Fort Collins,CO,51850,63,M,Track:IP,02
+564.39,Jordan, Cullen,Hudson,WI,229280,18,M,Track:IP,02
+564.73,Rory, Jack,Seattle,WA,329332,22,M,Track:IP,02
+565.39,Joseph, Paulson,Boulder,CO,46650,53,M,Track:IP,02
+567.57,James, Kramer,Scottsdale,AZ,54748,45,M,Track:IP,02
+570.86,Shannon, Fox,Englewood,CO,46714,59,M,Track:IP,02
+571.30,Donald, Langley,Morgan Hill,CA,20327,51,M,Track:IP,02
+572.77,Stephen, Sperry,Spartanburg,SC,46890,51,M,Track:IP,02
+573.78,Jason, Meidhof,Bethesda,MD,143088,39,M,Track:IP,02
+574.56,Jeromy, Cottell,Redwood City,CA,273912,38,M,Track:IP,02
+575.33,Todd, Scheske,Rochester,NY,50510,43,M,Track:IP,02
+575.73,Kenneth, Rodriguez,Denver,CO,116448,55,M,Track:IP,02
+575.87,Dean, Peterson,Indianapolis,IN,27887,48,M,Track:IP,02
+576.16,Paul, Mack,Longmont,CO,22026,63,M,Track:IP,02
+576.64,Daniel, Holt,Alpharetta,GA,63559,32,M,Track:IP,02
+576.80,Zack, Gould,Boulder,CO,228241,18,M,Track:IP,02
+577.27,Thomas, Cuneio,Lake Saint Louis,MO,264312,41,M,Track:IP,02
+577.71,Jeffrey, Fillerup,Belmont,CA,50815,57,M,Track:IP,02
+578.37,Danny, Hiller,Boulder,CO,246171,21,M,Track:IP,02
+578.49,Aaron, Trent,Greenville,SC,278146,27,M,Track:IP,02
+578.68,Kent, Menzel,Greencastle,IN,108690,54,M,Track:IP,02
+579.11,Grant, Mills,Mc Kinney,TX,330116,19,M,Track:IP,02
+580.00,Brian, Rady,Chicago,IL,345470,32,M,Track:IP,02
+580.00,Jack, Stepczynski,Fort Worth,TX,164777,47,M,Track:IP,02
+580.00,Greg, Cordasco,Basking Ridge,NJ,7782,51,M,Track:IP,02
+580.00,Lawrence, Bosch,Fort Collins,CO,4314,68,M,Track:IP,02
+580.26,George, Geier,Marion,IN,46633,62,M,Track:IP,02
+581.15,Daryl, Hemenway,San Jose,CA,133838,43,M,Track:IP,02
+581.63,Dave, Gray,Saint Paul,MN,192457,51,M,Track:IP,02
+582.78,Luke, Bligh,Saint Louis,MO,280844,33,M,Track:IP,02
+582.92,Erick, Goytia,El Paso,TX,262610,21,M,Track:IP,02
+583.07,Craig, Jones,Katy,TX,280908,45,M,Track:IP,02
+584.76,Michael, Williams,Metairie,LA,53228,70,M,Track:IP,02
+585.15,Robert, Springer,Sturtevant,WI,57145,41,M,Track:IP,02
+585.56,Brendan, Sharpe,Austin,TX,205553,30,M,Track:IP,02
+587.14,Mike, Macdonald,Rancho Cordova,CA,45626,72,M,Track:IP,02
+588.09,Joe, Dickerson,Los Gatos,CA,306664,26,M,Track:IP,02
+589.22,Alexander, Riva,Pleasant Prairie,WI,260381,18,M,Track:IP,02
+589.25,E Eric Johnson,E Eric Johnson,Seattle,WA,204929,49,M,Track:IP,02
+589.52,Cameron, Forsythe,Woodinville,WA,12059,36,M,Track:IP,02
+590.74,John, Wright,League City,TX,71838,46,M,Track:IP,02
+590.85,Guy, Tucker,Bellingham,WA,252718,42,M,Track:IP,02
+592.75,Bruce, Gordon,South Bend,IN,100338,56,M,Track:IP,02
+592.79,Matthew, Haldeman,Mountlake Ter,WA,14657,45,M,Track:IP,02
+594.29,Thomas, Lobdell,Indianapolis,IN,45607,66,M,Track:IP,02
+596.67,Edgar, Nunnelly,Houston,TX,117,41,M,Track:IP,02
+596.67,Bennie, Flores,Pride,LA,52111,43,M,Track:IP,02
+596.67,Nathan, Schickel,Indianapolis,IN,303,40,M,Track:IP,02
+596.67,William, Fiser,Houston,TX,258668,27,M,Track:IP,02
+519.26,Zack, Allison,Fort Collins,CO,211435,24,M,Track:IP,03
+520.40,Spencer, Oswald,Dubuque,IA,231748,21,M,Track:IP,03
+529.49,Timothy, Jenkinson,Mars Hill,NC,325110,22,M,Track:IP,03
+537.45,Ben, Stalker,Durango,CO,252617,26,M,Track:IP,03
+538.59,Jos, Chalmers,Indian Harbour Beach,FL,271372,20,M,Track:IP,03
+540.86,Justin, Lowe,Columbia,KY,291819,24,M,Track:IP,03
+544.27,Spencer, Schaber,Somerville,MA,279771,27,M,Track:IP,03
+547.68,Quint, Berkemeier,Lake Arrowhead,CA,240136,19,M,Track:IP,03
+548.09,Dave, Maminski,Campbell,CA,270067,52,M,Track:IP,03
+551.09,Nicholas, Grigsby,London,KY,228975,24,M,Track:IP,03
+552.23,Brian, Ellison,Chicago Heights,IL,310844,22,M,Track:IP,03
+553.36,Ryan, Cleveland,Durango,CO,210683,22,M,Track:IP,03
+561.59,Raymond, Gildea,Emerald Hills,CA,133970,57,M,Track:IP,03
+563.59,Stefan, Zavislan,Usaf Academy,CO,296754,21,M,Track:IP,03
+563.91,Bubba, Melcher,Reno,NV,23961,53,M,Track:IP,03
+567.00,Brandon, Feehery,Homewood,IL,193035,21,M,Track:IP,03
+567.96,David, Mulica,Littleton,CO,48181,64,M,Track:IP,03
+569.51,Kurt, Broadhag,Los Angeles,CA,157173,43,M,Track:IP,03
+569.96,Alex, Tellez,Oakland,CA,305003,29,M,Track:IP,03
+572.06,Larry, Wolff,Sacramento,CA,219527,63,M,Track:IP,03
+573.82,Zebulon, Hanley,Usaf Academy,CO,309404,22,M,Track:IP,03
+577.23,Luke, Momper,Fort Wayne,IN,339018,22,M,Track:IP,03
+578.25,Jerry, Shafer,Seattle,WA,54693,66,M,Track:IP,03
+579.84,Michael, Hart,Indianapolis,IN,314910,20,M,Track:IP,03
+580.00,Andy, Dobson,Arlington,VA,279105,57,M,Track:IP,03
+580.00,Mark, Wagner,Saint James,NY,253551,27,M,Track:IP,03
+580.00,John, Singleton,Carmel,IN,181968,53,M,Track:IP,03
+580.00,Devin, Carroll,Austin,TX,227547,27,M,Track:IP,03
+580.00,Lionel, Space,Phoenix,AZ,197647,59,M,Track:IP,03
+580.00,Douglas, Evans,Katy,TX,367586,45,M,Track:IP,03
+580.16,Clark, Natwick,San Mateo,CA,25743,55,M,Track:IP,03
+580.64,Garrett, Braun,U S A F Academy,CO,368131,21,M,Track:IP,03
+580.98,David, Beitel,Conifer,CO,298098,56,M,Track:IP,03
+581.77,Noah, Williams,Wimberley,TX,185731,18,M,Track:IP,03
+581.78,R Maitland Jones,R Maitland Jones,Tallahassee,FL,256772,23,M,Track:IP,03
+581.93,Joshua, Schwiesow,Golden,CO,277942,36,M,Track:IP,03
+582.78,Carlos, Perea,Baton Rouge,LA,355122,24,M,Track:IP,03
+583.09,Gregory, Auld,Golden,CO,91454,44,M,Track:IP,03
+583.11,Jon, Lazard,Marion,IN,55674,51,M,Track:IP,03
+583.33,Peter, Czapiewski,Alexandria,VA,93207,58,M,Track:IP,03
+583.33,Dustin, Drewes,Baton Rouge,LA,281156,23,M,Track:IP,03
+583.33,Christopher, Burns,Glen Allen,VA,221792,43,M,Track:IP,03
+584.05,Nathan, Labecki,Milwaukee,WI,209414,19,M,Track:IP,03
+584.17,William, Short,Falls Church,VA,96204,46,M,Track:IP,03
+584.25,William, Pestcoe,Allentown,PA,284904,18,M,Track:IP,03
+584.36,Art, Hicks,Racine,WI,255412,62,M,Track:IP,03
+584.59,Scott, Hodder,Oceanport,NJ,46178,54,M,Track:IP,03
+585.03,Jeffrey, Wardell,Boulder,CO,155512,45,M,Track:IP,03
+585.56,Stephen, Frattini,Port Washington,NY,126675,31,M,Track:IP,03
+585.56,Paul, Beaudoin,Bellevue,WA,325660,52,M,Track:IP,03
+586.06,Andrew, King,Hermosa Beach,CA,67883,54,M,Track:IP,03
+586.33,Jason, Lupo,Colorado Springs,CO,289022,22,M,Track:IP,03
+586.67,Mark, McMurry,La Place,LA,50922,54,M,Track:IP,03
+586.74,Zachary, Houlik,Breinigsville,PA,296256,18,M,Track:IP,03
+586.94,John, Petrakis,Sonoma,CA,27937,67,M,Track:IP,03
+587.10,Robert, Vigeant,Gresham,OR,316948,49,M,Track:IP,03
+587.54,Voytek, Glinkowski,Buffalo Grove,IL,250244,54,M,Track:IP,03
+588.33,Zachary, Slavens,Saint Louis,MO,357850,23,M,Track:IP,03
+588.33,Mark, Sommers,Washington,DC,149858,57,M,Track:IP,03
+588.33,Daniel, Tinklepaugh,Lewisville,TX,49901,53,M,Track:IP,03
+588.33,Steven, Benni,Chicago,IL,271725,35,M,Track:IP,03
+588.33,Said, Assali,Houston,TX,353912,30,M,Track:IP,03
+588.33,Dale, Crockatt,Tucson,AZ,230830,59,M,Track:IP,03
+588.60,Evan, Glowiak,Usaf Academy,CO,300853,23,M,Track:IP,03
+588.80,Justin, Widhalm,Fountain,CO,313338,36,M,Track:IP,03
+590.00,Randall, Legeai,New Orleans,LA,45586,60,M,Track:IP,03
+590.49,Steven, Lindell,Bellevue,WA,218873,54,M,Track:IP,03
+590.81,Sebastian, York,Dallas,TX,307679,16,M,Track:IP,03
+591.90,Peter, Moore,Niwot,CO,307655,71,M,Track:IP,03
+593.33,Daniel, Underwood,Reston,VA,63111,39,M,Track:IP,03
+593.33,Max, Rogozinski,Woodbridge,VA,142114,60,M,Track:IP,03
+593.45,Jay, Wolkoff,Altadena,CA,38811,55,M,Track:IP,03
+593.71,Michael, Klisch,Carnation,WA,44109,50,M,Track:IP,03
+594.28,Louis, Brooks,Vista,CA,47479,74,M,Track:IP,03
+596.67,Eldon, Criswell,Alvin,TX,174416,63,M,Track:IP,03
+596.67,Andrew, (Drew) Tucker,Richardson,TX,145515,48,M,Track:IP,03
+596.67,James, Bellora,Falls Church,VA,132954,53,M,Track:IP,03
+596.67,Stephen, Pelletier,Amesbury,MA,300138,45,M,Track:IP,03
+596.67,Dave, Weaver,Towson,MD,37442,42,M,Track:IP,03
+596.67,Spencer, Buchanan,Newport Beach,CA,288499,18,M,Track:IP,03
+519.72,Steven, Rusnak,Seminole,FL,230108,21,M,Track:IP,04
+542.08,Martin, Harris,Berkeley,CA,57779,49,M,Track:IP,04
+548.06,Clif, Cassidy,Dallas,TX,310674,57,M,Track:IP,04
+550.92,Logan, Park,Noblesville,IN,335258,20,M,Track:IP,04
+555.64,Aaron, Canale,Durango,CO,274814,23,M,Track:IP,04
+559.05,Payson, McElveen,Durango,CO,276372,20,M,Track:IP,04
+565.87,Andrew, Llewellyn,Louisville,KY,222859,23,M,Track:IP,04
+569.28,Logan, Luker,Lebanon,TN,226312,24,M,Track:IP,04
+569.36,Michael, Houghton,West Point,NY,341384,21,M,Track:IP,04
+574.82,Will, Wright,Campbell,CA,351738,14,M,Track:IP,04
+574.96,Zach, Bender,Glen Rock,NJ,250355,19,M,Track:IP,04
+577.37,Gary, Bridges,San Carlos,CA,4819,70,M,Track:IP,04
+580.00,Dennis, Roberts,Wildwood,MO,265342,52,M,Track:IP,04
+580.00,Ted, Michaels,Leesburg,VA,206649,42,M,Track:IP,04
+580.00,Troy, Pearson,Tucson,AZ,205797,46,M,Track:IP,04
+580.00,Adam, McCullough,Magnolia,TX,308149,29,M,Track:IP,04
+580.00,Kyle, Kent,Scottsdale,AZ,350110,15,M,Track:IP,04
+580.00,Jeff, Biever,Phoenix,AZ,251657,52,M,Track:IP,04
+580.00,Ben, Bradley,Plaquemine,LA,331166,27,M,Track:IP,04
+580.00,Leo, Menestrina,San Jose,CA,117518,71,M,Track:IP,04
+580.00,Graeme, Preston,New Orleans,LA,331200,27,M,Track:IP,04
+580.00,Alex, Borsuk,Wales Center,NY,347692,23,M,Track:IP,04
+580.00,Ellis, Anderson,Moraga,CA,274504,19,M,Track:IP,04
+580.68,Niles, Wesley,Alameda,CA,352902,12,M,Track:IP,04
+581.67,John, Chamberlain,Great Falls,VA,190901,56,M,Track:IP,04
+582.38,Jim, Turner,Menlo Park,CA,63449,74,M,Track:IP,04
+583.31,Michael, Williams,Fort Collins,CO,38398,49,M,Track:IP,04
+584.17,Dan, Ranshaw,Cave Creek,AZ,336204,56,M,Track:IP,04
+584.90,Daniel, Rock,Encinitas,CA,30251,59,M,Track:IP,04
+585.00,John, Olinski,New Market,MD,235755,57,M,Track:IP,04
+585.56,Peter, Eckel,Alpharetta,GA,168532,31,M,Track:IP,04
+586.25,Zachariah, McClendon,Sanpablo,CA,307855,15,M,Track:IP,04
+586.67,Steve, Gorham,Perry Hall,MD,60145,59,M,Track:IP,04
+586.67,Joel, Steen,Laurel,MD,237732,40,M,Track:IP,04
+587.46,Sean, Brown,Burkburnett,TX,272798,25,M,Track:IP,04
+587.58,Jeffrey, Martin,Oceanside,CA,319570,32,M,Track:IP,04
+587.77,Ross, Tinline,San Carlos,CA,35623,50,M,Track:IP,04
+588.33,Rene, Saenz,Houston,TX,50265,42,M,Track:IP,04
+588.33,Victor, Morandi,Houston,TX,313036,15,M,Track:IP,04
+588.33,Alexander, Meller,Annapolis,MD,253692,55,M,Track:IP,04
+589.34,Gerald, Jeffs,Dublin,CA,235909,54,M,Track:IP,04
+589.52,Sydney, Duck,Agoura Hills,CA,58170,67,M,Track:IP,04
+590.00,William, Wong,Alexandria,VA,121718,42,M,Track:IP,04
+590.00,John, Cohen,Newark,DE,45197,60,M,Track:IP,04
+591.11,Stuart, Harbottle,Trophy Club,TX,237518,57,M,Track:IP,04
+591.11,Sean, Hourigan,Brooklyn,NY,193622,35,M,Track:IP,04
+591.70,Dag, Anderson,Bridgewater,NJ,231596,19,M,Track:IP,04
+592.12,Travis, Rabbit,New Haven,CT,368373,30,M,Track:IP,04
+593.89,Jeff, Barrett,Frisco,TX,45060,55,M,Track:IP,04
+595.00,Fred, Rednor,Arlington,VA,154401,61,M,Track:IP,04
+596.65,Theron, Sweet,Austin,TX,255241,28,M,Track:IP,04
+596.67,Angel, Leano,Bothell,WA,181808,53,M,Track:IP,04
+596.67,Timothy, Wozniak,Brownsburg,IN,273382,57,M,Track:IP,04
+596.67,Michael, Humphreys,Brandon,MS,252422,49,M,Track:IP,04
+596.67,Ross, Creed,Philadelphia,PA,339204,28,M,Track:IP,04
+596.67,james, briggs,North Huntingdon,PA,274597,69,M,Track:IP,04
+596.67,Sheldon, Parmer,Tomball,TX,339298,52,M,Track:IP,04
+596.67,Mark, Kline,West Chester,PA,257973,44,M,Track:IP,04
+596.67,Ino, Sofjan,Tomball,TX,386410,49,M,Track:IP,04
+557.81,Joe, Kolling,Newport Beach,CA,273962,51,M,Track:IP,05
+562.46,Tanner, Hurst,Gallatin,TN,277734,20,M,Track:IP,05
+566.87,Gregory, Daniel,Englewood,CO,298625,19,M,Track:IP,05
+571.84,Jonathon, Schilling,Grover,MO,255838,18,M,Track:IP,05
+572.77,Kenneth, Dailey,West Point,NY,388382,20,M,Track:IP,05
+576.10,Britton, Kinnard,Nashville,TN,64317,38,M,Track:IP,05
+579.25,Joshua, Williams,San Jose,CA,390452,17,M,Track:IP,05
+579.39,Chester, Triplett,Mooresville,NC,318262,34,M,Track:IP,05
+580.00,Aaron, Bobinsky,Indianapolis,IN,156296,32,M,Track:IP,05
+580.00,Jonathan, Baggett,Falls Church,VA,133076,32,M,Track:IP,05
+581.10,Kevin, Carringer,West Point,NY,388386,20,M,Track:IP,05
+581.48,Stephen, Rogacki,Westpoint,NY,302975,23,M,Track:IP,05
+581.52,Brandon, Knettel,Philadelphia,PA,338692,30,M,Track:IP,05
+581.82,Mike, Schaumloeffel,Boulder,CO,286890,47,M,Track:IP,05
+582.38,Jack, Kelso,Pleasanton,CA,202171,67,M,Track:IP,05
+583.03,Jonathan, Copsey,Colorado Springs,CO,324190,27,M,Track:IP,05
+583.33,Tim, Gaidis,St Louis,MO,185668,49,M,Track:IP,05
+584.17,Joseph, DeMarco,Scottsdale,AZ,380145,15,M,Track:IP,05
+584.76,Erik, Hokanson,Bellingham,WA,365003,48,M,Track:IP,05
+585.15,Kevin, Meyers,Greenfield,WI,295266,51,M,Track:IP,05
+585.56,Reese, Levine,Orinda,CA,263998,18,M,Track:IP,05
+588.33,Gregory, Albert,Chandler,AZ,319056,52,M,Track:IP,05
+588.33,Aaron, Apel,Scottsdale,AZ,305166,15,M,Track:IP,05
+588.33,David, Katz,Gilbert,AZ,366044,49,M,Track:IP,05
+588.33,Mario, Miramontes,San Jose,CA,302141,44,M,Track:IP,05
+588.46,Tracy, Evans,Rancho Santa Fe,CA,203168,65,M,Track:IP,05
+590.61,Kevin, Curran,Madison Township,PA,273138,24,M,Track:IP,05
+591.11,Luis, Camacho,Cumming,GA,216909,51,M,Track:IP,05
+591.11,Robert, Oellermann,St Charles,MO,95743,47,M,Track:IP,05
+591.11,Ben, Freas,Elkhorn,WI,338970,17,M,Track:IP,05
+592.50,Stephen, BobkoHillenaar,Carefree,AZ,361693,57,M,Track:IP,05
+592.50,Raymond, Plewacki,Fairfax,VA,222263,53,M,Track:IP,05
+593.15,Paul, Abel,Austin,TX,354988,28,M,Track:IP,05
+593.33,Brian, Shelton,Florissant,MO,321312,27,M,Track:IP,05
+593.64,Garrett, Lynch,Randolph,NJ,250382,28,M,Track:IP,05
+593.89,jason, frizell,Denham Springsdenham Springs,LA,350826,39,M,Track:IP,05
+594.19,Adam, Ziegler,Bethlehem,PA,246353,18,M,Track:IP,05
+595.15,Brendan, Diener,New Castle,DE,308810,23,M,Track:IP,05
+595.28,Shawn, Oliver,Morgan Hill,CA,249822,51,M,Track:IP,05
+596.66,John, Pierce,Westwood Hills,KS,237070,64,M,Track:IP,05
+596.67,William, Kahn,Phoenix,AZ,205658,54,M,Track:IP,05
+596.67,Brandon, Masterman,Brooklyn,NY,383414,31,M,Track:IP,05
+596.67,Herbert, Guhn,Denham Springs,LA,369304,34,M,Track:IP,05
+596.67,Jeremy, Roberts,Wildwood,MO,382306,13,M,Track:IP,05
+596.67,james, smith,Saint Louis,MO,350458,49,M,Track:IP,05
+596.67,steve, kelly,Draper,UT,374782,51,M,Track:IP,05
+596.67,Adam, OCamb,San Luis Obispo,CA,297136,19,M,Track:IP,05
+596.69,Gary, Vincent,Albuquerque,NM,312534,46,M,Track:IP,05
+406.46,Matthew, Baranoski,Perkasie,PA,213251,20,M,Track:SPR,01
+420.77,Danny, Robertson,Rolling Meadows,IL,256071,25,M,Track:SPR,01
+465.89,Conor, Klupar,Fall City,WA,250108,19,M,Track:SPR,01
+466.69,Andrew, Carlberg,Bryan,TX,283020,23,M,Track:SPR,01
+472.29,Jason, Garner,Glenview,IL,42620,40,M,Track:SPR,01
+476.56,Jeffrey, Whiteman,Chicago,IL,181146,36,M,Track:SPR,01
+517.29,Brent, Stein,Englewood,CO,56833,39,M,Track:SPR,01
+523.39,Robert, Bodamer,Humble,TX,47069,51,M,Track:SPR,01
+542.58,Mark, Rodamaker,Los Altos,CA,30269,65,M,Track:SPR,01
+542.74,Andrew, LaCorte,White House Station,NJ,80146,42,M,Track:SPR,01
+547.62,Patric, Rostel,Grandjunction,CO,301113,27,M,Track:SPR,01
+551.07,Eduardo, Nieuwenhuyzen,Saint Louis,MO,232361,36,M,Track:SPR,01
+553.39,Jesse, Marans,Newport Beach,CA,222483,20,M,Track:SPR,01
+563.03,Ignacio, (Iggy) Silva,San Diego,CA,166264,23,M,Track:SPR,01
+563.21,Kevin, Mansker,Long Beach,CA,269334,24,M,Track:SPR,01
+566.47,Patrick, Larabee D.C.,Longmont,CO,261207,47,M,Track:SPR,01
+568.10,Allen, Vugrincic,Palo Alto,CA,157409,42,M,Track:SPR,01
+569.24,Butch, Stinton,Castle Rock,CO,34198,61,M,Track:SPR,01
+577.00,Steven, Beardsley,Portland,OR,225787,31,M,Track:SPR,01
+577.67,Michael, Giem,Colorado Springs,CO,157100,33,M,Track:SPR,01
+583.26,Colt, Peterson,Huntington Beach,CA,287772,21,M,Track:SPR,01
+585.97,James, Flynn,Port Orchard,WA,51090,44,M,Track:SPR,01
+588.33,Ryan, Crissey,Garland,TX,133,41,M,Track:SPR,01
+591.18,Curtis, Tolson,Louisville,KY,46006,50,M,Track:SPR,01
+596.67,Mark, Gorman,Philadelphia,PA,54963,43,M,Track:SPR,01
+596.67,John, Walsh,Playa Del Rey,CA,37101,50,M,Track:SPR,01
+493.02,Paul, Malenke,Roseville,CA,82738,47,M,Track:SPR,02
+525.30,Nathan, Koch,Los Alamitos,CA,333724,27,M,Track:SPR,02
+537.62,Donald, Langley,Morgan Hill,CA,20327,51,M,Track:SPR,02
+539.91,Colton, Barrett,Indianapolis,IN,224589,22,M,Track:SPR,02
+540.88,Alexander, Gil,Hialeah,FL,228635,24,M,Track:SPR,02
+540.90,Michael, Paulin,Aurora,CO,205972,46,M,Track:SPR,02
+542.67,Rob, Barnes,Boulder,CO,46590,47,M,Track:SPR,02
+542.80,Matt, Gittings,Indianapolis,IN,359006,21,M,Track:SPR,02
+546.71,Kevin, Wayman,Saint Louis,MO,230808,56,M,Track:SPR,02
+551.47,Jake, Boone,Hurst,TX,284344,20,M,Track:SPR,02
+551.90,Shannon, Malmquist,Miami,FL,58174,38,M,Track:SPR,02
+555.33,Luke, Harris,Fort Collins,CO,269648,24,M,Track:SPR,02
+558.22,Danny, Hiller,Boulder,CO,246171,21,M,Track:SPR,02
+559.21,Richard, Voss,Littleton,CO,77347,57,M,Track:SPR,02
+559.41,Todd, Scheske,Rochester,NY,50510,43,M,Track:SPR,02
+559.77,Mike, Macdonald,Rancho Cordova,CA,45626,72,M,Track:SPR,02
+561.19,Andrew, Weathers,Houston,TX,37436,44,M,Track:SPR,02
+561.49,Joseph, Paulson,Boulder,CO,46650,53,M,Track:SPR,02
+561.93,James, Martins,Houston,TX,52582,71,M,Track:SPR,02
+562.07,Cory, Scott,Richmond,VA,253558,26,M,Track:SPR,02
+562.58,Robert, Mayfield,Saint Louis,MO,275501,28,M,Track:SPR,02
+562.96,Kurt, Sato,San Pedro,CA,45892,56,M,Track:SPR,02
+563.09,Michael, Keenan,Orange Park,FL,261241,39,M,Track:SPR,02
+563.73,Joaquin, Kiley,Detroit,MI,53013,46,M,Track:SPR,02
+564.96,Erick, Goytia,El Paso,TX,262610,21,M,Track:SPR,02
+565.56,Chris, Weber,Woodinville,WA,280946,43,M,Track:SPR,02
+565.92,Matthew, Brandt,St Charles,MO,197984,25,M,Track:SPR,02
+566.89,Karl, Schroeder,Usaf Academy,CO,193633,22,M,Track:SPR,02
+566.97,Ronald, Hargrave,Colorado Springs,CO,148094,67,M,Track:SPR,02
+567.85,Sam, Stone,North Freedom,WI,213424,22,M,Track:SPR,02
+568.29,Daniel, Currell,Saint Paul,MN,235364,41,M,Track:SPR,02
+572.81,Stephen, Sperry,Spartanburg,SC,46890,51,M,Track:SPR,02
+573.57,Thomas, Lobdell,Indianapolis,IN,45607,66,M,Track:SPR,02
+573.89,John, Elgart,Sacramento,CA,45071,67,M,Track:SPR,02
+574.02,Martin, Houston,Highlands Ranch,CO,203899,34,M,Track:SPR,02
+575.80,Edward, Horvet,West Hills,CA,290181,17,M,Track:SPR,02
+576.35,Matthew, Valencia,Los Altos,CA,255576,17,M,Track:SPR,02
+578.52,Eric, Waterman,Seattle,WA,199360,50,M,Track:SPR,02
+578.77,Grant, Mills,Mc Kinney,TX,330116,19,M,Track:SPR,02
+578.82,Daniel, Reback,Long Beach,CA,141562,41,M,Track:SPR,02
+579.41,Charles, (Mac) Cassin,Denver,CO,287030,22,M,Track:SPR,02
+579.97,Kaleb, Koch,Glenview,IL,265924,19,M,Track:SPR,02
+580.00,Gilbert, Hatton,Breinigsville,PA,61128,57,M,Track:SPR,02
+580.00,Chip, Berezny,Coopersburg,PA,45079,62,M,Track:SPR,02
+580.00,Matthew, Diefenbach,Pottstown,PA,142263,49,M,Track:SPR,02
+580.00,Luke, Bligh,Saint Louis,MO,280844,33,M,Track:SPR,02
+580.21,Innokenty, Zavyalov,Minneapolis,MN,319002,22,M,Track:SPR,02
+580.37,Zachary, LaBry,Somerville,MA,235849,27,M,Track:SPR,02
+581.34,Bill, Golembieski,Boulder,CO,274222,22,M,Track:SPR,02
+581.65,Gregory, Kick,Chicago,IL,239775,28,M,Track:SPR,02
+581.82,Calan, Farley,Pittstown,NJ,233338,18,M,Track:SPR,02
+582.33,Guy, Tucker,Bellingham,WA,252718,42,M,Track:SPR,02
+582.74,Ron, Good,Naperville,IL,268828,55,M,Track:SPR,02
+583.33,Paul, Drees,Avondale,PA,193282,50,M,Track:SPR,02
+583.64,Earl, Henry,Pinellas Park,FL,45449,72,M,Track:SPR,02
+583.78,Jeffrey, Pyatt,Bellevue,WA,52532,54,M,Track:SPR,02
+585.00,Joel, Hawks,Plano,TX,284976,44,M,Track:SPR,02
+585.53,Tyler, Nothstein,Orefield,PA,312612,18,M,Track:SPR,02
+585.69,Greg, Wilson,Northglenn,CO,38526,47,M,Track:SPR,02
+586.67,Bennie, Flores,Pride,LA,52111,43,M,Track:SPR,02
+586.67,Cameron, Forsythe,Woodinville,WA,12059,36,M,Track:SPR,02
+587.14,Andrew, Brennan,Manasquan,NJ,70112,43,M,Track:SPR,02
+587.52,George, Geier,Marion,IN,46633,62,M,Track:SPR,02
+589.04,Johnathan, Freter,Columbus,OH,266654,21,M,Track:SPR,02
+590.00,Craig, Jones,Katy,TX,280908,45,M,Track:SPR,02
+593.37,Michael, Williams,Metairie,LA,53228,70,M,Track:SPR,02
+594.29,Cameron, Reider,Easton,PA,41251,42,M,Track:SPR,02
+533.34,Spencer, Moak,Katy,TX,339808,42,M,Track:SPR,03
+534.36,Austin, Throop,Katy,TX,290120,24,M,Track:SPR,03
+541.22,Thomas, Donohue,Seattle,WA,238989,50,M,Track:SPR,03
+544.96,Garrison, Horton,Mckinney,TX,322974,17,M,Track:SPR,03
+545.71,Dean, Haraguchi,Dripping Springs,TX,49775,46,M,Track:SPR,03
+548.58,Zack, Allison,Fort Collins,CO,211435,24,M,Track:SPR,03
+550.00,Joshua, Ballard,Richardson,TX,177319,42,M,Track:SPR,03
+550.28,Aidan, Kesner,Lexington,MA,353160,19,M,Track:SPR,03
+552.44,Timothy, Jenkinson,Mars Hill,NC,325110,22,M,Track:SPR,03
+553.33,Douglas, Evans,Katy,TX,367586,45,M,Track:SPR,03
+553.63,Dustin, Drewes,Baton Rouge,LA,281156,23,M,Track:SPR,03
+556.29,Ben, Stalker,Durango,CO,252617,26,M,Track:SPR,03
+557.25,Ryan, Cleveland,Durango,CO,210683,22,M,Track:SPR,03
+558.91,Gunnar, Scheck,Plano,TX,259935,16,M,Track:SPR,03
+561.56,Aron, Seiken,Ft Worth,TX,46634,57,M,Track:SPR,03
+561.83,James, Murdock,Loveland,CO,63794,71,M,Track:SPR,03
+564.00,Brandon, Feehery,Homewood,IL,193035,21,M,Track:SPR,03
+567.95,Robert, Cronin,Santa Cruz,CA,70405,61,M,Track:SPR,03
+568.75,Said, Assali,Houston,TX,353912,30,M,Track:SPR,03
+568.81,Michael, Hart,Indianapolis,IN,314910,20,M,Track:SPR,03
+569.89,James, Lawrence,Colorado Springs,CO,311262,45,M,Track:SPR,03
+570.27,Fran, Rudy,Ooltewah,TN,58193,67,M,Track:SPR,03
+573.06,David, Gulick,Phoenixville,PA,45409,51,M,Track:SPR,03
+573.81,Kyle, Sanders,Cypress,TX,261033,18,M,Track:SPR,03
+574.20,James, Thiele,Hillsboro,OR,220305,56,M,Track:SPR,03
+574.28,Sean, Tanabe,Seattle,WA,255667,39,M,Track:SPR,03
+574.58,Andy, Dobson,Arlington,VA,279105,57,M,Track:SPR,03
+574.59,Nicholas, Grigsby,London,KY,228975,24,M,Track:SPR,03
+574.70,Chazmichael, Morales,El Segundo,CA,280745,16,M,Track:SPR,03
+574.71,Mikael, Weitze,Long Beach,CA,175010,49,M,Track:SPR,03
+575.25,Grayson, Brookshire,Hendersonville,NC,258439,17,M,Track:SPR,03
+575.28,Peter, Czapiewski,Alexandria,VA,93207,58,M,Track:SPR,03
+575.56,R Maitland Jones,R Maitland Jones,Tallahassee,FL,256772,23,M,Track:SPR,03
+576.24,Steven, Lindell,Bellevue,WA,218873,54,M,Track:SPR,03
+576.52,Will, Gleason,New Albany,OH,231092,20,M,Track:SPR,03
+576.90,Andrew, (Drew) Tucker,Richardson,TX,145515,48,M,Track:SPR,03
+576.90,James, Mellen,Schnecksville,PA,356116,17,M,Track:SPR,03
+576.92,Chad, Farmer,Chicago,IL,115451,39,M,Track:SPR,03
+577.45,John, Cline,Chicago,IL,265399,47,M,Track:SPR,03
+577.45,Max, Ryan,Chicago,IL,356597,17,M,Track:SPR,03
+577.95,Andreas, Vogel,San Francisco,CA,237199,48,M,Track:SPR,03
+578.00,James, Hilyer,Trabuco Canyon,CA,291935,17,M,Track:SPR,03
+578.38,John, Fitzgerald,Santa Ana,CA,110233,63,M,Track:SPR,03
+578.77,Darrell, McPherren,Chula Vista,CA,116628,53,M,Track:SPR,03
+579.10,Zeke, Mostov,San Francisco,CA,294912,17,M,Track:SPR,03
+579.30,Peter, Moore,Niwot,CO,307655,71,M,Track:SPR,03
+579.39,Eric, Myers,Glencoe,IL,320876,44,M,Track:SPR,03
+580.00,Dave, Weaver,Towson,MD,37442,42,M,Track:SPR,03
+580.00,William, Short,Falls Church,VA,96204,46,M,Track:SPR,03
+580.00,Mark, Wagner,Saint James,NY,253551,27,M,Track:SPR,03
+580.00,Neil, Laxamana,Milpitas,CA,383873,17,M,Track:SPR,03
+580.17,Donald, Melhado,Tucson,AZ,23968,67,M,Track:SPR,03
+580.75,Andrew, Tschampa,Glen Ellyn,IL,89323,53,M,Track:SPR,03
+581.48,John, Petrakis,Sonoma,CA,27937,67,M,Track:SPR,03
+582.40,Jordan, Marhanka,Pickens,SC,293467,16,M,Track:SPR,03
+583.33,Mark, McMurry,La Place,LA,50922,54,M,Track:SPR,03
+583.33,Devin, Carroll,Austin,TX,227547,27,M,Track:SPR,03
+583.68,Scott, Cohen,Oak Park,CA,253153,18,M,Track:SPR,03
+584.17,Greg, Langer,Falls Church,VA,20324,51,M,Track:SPR,03
+584.17,Carlos, Perea,Baton Rouge,LA,355122,24,M,Track:SPR,03
+584.23,Jason, Lupo,Colorado Springs,CO,289022,22,M,Track:SPR,03
+584.33,Voytek, Glinkowski,Buffalo Grove,IL,250244,54,M,Track:SPR,03
+584.60,Broderick, Hartley,Lilburn,GA,256892,16,M,Track:SPR,03
+585.00,James, Bellora,Falls Church,VA,132954,53,M,Track:SPR,03
+585.56,Robert, Kowal,Hillsborough,NJ,191926,56,M,Track:SPR,03
+585.56,Daniel, Underwood,Reston,VA,63111,39,M,Track:SPR,03
+586.15,Nathan, Labecki,Milwaukee,WI,209414,19,M,Track:SPR,03
+586.42,John, Licatesi,Davis,CA,183265,46,M,Track:SPR,03
+586.67,Hyun, Lee,Bothell,WA,50227,42,M,Track:SPR,03
+587.12,Spencer, Schaber,Somerville,MA,279771,27,M,Track:SPR,03
+587.14,Zachary, Slavens,Saint Louis,MO,357850,23,M,Track:SPR,03
+587.39,Imari, Miller,Fort Worth,TX,274863,18,M,Track:SPR,03
+588.04,Dennis, Pedersen,Santa Cruz,CA,126404,52,M,Track:SPR,03
+588.33,Christopher, Burns,Glen Allen,VA,221792,43,M,Track:SPR,03
+588.33,Stephen, Frattini,Port Washington,NY,126675,31,M,Track:SPR,03
+588.45,Richard, Rainville,Livonia,MI,305239,17,M,Track:SPR,03
+589.54,David, Stone,Pottstown,PA,200637,45,M,Track:SPR,03
+590.10,Gavin, Hoover,Manhattan Beach,CA,280682,16,M,Track:SPR,03
+590.57,Jay, Preston,Waukesha,WI,200529,61,M,Track:SPR,03
+591.07,David, Bozak,Hollidaysburg,PA,155889,38,M,Track:SPR,03
+592.96,Jeffery, Nettles,Seattle,WA,159943,50,M,Track:SPR,03
+593.33,Eldon, Criswell,Alvin,TX,174416,63,M,Track:SPR,03
+593.33,Randall, Legeai,New Orleans,LA,45586,60,M,Track:SPR,03
+595.05,Thomas, Revard,Carmel,IN,318688,16,M,Track:SPR,03
+595.73,Russ, Miears,Pine,CO,364535,59,M,Track:SPR,03
+596.66,William, Fallis,San Mateo,CA,45315,72,M,Track:SPR,03
+596.67,Ben, Williams,Dumfries,VA,38299,70,M,Track:SPR,03
+596.67,Max, Rogozinski,Woodbridge,VA,142114,60,M,Track:SPR,03
+596.67,Mark, Sommers,Washington,DC,149858,57,M,Track:SPR,03
+596.67,Harry, Morton,Clovis,CA,45712,70,M,Track:SPR,03
+596.67,Paul, Beaudoin,Bellevue,WA,325660,52,M,Track:SPR,03
+596.67,Kenneth, Dong,Seattle,WA,294079,46,M,Track:SPR,03
+596.67,Michael, Thornton,Issaquah,WA,295555,45,M,Track:SPR,03
+596.67,Peter, Siegfried,Fogelsville,PA,160817,53,M,Track:SPR,03
+596.75,Michael, Souers,Fort Wayne,IN,196033,25,M,Track:SPR,03
+533.84,Steven, Rusnak,Seminole,FL,230108,21,M,Track:SPR,04
+539.23,Leo, Menestrina,San Jose,CA,117518,71,M,Track:SPR,04
+546.66,Sean, Brown,Burkburnett,TX,272798,25,M,Track:SPR,04
+550.00,Lance, Mooney,Houston,TX,350332,15,M,Track:SPR,04
+555.14,Peter, Winski,Katy,TX,311179,16,M,Track:SPR,04
+559.08,David, Winski,Katy,TX,311181,17,M,Track:SPR,04
+561.11,Nate, Kermit,La Jolla,CA,334956,28,M,Track:SPR,04
+565.59,Don, Carlberg,Katy,TX,350570,62,M,Track:SPR,04
+567.50,Rene, Saenz,Houston,TX,50265,42,M,Track:SPR,04
+568.33,Reydesel, Garcia III,Mckinney,TX,310049,13,M,Track:SPR,04
+569.48,Marc, Gomes,Monterey,CA,55241,48,M,Track:SPR,04
+571.70,Logan, Luker,Lebanon,TN,226312,24,M,Track:SPR,04
+571.90,William, Wong,Alexandria,VA,121718,42,M,Track:SPR,04
+572.67,Payson, McElveen,Durango,CO,276372,20,M,Track:SPR,04
+574.82,Michael, Houghton,West Point,NY,341384,21,M,Track:SPR,04
+575.50,Christopher, Winski,Katy,TX,311559,17,M,Track:SPR,04
+577.48,Logan, Park,Noblesville,IN,335258,20,M,Track:SPR,04
+578.55,Cole, Reece,Emmaus,PA,325336,17,M,Track:SPR,04
+579.40,Bill, Nicely,Roseville,CA,215434,51,M,Track:SPR,04
+580.00,John, Chamberlain,Great Falls,VA,190901,56,M,Track:SPR,04
+580.00,Michael, Robinson,Brooklyn,NY,120427,67,M,Track:SPR,04
+580.00,Peter, Eckel,Alpharetta,GA,168532,31,M,Track:SPR,04
+580.00,Victor, Morandi,Houston,TX,313036,15,M,Track:SPR,04
+581.30,Sean, Rice,Annandale,NJ,318812,16,M,Track:SPR,04
+581.52,Alex, Borsuk,Wales Center,NY,347692,23,M,Track:SPR,04
+581.67,Joshua, Gibson,Katy,TX,354940,13,M,Track:SPR,04
+581.86,Adam, Leibman,Hoffman Estates,IL,278207,35,M,Track:SPR,04
+582.08,John, Olinski,New Market,MD,235755,57,M,Track:SPR,04
+582.78,Michael, Wilpizeski,Forest Hills,NY,57655,56,M,Track:SPR,04
+582.95,Jordan, Zhdanov,Van Nuys,CA,291483,17,M,Track:SPR,04
+583.47,james, briggs,North Huntingdon,PA,274597,69,M,Track:SPR,04
+584.05,Stephen, Spiller,Flemington,NJ,265410,16,M,Track:SPR,04
+584.17,Bryson, Munroe,Plano,TX,381758,13,M,Track:SPR,04
+584.76,Todd, Stodolski,Toms River,NJ,150400,45,M,Track:SPR,04
+585.15,Stephen, Israel,Moreno Valley,CA,304834,17,M,Track:SPR,04
+585.56,Michael, Humphreys,Brandon,MS,252422,49,M,Track:SPR,04
+585.70,Zach, Prebosnyak,Bethlehem,PA,299289,16,M,Track:SPR,04
+585.75,Gary, Bridges,San Carlos,CA,4819,70,M,Track:SPR,04
+586.67,Danny, Finlan,Prosper,TX,247241,46,M,Track:SPR,04
+586.80,dan, kalny,Downers Grove,IL,339850,25,M,Track:SPR,04
+586.80,Donavon, Johnson,Huntington Beach,CA,306450,17,M,Track:SPR,04
+587.08,Fred, Rednor,Arlington,VA,154401,61,M,Track:SPR,04
+587.14,Brad, Gutting,Saint Louis,MO,379925,35,M,Track:SPR,04
+587.90,Gabriel, Castano,Allentown,PA,378224,16,M,Track:SPR,04
+588.33,Jordan, Wolfe,Sanjose,CA,282654,17,M,Track:SPR,04
+589.19,Clif, Cassidy,Dallas,TX,310674,57,M,Track:SPR,04
+589.26,Jared, Rogers,Chicago,IL,261146,36,M,Track:SPR,04
+589.55,Nikos, Hessert,Evanston,IL,347054,16,M,Track:SPR,04
+590.00,Ross, Creed,Philadelphia,PA,339204,28,M,Track:SPR,04
+590.00,Ben, Bradley,Plaquemine,LA,331166,27,M,Track:SPR,04
+590.00,David, Hudson,Clarksboro,NJ,17010,49,M,Track:SPR,04
+590.00,Austin, Schneider,Houston,TX,381524,14,M,Track:SPR,04
+590.01,Zach, Bender,Glen Rock,NJ,250355,19,M,Track:SPR,04
+590.97,Andrew, Llewellyn,Louisville,KY,222859,23,M,Track:SPR,04
+591.11,Connor, Westhoff,Plano,TX,369126,17,M,Track:SPR,04
+591.11,gilbert, marrero,Flushing,NY,310861,65,M,Track:SPR,04
+591.11,Joel, Steen,Laurel,MD,237732,40,M,Track:SPR,04
+591.25,John, Cohen,Newark,DE,45197,60,M,Track:SPR,04
+591.73,Kyle, Kalny,Downers Grove,IL,339934,22,M,Track:SPR,04
+591.90,Dennis, Roberts,Wildwood,MO,265342,52,M,Track:SPR,04
+592.12,Travis, Rabbit,New Haven,CT,368373,30,M,Track:SPR,04
+592.50,Nicholas, Bellnoski,Katy,TX,377192,31,M,Track:SPR,04
+592.50,Steve, Gorham,Perry Hall,MD,60145,59,M,Track:SPR,04
+593.33,Robert, King,Woodinville,WA,53072,41,M,Track:SPR,04
+593.33,Kenneth, Ziegenfus,New Tripoli,PA,325814,46,M,Track:SPR,04
+593.40,Andreas, Katehis,Franklin Square,NY,293601,17,M,Track:SPR,04
+593.89,Peter, Rizzo,Martinsville,NJ,172960,58,M,Track:SPR,04
+593.89,Ted, Michaels,Leesburg,VA,206649,42,M,Track:SPR,04
+594.29,William, Howells,Webster Groves,MO,167246,50,M,Track:SPR,04
+596.67,Kai, Dussling,Cypress,TX,141302,44,M,Track:SPR,04
+596.67,Rob, Sandusky,Frisco,TX,291129,16,M,Track:SPR,04
+596.67,Mark, Kline,West Chester,PA,257973,44,M,Track:SPR,04
+596.67,Graeme, Preston,New Orleans,LA,331200,27,M,Track:SPR,04
+596.67,Jim, Turner,Menlo Park,CA,63449,74,M,Track:SPR,04
+596.67,Alexander, Meller,Annapolis,MD,253692,55,M,Track:SPR,04
+596.67,Terry, Dewane,San Anselmo,CA,298221,55,M,Track:SPR,04
+596.70,Tony, Comer,San Marcos,CA,273036,17,M,Track:SPR,04
+549.78,Kenneth, Dailey,West Point,NY,388382,20,M,Track:SPR,05
+550.48,Travis, Raymond,Pasadena,TX,379183,16,M,Track:SPR,05
+553.40,Tanner, Hurst,Gallatin,TN,277734,20,M,Track:SPR,05
+572.63,Kevin, Carringer,West Point,NY,388386,20,M,Track:SPR,05
+576.87,Ray, Lafleur,San Diego,CA,311645,66,M,Track:SPR,05
+582.08,Herbert, Guhn,Denham Springs,LA,369304,34,M,Track:SPR,05
+582.38,Tim, Gaidis,St Louis,MO,185668,49,M,Track:SPR,05
+583.03,Brandon, Knettel,Philadelphia,PA,338692,30,M,Track:SPR,05
+583.36,Stephen, Rogacki,Westpoint,NY,302975,23,M,Track:SPR,05
+584.18,David, Broekema,San Francisco,CA,345356,45,M,Track:SPR,05
+585.56,Thomas, Duncan,Fremont,CA,303797,17,M,Track:SPR,05
+586.06,Kevin, Curran,Madison Township,PA,273138,24,M,Track:SPR,05
+586.25,JAKE, SILVERBERG,Pembroke Pines,FL,312558,17,M,Track:SPR,05
+586.77,Paul, McCarthy,Nederland,CO,148212,66,M,Track:SPR,05
+588.33,Raymond, Plewacki,Fairfax,VA,222263,53,M,Track:SPR,05
+588.33,Reuben, Dupre,Mobile,AL,347008,21,M,Track:SPR,05
+589.52,Robert, Oellermann,St Charles,MO,95743,47,M,Track:SPR,05
+590.42,jason, frizell,Denham Springsdenham Springs,LA,350826,39,M,Track:SPR,05
+590.61,Brandon, Masterman,Brooklyn,NY,383414,31,M,Track:SPR,05
+590.65,Haegan, Altizer,Decatur,GA,350322,17,M,Track:SPR,05
+591.11,Joshua, Williams,San Jose,CA,390452,17,M,Track:SPR,05
+591.11,Jonathan, Baggett,Falls Church,VA,133076,32,M,Track:SPR,05
+591.20,Ben, Whitby,Allentown,PA,369637,16,M,Track:SPR,05
+592.30,William, Krempa,Chalfont,PA,293372,16,M,Track:SPR,05
+592.46,Andre, Jackson,E Palo Alto,CA,129282,50,M,Track:SPR,05
+592.85,Andrew, Dapper,Macungie,PA,297396,16,M,Track:SPR,05
+593.92,Gary, Vincent,Albuquerque,NM,312534,46,M,Track:SPR,05
+595.15,Brendan, Diener,New Castle,DE,308810,23,M,Track:SPR,05
+596.67,Garrett, Lynch,Randolph,NJ,250382,28,M,Track:SPR,05
+596.67,Jeremy, Roberts,Wildwood,MO,382306,13,M,Track:SPR,05
+596.67,james, smith,Saint Louis,MO,350458,49,M,Track:SPR,05
+578.33,David, Williams,Grand Rapids,MI,225765,25,M,Track:KEIR,PR
+418.92,Matthew, Baranoski,Perkasie,PA,213251,20,M,Track:KEIR,01
+425.55,Danny, Robertson,Rolling Meadows,IL,256071,25,M,Track:KEIR,01
+496.56,Conor, Klupar,Fall City,WA,250108,19,M,Track:KEIR,01
+525.64,Jeffrey, Whiteman,Chicago,IL,181146,36,M,Track:KEIR,01
+531.90,Kevin, Mansker,Long Beach,CA,269334,24,M,Track:KEIR,01
+544.46,James, Flynn,Port Orchard,WA,51090,44,M,Track:KEIR,01
+557.20,Jason, Garner,Glenview,IL,42620,40,M,Track:KEIR,01
+558.47,Zachary, Kovalcik,Portland,OR,266774,30,M,Track:KEIR,01
+574.24,Jesse, Marans,Newport Beach,CA,222483,20,M,Track:KEIR,01
+576.66,Phillip, Stephens,Kirkland,WA,47146,45,M,Track:KEIR,01
+580.00,James, Carney,Tucson,AZ,45167,45,M,Track:KEIR,01
+580.00,Adam, Leibovitz,Indianapolis,IN,221190,22,M,Track:KEIR,01
+582.38,Gary, Brown,Auburn,WA,5069,41,M,Track:KEIR,01
+583.33,Ted, Kicey,Houston,TX,52884,52,M,Track:KEIR,01
+583.33,Alex, Wieseler,Indianapolis,IN,207324,24,M,Track:KEIR,01
+586.67,Andrew, Carlberg,Bryan,TX,283020,23,M,Track:KEIR,01
+587.14,Ian, Mensher,Seattle,WA,156693,34,M,Track:KEIR,01
+589.52,Aaron, Levin,Mercer Island,WA,46828,45,M,Track:KEIR,01
+590.00,Stefan, Rothe,Austin,TX,205741,32,M,Track:KEIR,01
+591.67,Joseph, Walsh,Chesterfield,MO,37090,49,M,Track:KEIR,01
+591.67,Andrew, Kruse,Minneapolis,MN,160686,33,M,Track:KEIR,01
+594.29,Zachary, Jones,Kent,WA,225834,33,M,Track:KEIR,01
+596.67,Aaron, Berntson,Port Orchard,WA,179545,49,M,Track:KEIR,01
+596.67,Robert, Bodamer,Humble,TX,47069,51,M,Track:KEIR,01
+596.67,Mark, Rodamaker,Los Altos,CA,30269,65,M,Track:KEIR,01
+510.03,Nathan, Koch,Los Alamitos,CA,333724,27,M,Track:KEIR,02
+560.00,David, McCook,Mountain View,CA,66627,44,M,Track:KEIR,02
+562.62,Chris, Weber,Woodinville,WA,280946,43,M,Track:KEIR,02
+562.74,Ronald, Sielinski,Redmond,WA,260190,49,M,Track:KEIR,02
+566.67,Kevin, Depasse,Bloomington,IN,323640,24,M,Track:KEIR,02
+568.80,Robert, Mayfield,Saint Louis,MO,275501,28,M,Track:KEIR,02
+569.79,Calan, Farley,Pittstown,NJ,233338,18,M,Track:KEIR,02
+574.27,Kaleb, Koch,Glenview,IL,265924,19,M,Track:KEIR,02
+578.25,Eric, Waterman,Seattle,WA,199360,50,M,Track:KEIR,02
+580.00,Luke, Bligh,Saint Louis,MO,280844,33,M,Track:KEIR,02
+580.00,Daniel, Reback,Long Beach,CA,141562,41,M,Track:KEIR,02
+580.00,Andrew, Weathers,Houston,TX,37436,44,M,Track:KEIR,02
+580.25,Nelson, Li,Mckinney,TX,57711,47,M,Track:KEIR,02
+580.48,Guy, Tucker,Bellingham,WA,252718,42,M,Track:KEIR,02
+581.19,Vern, Cole,Kent,WA,65114,50,M,Track:KEIR,02
+581.42,peter, baughman,Carnation,WA,243415,41,M,Track:KEIR,02
+581.67,David, Morse,Indianapolis,IN,215016,27,M,Track:KEIR,02
+582.78,Garrett, Hankins,Carmichael,CA,298571,20,M,Track:KEIR,02
+583.23,Bobby, Unverzagt,Torrance,CA,253787,19,M,Track:KEIR,02
+583.33,Thomas, Wick,Seattle,WA,204808,44,M,Track:KEIR,02
+583.33,Weston, Luzadder,Carmel,IN,240464,23,M,Track:KEIR,02
+583.33,Doug, Fagan,Indianapolis,IN,205802,30,M,Track:KEIR,02
+583.57,Craig, Connors,Bainbridge Island,WA,277212,46,M,Track:KEIR,02
+584.71,Daniel, Verner,Island Lake,IL,51737,47,M,Track:KEIR,02
+584.76,Matthew, Herz,Shoreline,WA,191831,33,M,Track:KEIR,02
+585.00,Daniel, Currell,Saint Paul,MN,235364,41,M,Track:KEIR,02
+585.56,Joshua, Simpson,Seattle,WA,256802,38,M,Track:KEIR,02
+585.65,Martin, Houston,Highlands Ranch,CO,203899,34,M,Track:KEIR,02
+586.25,Ron, Good,Naperville,IL,268828,55,M,Track:KEIR,02
+586.67,Paul, Malenke,Roseville,CA,82738,47,M,Track:KEIR,02
+587.08,Alexander, Riva,Pleasant Prairie,WI,260381,18,M,Track:KEIR,02
+587.71,Tyler, Nothstein,Orefield,PA,312612,18,M,Track:KEIR,02
+588.33,Fergus, Tanaka,San Francisco,CA,304367,33,M,Track:KEIR,02
+589.52,William, Kirk Robinson,Redmond,WA,151412,36,M,Track:KEIR,02
+590.00,Ryan, Shean,Indianapolis,IN,290397,26,M,Track:KEIR,02
+590.00,Conrad, Kornmann,Seattle,WA,237292,36,M,Track:KEIR,02
+590.42,Matthew, Haldeman,Mountlake Ter,WA,14657,45,M,Track:KEIR,02
+591.11,Tim, Tsuruda,Sunnyvale,CA,314158,31,M,Track:KEIR,02
+591.90,David, DiPetrillo,Sammamish,WA,314732,28,M,Track:KEIR,02
+592.19,Edward, Horvet,West Hills,CA,290181,17,M,Track:KEIR,02
+593.09,Tony, Cordova,Mercer Island,WA,336548,30,M,Track:KEIR,02
+593.33,Matt, Gittings,Indianapolis,IN,359006,21,M,Track:KEIR,02
+593.33,Matt, Jones,Indianapolis,IN,239173,26,M,Track:KEIR,02
+593.33,Scott, Vinson,Bellevue,WA,70843,47,M,Track:KEIR,02
+593.33,Rob, Gray,Fulshear,TX,305309,41,M,Track:KEIR,02
+593.89,Keith, Hillier,Millbrae,CA,276108,29,M,Track:KEIR,02
+594.28,Jeffrey, Pyatt,Bellevue,WA,52532,54,M,Track:KEIR,02
+595.00,Brent, Emoff,Portland,OR,259427,29,M,Track:KEIR,02
+595.47,Daniel, Tomko,Bellevue,WA,296954,37,M,Track:KEIR,02
+596.67,Aram, Bayzaee,Northbrook,IL,137582,46,M,Track:KEIR,02
+548.33,Hyun, Lee,Bothell,WA,50227,42,M,Track:KEIR,03
+551.90,Mike, Freimann,Port Orchard,WA,342260,48,M,Track:KEIR,03
+567.14,Kristian, Miller,Bozeman,MT,292040,25,M,Track:KEIR,03
+568.63,mark, mirante,Bellevue,WA,293125,48,M,Track:KEIR,03
+579.64,Robbin, Goldfoos,Maple Valley,WA,196376,57,M,Track:KEIR,03
+580.00,Michael, Thornton,Issaquah,WA,295555,45,M,Track:KEIR,03
+580.00,Robert, Gauss,Kenosha,WI,45366,41,M,Track:KEIR,03
+580.00,Devin, Carroll,Austin,TX,227547,27,M,Track:KEIR,03
+580.00,Chad, Farmer,Chicago,IL,115451,39,M,Track:KEIR,03
+581.28,Peter, Hinckley,Seattle,WA,328706,43,M,Track:KEIR,03
+582.08,Leonard, Cabaltera,Racine,WI,50058,49,M,Track:KEIR,03
+582.38,Thomas, Donohue,Seattle,WA,238989,50,M,Track:KEIR,03
+582.38,Hayden, Warner,Neoga,IL,325222,21,M,Track:KEIR,03
+582.57,Jeffrey, Baird,Seattle,WA,247614,60,M,Track:KEIR,03
+583.33,Austin, Throop,Katy,TX,290120,24,M,Track:KEIR,03
+583.33,Patrick, Meyer,Skokie,IL,58676,45,M,Track:KEIR,03
+584.17,Anthony, Borba,Campbell,CA,255377,38,M,Track:KEIR,03
+584.17,Eric, Myers,Glencoe,IL,320876,44,M,Track:KEIR,03
+584.76,Zachary, Slavens,Saint Louis,MO,357850,23,M,Track:KEIR,03
+585.56,Christopher, Reed,Hawthorne,CA,288208,38,M,Track:KEIR,03
+585.83,Jacob, Schilling,Racine,WI,255842,17,M,Track:KEIR,03
+586.67,Brandon, Feehery,Homewood,IL,193035,21,M,Track:KEIR,03
+586.67,Said, Assali,Houston,TX,353912,30,M,Track:KEIR,03
+588.33,Max, Ryan,Chicago,IL,356597,17,M,Track:KEIR,03
+588.33,Andreas, Vogel,San Francisco,CA,237199,48,M,Track:KEIR,03
+588.86,Paul, Beaudoin,Bellevue,WA,325660,52,M,Track:KEIR,03
+588.98,Kenneth, Dong,Seattle,WA,294079,46,M,Track:KEIR,03
+590.00,Spencer, Moak,Katy,TX,339808,42,M,Track:KEIR,03
+590.00,Samuele, Bianchi,Chicago,IL,278914,15,M,Track:KEIR,03
+590.00,Grzegorz, Monko,Buffalo Grove,IL,381944,38,M,Track:KEIR,03
+591.11,Mikael, Weitze,Long Beach,CA,175010,49,M,Track:KEIR,03
+591.90,jason, cameron,Seattle,WA,288763,47,M,Track:KEIR,03
+591.90,K Erik Seaver,K Erik Seaver,St. Louis,MO,275021,41,M,Track:KEIR,03
+591.90,Steven, Lindell,Bellevue,WA,218873,54,M,Track:KEIR,03
+593.33,Kyle, Sanders,Cypress,TX,261033,18,M,Track:KEIR,03
+594.58,Steven, Benni,Chicago,IL,271725,35,M,Track:KEIR,03
+596.67,Chuck, Judy,Chicago,IL,18341,51,M,Track:KEIR,03
+596.67,Justin, Leong,Los Altos,CA,280621,15,M,Track:KEIR,03
+596.67,Jerry, Shafer,Seattle,WA,54693,66,M,Track:KEIR,03
+596.67,Robert, Vigeant,Gresham,OR,316948,49,M,Track:KEIR,03
+596.67,Randy, Boettcher,Lake Forest Park,WA,62837,36,M,Track:KEIR,03
+596.67,jason, connell,Lynnwood,WA,305679,40,M,Track:KEIR,03
+596.67,Peter, Stocker,Seattle,WA,34214,50,M,Track:KEIR,03
+596.67,Eddie, Sanchez,Katy,TX,328100,28,M,Track:KEIR,03
+596.68,Sean, Maginness,Snoqualmie,WA,252671,43,M,Track:KEIR,03
+584.76,Tom, Gutmann,Creve Coeur,MO,243393,47,M,Track:KEIR,04
+585.13,Brian, Bolin,Medina,WA,224629,48,M,Track:KEIR,04
+586.42,Mike, Jors,Sammamish,WA,282773,16,M,Track:KEIR,04
+587.14,William, Howells,Webster Groves,MO,167246,50,M,Track:KEIR,04
+587.14,Brad, Gutting,Saint Louis,MO,379925,35,M,Track:KEIR,04
+587.70,Marc, Savage,Seattle,WA,350808,51,M,Track:KEIR,04
+589.52,Darren, Marhanka,O Fallon,MO,262210,47,M,Track:KEIR,04
+590.27,Erik, Selberg,Seattle,WA,256111,41,M,Track:KEIR,04
+591.55,Bill, Kusler,Snohomish,WA,287695,57,M,Track:KEIR,04
+592.83,David, Parsons,Sammamish,WA,281615,50,M,Track:KEIR,04
+593.33,Jared, Rogers,Chicago,IL,261146,36,M,Track:KEIR,04
+594.12,Yves, Arrouye,Bellevue,WA,301346,43,M,Track:KEIR,04
+594.29,Dennis, Roberts,Wildwood,MO,265342,52,M,Track:KEIR,04
+595.40,James, Shimada,Seattle,WA,356416,38,M,Track:KEIR,04
+580.00,Andrew, Petty,Saint Louis,MO,346834,26,M,Track:KEIR,05
+582.38,Tom, Petty,Webster Groves,MO,344566,26,M,Track:KEIR,05
+586.67,John, Kuhfahl,Ingleside,IL,380295,15,M,Track:KEIR,05
+594.29,Stephen, Rhodes,O Fallon,IL,346676,47,M,Track:KEIR,05
+596.67,David, Gray,St. Louis,MO,251991,45,M,Track:KEIR,05
+596.67,Jeremy, Roberts,Wildwood,MO,382306,13,M,Track:KEIR,05
+596.67,Brian, Shelton,Florissant,MO,321312,27,M,Track:KEIR,05
+504.38,Andrew, Carlberg,Bryan,TX,283020,23,M,Track:TT,01
+514.48,Jeffrey, Whiteman,Chicago,IL,181146,36,M,Track:TT,01
+521.30,Matthew, Baranoski,Perkasie,PA,213251,20,M,Track:TT,01
+526.99,Danny, Robertson,Rolling Meadows,IL,256071,25,M,Track:TT,01
+534.77,Jason, Garner,Glenview,IL,42620,40,M,Track:TT,01
+541.22,Zachary, Carlson,Plano,TX,277433,18,M,Track:TT,01
+551.68,Curtis, Tolson,Louisville,KY,46006,50,M,Track:TT,01
+551.94,Ted, Kicey,Houston,TX,52884,52,M,Track:TT,01
+559.54,Adam, Leibovitz,Indianapolis,IN,221190,22,M,Track:TT,01
+561.52,Colt, Peterson,Huntington Beach,CA,287772,21,M,Track:TT,01
+564.50,Robert, Bodamer,Humble,TX,47069,51,M,Track:TT,01
+564.93,Allen, Vugrincic,Palo Alto,CA,157409,42,M,Track:TT,01
+564.99,Patric, Rostel,Grandjunction,CO,301113,27,M,Track:TT,01
+566.36,Lawrence, Nolan,Fremont,CA,26205,55,M,Track:TT,01
+566.53,Mark, Rodamaker,Los Altos,CA,30269,65,M,Track:TT,01
+566.93,Kevin, Mansker,Long Beach,CA,269334,24,M,Track:TT,01
+570.11,Chris, Carlson,Plano,TX,6135,50,M,Track:TT,01
+571.16,Butch, Stinton,Castle Rock,CO,34198,61,M,Track:TT,01
+571.48,Eduardo, Nieuwenhuyzen,Saint Louis,MO,232361,36,M,Track:TT,01
+573.79,Mark, Gorman,Philadelphia,PA,54963,43,M,Track:TT,01
+575.88,Ryan, Sullivan,Nashville,TN,305979,29,M,Track:TT,01
+577.35,Andrew, Armstrong,Dallas,TX,187559,31,M,Track:TT,01
+577.78,Joseph, LaCour,Mansfield,TX,171332,40,M,Track:TT,01
+578.81,Lawrence, Stoegbauer,Chicago,IL,249042,43,M,Track:TT,01
+579.21,Andrew, LaCorte,White House Station,NJ,80146,42,M,Track:TT,01
+580.00,James, Carney,Tucson,AZ,45167,45,M,Track:TT,01
+580.00,Stefan, Rothe,Austin,TX,205741,32,M,Track:TT,01
+594.68,David, Matthews,Seattle,WA,52628,45,M,Track:TT,01
+596.67,Andres, Gonzalez,Katy,TX,236824,29,M,Track:TT,01
+495.77,Paul, Drees,Avondale,PA,193282,50,M,Track:TT,02
+533.28,Bobby, Unverzagt,Torrance,CA,253787,19,M,Track:TT,02
+534.69,Todd, Scheske,Rochester,NY,50510,43,M,Track:TT,02
+538.44,Jake, Boone,Hurst,TX,284344,20,M,Track:TT,02
+539.41,Daniel, Casper,Northfield,MN,214654,47,M,Track:TT,02
+540.00,Chip, Berezny,Coopersburg,PA,45079,62,M,Track:TT,02
+540.88,Grant, Mills,Mc Kinney,TX,330116,19,M,Track:TT,02
+543.50,Michael, Paulin,Aurora,CO,205972,46,M,Track:TT,02
+547.59,Peter, Lucke,Louisville,CO,21761,47,M,Track:TT,02
+550.04,Kaleb, Koch,Glenview,IL,265924,19,M,Track:TT,02
+551.60,Cameron, Reider,Easton,PA,41251,42,M,Track:TT,02
+555.22,Calan, Farley,Pittstown,NJ,233338,18,M,Track:TT,02
+558.55,Colton, Barrett,Indianapolis,IN,224589,22,M,Track:TT,02
+558.76,Kurt, Sato,San Pedro,CA,45892,56,M,Track:TT,02
+559.05,Alexander, Gil,Hialeah,FL,228635,24,M,Track:TT,02
+559.86,Paul, Malenke,Roseville,CA,82738,47,M,Track:TT,02
+560.00,Gilbert, Hatton,Breinigsville,PA,61128,57,M,Track:TT,02
+560.40,Gregory, Ratzell,Blandon,PA,230201,18,M,Track:TT,02
+560.53,Weston, Luzadder,Carmel,IN,240464,23,M,Track:TT,02
+560.86,Donald, Langley,Morgan Hill,CA,20327,51,M,Track:TT,02
+561.29,Richard, Voss,Littleton,CO,77347,57,M,Track:TT,02
+561.91,Scott, Butler,Nazareth,PA,139818,57,M,Track:TT,02
+562.04,Jonathan, Davy,Torrance,CA,154991,38,M,Track:TT,02
+562.78,Greg, Cordasco,Basking Ridge,NJ,7782,51,M,Track:TT,02
+562.87,Daniel, Gay,Temecula,CA,214863,18,M,Track:TT,02
+562.95,Andrew, Weathers,Houston,TX,37436,44,M,Track:TT,02
+563.01,Griffin, Easter,Durango,CO,282590,22,M,Track:TT,02
+564.00,Garrett, Hankins,Carmichael,CA,298571,20,M,Track:TT,02
+564.21,Reid, Schwartz,Chicago,IL,138217,65,M,Track:TT,02
+565.19,Shannon, Malmquist,Miami,FL,58174,38,M,Track:TT,02
+565.26,Matthew, Diefenbach,Pottstown,PA,142263,49,M,Track:TT,02
+565.48,Luke, Harris,Fort Collins,CO,269648,24,M,Track:TT,02
+566.47,Zachary, Felpel,Willowstreet,PA,220467,23,M,Track:TT,02
+566.97,Cory, Scott,Richmond,VA,253558,26,M,Track:TT,02
+567.46,Sean, Vig,Urbana,IL,291066,24,M,Track:TT,02
+567.96,Matt, Gittings,Indianapolis,IN,359006,21,M,Track:TT,02
+568.04,William, Nitzsche,Lakewood,CO,46528,49,M,Track:TT,02
+568.90,James, Kramer,Scottsdale,AZ,54748,45,M,Track:TT,02
+568.95,David, Novak,Tunkhannock,PA,268729,20,M,Track:TT,02
+571.14,Jeffrey, Pyatt,Bellevue,WA,52532,54,M,Track:TT,02
+571.40,James, Host,Plainfield,IL,126420,57,M,Track:TT,02
+572.11,Brian, Gristick,Budd Lake,NJ,191647,56,M,Track:TT,02
+572.40,Nathan, Koch,Los Alamitos,CA,333724,27,M,Track:TT,02
+572.41,Dean, Haas,Lakewood,CO,271420,19,M,Track:TT,02
+573.25,Kenneth, Rodriguez,Denver,CO,116448,55,M,Track:TT,02
+573.90,Neal, Shepherd,Palm Coast,FL,244277,20,M,Track:TT,02
+573.92,Kevin, Wayman,Saint Louis,MO,230808,56,M,Track:TT,02
+574.14,Martin, Houston,Highlands Ranch,CO,203899,34,M,Track:TT,02
+574.62,James, Martins,Houston,TX,52582,71,M,Track:TT,02
+574.62,Stephen, Sperry,Spartanburg,SC,46890,51,M,Track:TT,02
+574.89,Taylor, Warren,Loveland,CO,287780,21,M,Track:TT,02
+575.54,Robert, Springer,Sturtevant,WI,57145,41,M,Track:TT,02
+576.37,Danny, Hiller,Boulder,CO,246171,21,M,Track:TT,02
+576.63,Earl, Henry,Pinellas Park,FL,45449,72,M,Track:TT,02
+576.87,Charles, (Mac) Cassin,Denver,CO,287030,22,M,Track:TT,02
+576.91,Edward, Horvet,West Hills,CA,290181,17,M,Track:TT,02
+576.92,Aaron, Trent,Greenville,SC,278146,27,M,Track:TT,02
+577.49,Matthew, Valencia,Los Altos,CA,255576,17,M,Track:TT,02
+578.75,Joseph, Paulson,Boulder,CO,46650,53,M,Track:TT,02
+579.34,Bill, Golembieski,Boulder,CO,274222,22,M,Track:TT,02
+579.84,Erick, Goytia,El Paso,TX,262610,21,M,Track:TT,02
+580.00,Matthew, Herz,Shoreline,WA,191831,33,M,Track:TT,02
+580.00,Bennie, Flores,Pride,LA,52111,43,M,Track:TT,02
+580.13,Victor, Williams,Lonetree,CO,38436,51,M,Track:TT,02
+580.31,John, Wright,League City,TX,71838,46,M,Track:TT,02
+580.43,Barry, Messmer,Fort Collins,CO,51850,63,M,Track:TT,02
+580.63,Mike, Macdonald,Rancho Cordova,CA,45626,72,M,Track:TT,02
+580.80,Guy, Tucker,Bellingham,WA,252718,42,M,Track:TT,02
+580.83,Matthew, Brandt,St Charles,MO,197984,25,M,Track:TT,02
+581.28,Lawrence, Bosch,Fort Collins,CO,4314,68,M,Track:TT,02
+581.32,Thomas, Schubert,Murrells Inlet,SC,291477,21,M,Track:TT,02
+582.56,Ronald, Hargrave,Colorado Springs,CO,148094,67,M,Track:TT,02
+584.07,Jeromy, Cottell,Redwood City,CA,273912,38,M,Track:TT,02
+584.45,Andrew, Brennan,Manasquan,NJ,70112,43,M,Track:TT,02
+585.28,Sam, Stone,North Freedom,WI,213424,22,M,Track:TT,02
+585.64,Ron, Good,Naperville,IL,268828,55,M,Track:TT,02
+585.70,Nathaniel, Pitts,Seattle,WA,304664,25,M,Track:TT,02
+586.27,Zachary, LaBry,Somerville,MA,235849,27,M,Track:TT,02
+587.26,Johnathan, Freter,Columbus,OH,266654,21,M,Track:TT,02
+588.00,Ian, Schlarman,Allen,TX,283857,21,M,Track:TT,02
+588.33,Ronald, Sielinski,Redmond,WA,260190,49,M,Track:TT,02
+589.42,Brendan, Sharpe,Austin,TX,205553,30,M,Track:TT,02
+589.74,Joe, Dickerson,Los Gatos,CA,306664,26,M,Track:TT,02
+591.11,Craig, Jones,Katy,TX,280908,45,M,Track:TT,02
+591.54,Michael, Williams,Metairie,LA,53228,70,M,Track:TT,02
+593.20,Stuart, Press,Los Angeles,CA,133656,38,M,Track:TT,02
+596.66,Matthew, Haldeman,Mountlake Ter,WA,14657,45,M,Track:TT,02
+596.67,Tony, Cordova,Mercer Island,WA,336548,30,M,Track:TT,02
+537.43,Steven, Lindell,Bellevue,WA,218873,54,M,Track:TT,03
+545.04,Jay, Wolkoff,Altadena,CA,38811,55,M,Track:TT,03
+547.71,William, Short,Falls Church,VA,96204,46,M,Track:TT,03
+550.11,Andy, Dobson,Arlington,VA,279105,57,M,Track:TT,03
+552.86,Spencer, Moak,Katy,TX,339808,42,M,Track:TT,03
+553.30,Garrison, Horton,Mckinney,TX,322974,17,M,Track:TT,03
+556.40,Justin, Leong,Los Altos,CA,280621,15,M,Track:TT,03
+556.47,Joshua, Ballard,Richardson,TX,177319,42,M,Track:TT,03
+560.05,David, Gulick,Phoenixville,PA,45409,51,M,Track:TT,03
+560.55,Greg, Langer,Falls Church,VA,20324,51,M,Track:TT,03
+562.51,Zack, Allison,Fort Collins,CO,211435,24,M,Track:TT,03
+563.15,Robert, Kowal,Hillsborough,NJ,191926,56,M,Track:TT,03
+563.82,James, Thiele,Hillsboro,OR,220305,56,M,Track:TT,03
+563.95,Mikael, Weitze,Long Beach,CA,175010,49,M,Track:TT,03
+564.17,Carlos, Perea,Baton Rouge,LA,355122,24,M,Track:TT,03
+564.49,Ben, Stalker,Durango,CO,252617,26,M,Track:TT,03
+564.68,Peter, Czapiewski,Alexandria,VA,93207,58,M,Track:TT,03
+566.34,Aron, Seiken,Ft Worth,TX,46634,57,M,Track:TT,03
+566.66,James, Bellora,Falls Church,VA,132954,53,M,Track:TT,03
+568.33,Said, Assali,Houston,TX,353912,30,M,Track:TT,03
+568.34,David, Bozak,Hollidaysburg,PA,155889,38,M,Track:TT,03
+568.79,Ben, Williams,Dumfries,VA,38299,70,M,Track:TT,03
+569.44,Ryan, Cleveland,Durango,CO,210683,22,M,Track:TT,03
+569.94,Quint, Berkemeier,Lake Arrowhead,CA,240136,19,M,Track:TT,03
+570.49,Darrell, McPherren,Chula Vista,CA,116628,53,M,Track:TT,03
+570.67,Quinn, Hatfield,Los Angeles,CA,273985,41,M,Track:TT,03
+570.74,Grant, McElroy,Portland,OR,264707,15,M,Track:TT,03
+570.76,William, Richter,Rock Hill,SC,250330,19,M,Track:TT,03
+570.93,Timothy, Jenkinson,Mars Hill,NC,325110,22,M,Track:TT,03
+571.20,Christopher, Burns,Glen Allen,VA,221792,43,M,Track:TT,03
+572.62,James, Murdock,Loveland,CO,63794,71,M,Track:TT,03
+572.91,Aidan, Kesner,Lexington,MA,353160,19,M,Track:TT,03
+573.48,Jay, Preston,Waukesha,WI,200529,61,M,Track:TT,03
+574.39,Brandon, Feehery,Homewood,IL,193035,21,M,Track:TT,03
+575.10,Gunnar, Scheck,Plano,TX,259935,16,M,Track:TT,03
+575.73,Samuele, Bianchi,Chicago,IL,278914,15,M,Track:TT,03
+575.75,James, Mellen,Schnecksville,PA,356116,17,M,Track:TT,03
+575.80,John, Fitzgerald,Santa Ana,CA,110233,63,M,Track:TT,03
+576.33,Chazmichael, Morales,El Segundo,CA,280745,16,M,Track:TT,03
+576.45,Steven, Sawelson,Rolling Hills Estates,CA,209614,58,M,Track:TT,03
+577.86,Justin, Lowe,Columbia,KY,291819,24,M,Track:TT,03
+578.07,Max, Ryan,Chicago,IL,356597,17,M,Track:TT,03
+578.11,David, Mulica,Littleton,CO,48181,64,M,Track:TT,03
+578.32,Peter, Siegfried,Fogelsville,PA,160817,53,M,Track:TT,03
+578.35,Nathan, Labecki,Milwaukee,WI,209414,19,M,Track:TT,03
+579.23,Zeke, Mostov,San Francisco,CA,294912,17,M,Track:TT,03
+579.71,James, Brookshire,Hendersonville,NC,276390,15,M,Track:TT,03
+579.81,Grayson, Brookshire,Hendersonville,NC,258439,17,M,Track:TT,03
+580.00,Devin, Carroll,Austin,TX,227547,27,M,Track:TT,03
+580.00,Douglas, Evans,Katy,TX,367586,45,M,Track:TT,03
+580.00,Lionel, Space,Phoenix,AZ,197647,59,M,Track:TT,03
+580.31,Justin, Widhalm,Fountain,CO,313338,36,M,Track:TT,03
+580.33,Jos, Chalmers,Indian Harbour Beach,FL,271372,20,M,Track:TT,03
+581.82,Nicholas, Grigsby,London,KY,228975,24,M,Track:TT,03
+582.08,Raymond, Gildea,Emerald Hills,CA,133970,57,M,Track:TT,03
+582.64,Peter, Moore,Niwot,CO,307655,71,M,Track:TT,03
+582.71,James, Hilyer,Trabuco Canyon,CA,291935,17,M,Track:TT,03
+582.81,Todd, Woodlan,San Diego,CA,290413,29,M,Track:TT,03
+584.17,Dustin, Drewes,Baton Rouge,LA,281156,23,M,Track:TT,03
+584.40,John, Cline,Chicago,IL,265399,47,M,Track:TT,03
+584.76,Kurt, Broadhag,Los Angeles,CA,157173,43,M,Track:TT,03
+585.06,Robert, Cronin,Santa Cruz,CA,70405,61,M,Track:TT,03
+585.13,Jerry, Shafer,Seattle,WA,54693,66,M,Track:TT,03
+585.55,Neil, Laxamana,Milpitas,CA,383873,17,M,Track:TT,03
+585.61,Broderick, Hartley,Lilburn,GA,256892,16,M,Track:TT,03
+585.78,Luke, Momper,Fort Wayne,IN,339018,22,M,Track:TT,03
+586.30,Zachary, Houlik,Breinigsville,PA,296256,18,M,Track:TT,03
+586.75,Kyle, Sanders,Cypress,TX,261033,18,M,Track:TT,03
+586.77,Spencer, Oswald,Dubuque,IA,231748,21,M,Track:TT,03
+586.94,John, Petrakis,Sonoma,CA,27937,67,M,Track:TT,03
+587.01,Jon, Lazard,Marion,IN,55674,51,M,Track:TT,03
+587.22,Sean, Tanabe,Seattle,WA,255667,39,M,Track:TT,03
+587.35,Jordan, Marhanka,Pickens,SC,293467,16,M,Track:TT,03
+587.38,Larry, Wolff,Sacramento,CA,219527,63,M,Track:TT,03
+587.69,James, Kinsinger,Erie,CO,94886,69,M,Track:TT,03
+587.76,Will, Gleason,New Albany,OH,231092,20,M,Track:TT,03
+588.33,Mark, McMurry,La Place,LA,50922,54,M,Track:TT,03
+588.49,Robert, Vigeant,Gresham,OR,316948,49,M,Track:TT,03
+588.51,Gavin, Hoover,Manhattan Beach,CA,280682,16,M,Track:TT,03
+588.75,Ben, Davis,Spring,TX,297902,22,M,Track:TT,03
+588.97,Fran, Rudy,Ooltewah,TN,58193,67,M,Track:TT,03
+589.24,R Maitland Jones,R Maitland Jones,Tallahassee,FL,256772,23,M,Track:TT,03
+589.77,Dave, Maminski,Campbell,CA,270067,52,M,Track:TT,03
+590.00,Eldon, Criswell,Alvin,TX,174416,63,M,Track:TT,03
+590.25,Richard, Rainville,Livonia,MI,305239,17,M,Track:TT,03
+590.36,Joshua, Schwiesow,Golden,CO,277942,36,M,Track:TT,03
+590.71,David, Stone,Pottstown,PA,200637,45,M,Track:TT,03
+590.73,Spencer, Schaber,Somerville,MA,279771,27,M,Track:TT,03
+591.11,Dale, Crockatt,Tucson,AZ,230830,59,M,Track:TT,03
+591.47,Christopher, Blevins,San Diego,CA,382876,32,M,Track:TT,03
+591.72,Jason, Lupo,Colorado Springs,CO,289022,22,M,Track:TT,03
+592.50,Andrew, Biscardi,San Jose,CA,280347,18,M,Track:TT,03
+592.50,Stanley, Prutz,Baton Rouge,LA,229031,56,M,Track:TT,03
+592.50,Bret, Sehorn,Kirkland,WA,88190,53,M,Track:TT,03
+592.65,Louis, Brooks,Vista,CA,47479,74,M,Track:TT,03
+592.70,Gregory, Auld,Golden,CO,91454,44,M,Track:TT,03
+593.20,Michael, Hart,Indianapolis,IN,314910,20,M,Track:TT,03
+593.70,Michael, Souers,Fort Wayne,IN,196033,25,M,Track:TT,03
+594.19,Evan, Glowiak,Usaf Academy,CO,300853,23,M,Track:TT,03
+594.33,Art, Hicks,Racine,WI,255412,62,M,Track:TT,03
+595.27,Scott, Hodder,Oceanport,NJ,46178,54,M,Track:TT,03
+595.38,Donald, Melhado,Tucson,AZ,23968,67,M,Track:TT,03
+595.47,Thomas, Revard,Carmel,IN,318688,16,M,Track:TT,03
+595.68,Christopher, Day,Zionsville,IN,300120,22,M,Track:TT,03
+596.66,David, Beitel,Conifer,CO,298098,56,M,Track:TT,03
+596.67,Thomas, Donohue,Seattle,WA,238989,50,M,Track:TT,03
+596.67,Andrew, (Drew) Tucker,Richardson,TX,145515,48,M,Track:TT,03
+596.67,Stephen, Pelletier,Amesbury,MA,300138,45,M,Track:TT,03
+532.31,Victor, Morandi,Houston,TX,313036,15,M,Track:TT,04
+546.87,Lance, Mooney,Houston,TX,350332,15,M,Track:TT,04
+547.41,Martin, Harris,Berkeley,CA,57779,49,M,Track:TT,04
+548.33,Peter, Winski,Katy,TX,311179,16,M,Track:TT,04
+548.63,Philip, Senechal,Philadelphia,PA,201259,67,M,Track:TT,04
+552.48,Weston, Giem,Valencia,CA,335014,13,M,Track:TT,04
+553.80,Joshua, Gibson,Katy,TX,354940,13,M,Track:TT,04
+553.99,Reydesel, Garcia III,Mckinney,TX,310049,13,M,Track:TT,04
+556.67,Michael, Robinson,Brooklyn,NY,120427,67,M,Track:TT,04
+557.02,Austin, Schneider,Houston,TX,381524,14,M,Track:TT,04
+558.96,Todd, Stodolski,Toms River,NJ,150400,45,M,Track:TT,04
+561.03,Steven, Rusnak,Seminole,FL,230108,21,M,Track:TT,04
+561.82,William, Wong,Alexandria,VA,121718,42,M,Track:TT,04
+564.47,Michael, Wilpizeski,Forest Hills,NY,57655,56,M,Track:TT,04
+565.98,Logan, Park,Noblesville,IN,335258,20,M,Track:TT,04
+566.95,Andrew, Singson,Piscataway,NJ,151533,48,M,Track:TT,04
+567.75,Alec, Ratzell,Blandon,PA,310898,15,M,Track:TT,04
+567.86,Zachariah, McClendon,Sanpablo,CA,307855,15,M,Track:TT,04
+568.87,Kenneth, Ziegenfus,New Tripoli,PA,325814,46,M,Track:TT,04
+570.62,Leo, Menestrina,San Jose,CA,117518,71,M,Track:TT,04
+571.08,Don, Carlberg,Katy,TX,350570,62,M,Track:TT,04
+571.42,Payson, McElveen,Durango,CO,276372,20,M,Track:TT,04
+571.74,Sam, Margolis,Hellertown,PA,368379,14,M,Track:TT,04
+572.74,Jules, Gilliam,Manhattan Beach,CA,295492,14,M,Track:TT,04
+573.34,Peter, Rizzo,Martinsville,NJ,172960,58,M,Track:TT,04
+573.40,Aaron, Canale,Durango,CO,274814,23,M,Track:TT,04
+573.73,Noah, Thomas,Mertztown,PA,320520,15,M,Track:TT,04
+576.00,Will, Wright,Campbell,CA,351738,14,M,Track:TT,04
+576.12,Fred, Rednor,Arlington,VA,154401,61,M,Track:TT,04
+576.72,Nicholas, McRight,Frisco,TX,333530,15,M,Track:TT,04
+577.72,John, Skrip,Breinigsville,PA,353394,15,M,Track:TT,04
+578.33,Graeme, Preston,New Orleans,LA,331200,27,M,Track:TT,04
+578.63,Robert, Kenner,Encinitas,CA,18933,74,M,Track:TT,04
+578.65,Jordan, Zhdanov,Van Nuys,CA,291483,17,M,Track:TT,04
+578.72,Jacob, Skrip,Breinigsville,PA,353400,14,M,Track:TT,04
+578.85,Sean, Brown,Burkburnett,TX,272798,25,M,Track:TT,04
+579.83,Philip, Stanley,Allentown,PA,45967,69,M,Track:TT,04
+580.00,Kyle, Kent,Scottsdale,AZ,350110,15,M,Track:TT,04
+580.00,Peter, Eckel,Alpharetta,GA,168532,31,M,Track:TT,04
+580.00,Troy, Pearson,Tucson,AZ,205797,46,M,Track:TT,04
+580.83,Logan, Sofjan,Tomball,TX,385631,14,M,Track:TT,04
+580.96,David, Hudson,Clarksboro,NJ,17010,49,M,Track:TT,04
+580.97,Cole, Reece,Emmaus,PA,325336,17,M,Track:TT,04
+581.54,John, Cohen,Newark,DE,45197,60,M,Track:TT,04
+581.55,Stephen, Israel,Moreno Valley,CA,304834,17,M,Track:TT,04
+581.71,Nick, Oestreich,Powder Springs,GA,277048,15,M,Track:TT,04
+582.78,Paul, McDonald,Doylestown,PA,223596,55,M,Track:TT,04
+582.78,Jordan, Wolfe,Sanjose,CA,282654,17,M,Track:TT,04
+583.05,Devin, Carlson,Plano,TX,341552,12,M,Track:TT,04
+583.30,Logan, Luker,Lebanon,TN,226312,24,M,Track:TT,04
+583.33,Joseph, Bacala,Baton Rouge,LA,330938,24,M,Track:TT,04
+583.70,Nicholas, Tveter,Derry,NH,380066,15,M,Track:TT,04
+583.85,Sydney, Duck,Agoura Hills,CA,58170,67,M,Track:TT,04
+583.87,Donavon, Johnson,Huntington Beach,CA,306450,17,M,Track:TT,04
+584.03,Daniel, Rock,Encinitas,CA,30251,59,M,Track:TT,04
+584.17,Nicholas, Bellnoski,Katy,TX,377192,31,M,Track:TT,04
+584.17,Michael, Humphreys,Brandon,MS,252422,49,M,Track:TT,04
+584.21,Niles, Wesley,Alameda,CA,352902,12,M,Track:TT,04
+584.45,Stephen, Spiller,Flemington,NJ,265410,16,M,Track:TT,04
+584.67,Skip, Sparry,Plano,TX,46768,76,M,Track:TT,04
+584.70,Simon, Jones,Milwaukee,WI,291893,14,M,Track:TT,04
+584.79,Zach, Bender,Glen Rock,NJ,250355,19,M,Track:TT,04
+585.00,David, Winski,Katy,TX,311181,17,M,Track:TT,04
+585.03,Zach, Prebosnyak,Bethlehem,PA,299289,16,M,Track:TT,04
+585.56,Dan, Ranshaw,Cave Creek,AZ,336204,56,M,Track:TT,04
+585.96,Samuel, Hill,Woodland,CA,318306,14,M,Track:TT,04
+586.56,Clif, Cassidy,Dallas,TX,310674,57,M,Track:TT,04
+586.57,Kip, Jansen,Bechtelsville,PA,125553,48,M,Track:TT,04
+586.64,Jim, Turner,Menlo Park,CA,63449,74,M,Track:TT,04
+586.67,Jason, Bordelon,Boyce,LA,298245,24,M,Track:TT,04
+586.69,Dylan, Gray,Fulshear,TX,305312,15,M,Track:TT,04
+587.78,gilbert, marrero,Flushing,NY,310861,65,M,Track:TT,04
+587.93,Nikos, Hessert,Evanston,IL,347054,16,M,Track:TT,04
+588.33,Adam, McCullough,Magnolia,TX,308149,29,M,Track:TT,04
+588.33,Ellis, Anderson,Moraga,CA,274504,19,M,Track:TT,04
+589.09,Gabriel, Castano,Allentown,PA,378224,16,M,Track:TT,04
+589.17,Christopher, Winski,Katy,TX,311559,17,M,Track:TT,04
+590.24,Tommy, Perkins,San Francisco,CA,387371,15,M,Track:TT,04
+590.54,Paul, Inglis,North East,MD,61494,53,M,Track:TT,04
+591.48,Dag, Anderson,Bridgewater,NJ,231596,19,M,Track:TT,04
+591.73,Jeffrey, Martin,Oceanside,CA,319570,32,M,Track:TT,04
+593.35,Jim, Schutawie,Collegeville,PA,294831,50,M,Track:TT,04
+594.10,Michael, Howard,Brooklyn,NY,162097,69,M,Track:TT,04
+594.66,William, Barnes,Tucson,AZ,170417,73,M,Track:TT,04
+594.69,Michael, Houghton,West Point,NY,341384,21,M,Track:TT,04
+594.89,Andreas, Katehis,Franklin Square,NY,293601,17,M,Track:TT,04
+596.63,Tony, Comer,San Marcos,CA,273036,17,M,Track:TT,04
+596.66,Theron, Sweet,Austin,TX,255241,28,M,Track:TT,04
+596.67,james, briggs,North Huntingdon,PA,274597,69,M,Track:TT,04
+596.67,Jeff, Biever,Phoenix,AZ,251657,52,M,Track:TT,04
+596.67,Dale, Harless,Bellevue,WA,57571,70,M,Track:TT,04
+596.67,Rene, Saenz,Houston,TX,50265,42,M,Track:TT,04
+596.67,Sheldon, Parmer,Tomball,TX,339298,52,M,Track:TT,04
+557.15,David, Broekema,San Francisco,CA,345356,45,M,Track:TT,05
+560.00,Michael, Hemmerlin,Mesa,AZ,286193,13,M,Track:TT,05
+564.98,William, Kalman,Bethlehem,PA,77672,68,M,Track:TT,05
+566.85,Joshua, Williams,San Jose,CA,390452,17,M,Track:TT,05
+568.75,Luke, Mullis,Rochester Hills,MI,296792,15,M,Track:TT,05
+569.75,Mikey, Waine,Douglasville,GA,281158,15,M,Track:TT,05
+573.89,David, Katz,Gilbert,AZ,366044,49,M,Track:TT,05
+575.50,Alexander, Tveter,Derry,NH,380068,13,M,Track:TT,05
+575.54,Kevin, Meyers,Greenfield,WI,295266,51,M,Track:TT,05
+576.22,Mike, Schaumloeffel,Boulder,CO,286890,47,M,Track:TT,05
+577.01,Thomas, Berdahl,Allentown,PA,319872,13,M,Track:TT,05
+578.52,Diego, Borba,Campbell,CA,384435,12,M,Track:TT,05
+580.00,William, Kahn,Phoenix,AZ,205658,54,M,Track:TT,05
+580.00,Reese, Levine,Orinda,CA,263998,18,M,Track:TT,05
+580.00,ayuub, atkinson,San Jose,CA,354248,13,M,Track:TT,05
+580.03,Andrew, Comer,San Marcos,CA,290914,13,M,Track:TT,05
+580.37,Mario, Miramontes,San Jose,CA,302141,44,M,Track:TT,05
+580.39,JAKE, SILVERBERG,Pembroke Pines,FL,312558,17,M,Track:TT,05
+580.71,Kyle, Nock,Green Lane,PA,380829,15,M,Track:TT,05
+581.54,Gregorino, Cordasco,Basking Ridge,NJ,346132,12,M,Track:TT,05
+581.85,Brigg, Wenstrand,Pleasanton,CA,360862,11,M,Track:TT,05
+581.86,Jonathan, Copsey,Colorado Springs,CO,324190,27,M,Track:TT,05
+582.58,Chester, Triplett,Mooresville,NC,318262,34,M,Track:TT,05
+583.29,Travis, Raymond,Pasadena,TX,379183,16,M,Track:TT,05
+583.80,Tanner, Hurst,Gallatin,TN,277734,20,M,Track:TT,05
+583.81,Rupert, Cox,Emerald Hills,CA,309471,15,M,Track:TT,05
+583.97,Joseph, DeMarco,Scottsdale,AZ,380145,15,M,Track:TT,05
+584.17,Adam, OCamb,San Luis Obispo,CA,297136,19,M,Track:TT,05
+584.56,Alex, Morton,Saint Clair,MI,373419,12,M,Track:TT,05
+585.56,Shawn, Oliver,Morgan Hill,CA,249822,51,M,Track:TT,05
+586.25,jason, frizell,Denham Springsdenham Springs,LA,350826,39,M,Track:TT,05
+586.41,Ray, Lafleur,San Diego,CA,311645,66,M,Track:TT,05
+588.33,Dexter, Koester,Los Angeles,CA,381512,11,M,Track:TT,05
+588.33,Thomas, Duncan,Fremont,CA,303797,17,M,Track:TT,05
+588.33,Michael, Bitton,Baton Rouge,LA,306661,37,M,Track:TT,05
+589.09,Douglas, Wells,Rochester Hills,MI,341850,12,M,Track:TT,05
+589.27,Matteo, Schiaffino,Pleasanton,CA,365882,11,M,Track:TT,05
+589.68,Perry, Andre,Bridgewater,NJ,297658,15,M,Track:TT,05
+590.23,Britton, Kinnard,Nashville,TN,64317,38,M,Track:TT,05
+590.42,Reuben, Dupre,Mobile,AL,347008,21,M,Track:TT,05
+590.68,Daniel, Szallai,Whitehouse Station,NJ,353174,15,M,Track:TT,05
+591.11,Gregory, Albert,Chandler,AZ,319056,52,M,Track:TT,05
+591.22,Kenneth, Dailey,West Point,NY,388382,20,M,Track:TT,05
+591.67,Brandon, Krasley,Emmaus,PA,319976,14,M,Track:TT,05
+591.92,Aaron, Apel,Scottsdale,AZ,305166,15,M,Track:TT,05
+591.99,Haegan, Altizer,Decatur,GA,350322,17,M,Track:TT,05
+592.11,Gerard, Josulevicz,Allentown,PA,380553,11,M,Track:TT,05
+592.21,Paul, Abel,Austin,TX,354988,28,M,Track:TT,05
+592.50,Jacob, Horvet,West Hills,CA,336766,13,M,Track:TT,05
+592.52,Joe, Kolling,Newport Beach,CA,273962,51,M,Track:TT,05
+592.67,Anup, Diwakar,Rochester Hills,MI,383126,15,M,Track:TT,05
+592.82,Paul, McCarthy,Nederland,CO,148212,66,M,Track:TT,05
+593.15,William, Krempa,Chalfont,PA,293372,16,M,Track:TT,05
+593.62,William, Walton,Allentown,PA,382206,12,M,Track:TT,05
+593.67,Landon, Garcia,Macungie,PA,354524,14,M,Track:TT,05
+593.73,Andrew, Dapper,Macungie,PA,297396,16,M,Track:TT,05
+594.31,Ben, Whitby,Allentown,PA,369637,16,M,Track:TT,05
+594.53,Matthew, Dailey,Davis,CA,330968,15,M,Track:TT,05
+594.58,Herbert, Guhn,Denham Springs,LA,369304,34,M,Track:TT,05
+594.83,Antonio, Schiaffino,Pleasanton,CA,332692,12,M,Track:TT,05
+595.13,Kristianson, Dillon,Alexandria,VA,366372,11,M,Track:TT,05
+595.28,Luis, Camacho,Cumming,GA,216909,51,M,Track:TT,05
+595.66,Ryan, Bailis,Bethlehem,PA,358388,14,M,Track:TT,05
+596.17,Stephen, Rogacki,Westpoint,NY,302975,23,M,Track:TT,05
+596.65,John, Pierce,Westwood Hills,KS,237070,64,M,Track:TT,05
+596.66,Adam, Ziegler,Bethlehem,PA,246353,18,M,Track:TT,05
+596.66,Will, Revard,Carmel,IN,337938,14,M,Track:TT,05
+596.67,Kevin, Carringer,West Point,NY,388386,20,M,Track:TT,05
+596.67,steve, kelly,Draper,UT,374782,51,M,Track:TT,05
+596.67,Gary, Vincent,Albuquerque,NM,312534,46,M,Track:TT,05
+596.67,ryder, phillips,Redondo Beach,CA,381481,11,M,Track:TT,05
+596.67,Bobby, Missirian,Mountain View,CA,311925,14,M,Track:TT,05
+596.67,Kevin, Haskell,Scottsdale,AZ,369683,29,M,Track:TT,05
+596.67,Jeffrey, Phillips,Baton Rouge,LA,380876,31,M,Track:TT,05

@@ -1,0 +1,814 @@
+POINTS,FIRST_NAME,LAST_NAME,CITY,STATE,LICENSE,AGE,SEX,DISCIPLINE,CATEGORY
+455.91,Lauren, Hall,Dolores,CO,262479,34,F,Track:PR,PR
+480.63,Jacquelyn, Crowell,Maitland,FL,185441,25,F,Track:PR,PR
+522.78,Jennifer, Valente,San Diego,CA,293380,19,F,Track:PR,PR
+584.17,Kaitlin, Antonneau,Racine,WI,200237,21,F,Track:PR,PR
+382.68,Cari, Higgins,Boulder,CO,225441,37,F,Track:PR,01
+458.27,Erin, Glover,Portland,OR,357591,32,F,Track:PR,01
+462.54,Neva, Day,Manhattan Beach,CA,218801,44,F,Track:PR,01
+463.02,Shelby, Reynolds,Cypress,CA,188007,22,F,Track:PR,01
+493.51,Elizabeth, Newell,Oakland,CA,252152,31,F,Track:PR,01
+497.89,Jessica, Cutler,Seattle,WA,158992,34,F,Track:PR,01
+506.08,Amara, Edwards,Newcastle,WA,170202,25,F,Track:PR,01
+506.39,Kimberly, Geist,Emmaus,PA,134992,26,F,Track:PR,01
+513.06,Kelly, Plese,Enumclaw,WA,281405,21,F,Track:PR,01
+515.49,Colleen, Hayduk,Kutztown,PA,184207,23,F,Track:PR,01
+537.80,Mary, Costelloe,Emmaus,PA,192297,22,F,Track:PR,01
+544.18,Luanne, Murray,London,OH,48868,50,F,Track:PR,01
+547.88,Erica, Allar,Tucson,AZ,174914,28,F,Track:PR,01
+553.46,Suzanne, Goodwin,Mckinney,TX,96860,47,F,Track:PR,01
+560.00,Kristen, Meshberg,Lyons,IL,167518,43,F,Track:PR,01
+562.39,Jennifer, Triplett,Colorado Springs,CO,219367,35,F,Track:PR,01
+564.44,Nadia, Latzgo,Fogelsville,PA,240336,18,F,Track:PR,01
+568.82,Colleen, Gulick,Spring City,PA,180423,22,F,Track:PR,01
+570.79,Emily, Thurston,San Pablo,CA,128351,36,F,Track:PR,01
+579.53,Norrene, Godfrey,Vancouver,WA,49844,48,F,Track:PR,01
+585.64,Claire, Routledge,Wichitafalls,TX,305347,23,F,Track:PR,01
+596.67,Mandy, Marquardt,Breinigsville,PA,200340,22,F,Track:PR,01
+457.84,Kate, Wilson,Los Angeles,CA,258361,20,F,Track:PR,02
+477.76,Lindsay, Felker,Seattle,WA,303546,32,F,Track:PR,02
+487.82,Korina, Huizar,Roseville,CA,332152,26,F,Track:PR,02
+514.29,Lauren, Stephens,Dallas,TX,288678,27,F,Track:PR,02
+514.89,Annette, Williams,Kenmore,WA,71338,51,F,Track:PR,02
+530.71,Laura, Chang,Kent,WA,258166,31,F,Track:PR,02
+537.30,Terra, James,Minneapolis,MN,281803,33,F,Track:PR,02
+537.40,Allie, Dragoo,Grand Rapids,MI,291607,24,F,Track:PR,02
+542.08,Francine, Haas,Chicago,IL,162422,47,F,Track:PR,02
+542.72,Jennifer, Zierke,Millbrae,CA,275670,29,F,Track:PR,02
+551.11,Sierra, Siebenlist,Indianapolis,IN,166038,27,F,Track:PR,02
+553.32,Vera, Divenyi,Denver,CO,220322,40,F,Track:PR,02
+562.06,Cheryl, Fuller-Muller,Cumming,GA,235133,41,F,Track:PR,02
+563.59,Jessica, Prinner,South Elgin,IL,225342,21,F,Track:PR,02
+564.15,Heather, Ross,Felton,CA,239612,26,F,Track:PR,02
+564.60,Linsey, Hamilton,Minneapolis,MN,266416,34,F,Track:PR,02
+566.59,Emilie, Flanigan,Saint Louis,MO,214541,30,F,Track:PR,02
+566.74,Christa, Ghent,Boulder,CO,327486,23,F,Track:PR,02
+568.32,Christina, Birch,Somerville,MA,294746,27,F,Track:PR,02
+576.00,Christine, Phillips,Chandler,AZ,264011,46,F,Track:PR,02
+577.26,Elizabeth, Engwis,Kenosha,WI,190874,21,F,Track:PR,02
+577.84,Payton, Thomas,Euless,TX,280627,17,F,Track:PR,02
+579.30,Tamara, Stephas,Seattle,WA,133090,46,F,Track:PR,02
+585.83,Ingrid, Alongi,Boulder,CO,42742,39,F,Track:PR,02
+588.40,Renee, Schroeder,Nederland,CO,193694,50,F,Track:PR,02
+589.29,Tara, McCormick,Long Beach,CA,229993,18,F,Track:PR,02
+591.25,Hannah, Hayduk,Kutztown,PA,200614,20,F,Track:PR,02
+594.22,Heather, VanValkenburg,Vancouver,WA,200293,38,F,Track:PR,02
+596.67,Kira, Prokopakis,Santa Clara,CA,283149,22,F,Track:PR,02
+501.34,Jane, Evely,Carnation,WA,162455,44,F,Track:PR,03
+524.15,Shannon, Bhatia,San Jose,CA,306273,18,F,Track:PR,03
+525.17,Jacqueline, Kurth,Palm City,FL,182253,22,F,Track:PR,03
+528.32,Marissa, Carr,Stanwood,WA,336040,23,F,Track:PR,03
+532.96,Summer, Moak,Katy,TX,343484,14,F,Track:PR,03
+539.34,Karen, Claeys,Seattle,WA,196193,47,F,Track:PR,03
+540.00,Stacey, Giuffre,Sammamish,WA,249805,16,F,Track:PR,03
+543.27,Nancy, Williams,Seattle,WA,365879,27,F,Track:PR,03
+544.55,Heather, Poole,Seattle,WA,366318,33,F,Track:PR,03
+544.84,Yuliya, Shabalina,Bellevue,WA,332854,31,F,Track:PR,03
+545.03,Amanda, Seigle,Citrus Heights,CA,203755,31,F,Track:PR,03
+546.74,Alexandra, McKay,Seattle,WA,275900,36,F,Track:PR,03
+546.83,Lori, King,Woodinville,WA,108244,44,F,Track:PR,03
+548.76,alexie, montaland,Bellevue,WA,272214,39,F,Track:PR,03
+552.50,Nancy, Heymann,Highland Park,IL,283728,53,F,Track:PR,03
+554.42,Abby, Ruess,Saint Paul,MN,312258,29,F,Track:PR,03
+554.71,Madison, Tuggle,Littleton,CO,310004,19,F,Track:PR,03
+556.86,Linda, Coppa,Seattle,WA,61906,45,F,Track:PR,03
+557.06,Sydney, Hatten,Indianapolis,IN,241403,28,F,Track:PR,03
+564.16,Therese, Johnson,Denver,CO,357287,39,F,Track:PR,03
+565.00,Angela, Rochester,Highland Park,IL,286332,36,F,Track:PR,03
+568.82,Morgan, Kapp,Claremont,CA,186865,33,F,Track:PR,03
+569.89,Sarah, Sturm,Durango,CO,275320,24,F,Track:PR,03
+570.77,Carol, Johnson,Seattle,WA,197530,55,F,Track:PR,03
+570.81,Corrie, Karas,Rochester,MI,353448,19,F,Track:PR,03
+574.28,Evelyn, Korbich,New Tripoli,PA,290571,17,F,Track:PR,03
+575.00,Anne, Donley,Boulder,CO,227028,36,F,Track:PR,03
+576.00,Laurel, Rathbun,Monument,CO,201838,17,F,Track:PR,03
+576.19,Nicolle, Bruderer,Boulder,CO,366636,20,F,Track:PR,03
+576.67,Sandra, Samman,Chicago,IL,300027,39,F,Track:PR,03
+576.67,Jamie, Gavin-Smyth,Chicago,IL,293047,30,F,Track:PR,03
+576.88,Mary, Nunnelly,Houston,TX,143312,52,F,Track:PR,03
+577.08,Katie, Stonebraker,Sacramento,CA,226927,40,F,Track:PR,03
+577.73,Kirsten, Williams,Lonetree,CO,285625,17,F,Track:PR,03
+580.00,Mariasol, Johannes,Saint Louis,MO,298086,27,F,Track:PR,03
+580.00,Allyson, Beach,Cleveland,OH,308581,19,F,Track:PR,03
+580.00,Shannon, Moak,Katy,TX,339810,40,F,Track:PR,03
+580.13,Tara, Unverzagt,Torrance,CA,255337,50,F,Track:PR,03
+580.41,Mary, Ellen Ash,Menlo Park,CA,254874,33,F,Track:PR,03
+580.78,Emily, Elbers,Syracuse,NY,314836,19,F,Track:PR,03
+580.92,Ashley, Rethemeyer,Hermann,MO,304266,25,F,Track:PR,03
+582.05,Ellen, Noble,Kennebunkport,ME,282412,18,F,Track:PR,03
+582.49,Rachel, Byus,Argyle,TX,260379,27,F,Track:PR,03
+582.83,Carol, Kauder,Boulder,CO,298004,45,F,Track:PR,03
+584.27,Bonnie, Karas,Rochester Hills,MI,321630,48,F,Track:PR,03
+584.29,Jane, Chateaubriand,Seattle,WA,226258,52,F,Track:PR,03
+585.06,Cindi, Vargas,Humble,TX,298185,42,F,Track:PR,03
+585.56,Molly, Brady,Saint Louis,MO,318720,26,F,Track:PR,03
+585.83,Mary, Glenn Enrique,Foster City,CA,266378,31,F,Track:PR,03
+587.22,Yesica, Mendoza,Saint Charles,MO,358741,24,F,Track:PR,03
+588.79,Amelia, Christensen,Fairfield,IA,368127,24,F,Track:PR,03
+589.17,Marie, Snyder,Chicago,IL,329524,27,F,Track:PR,03
+589.79,Valerie, McGoldrick,Deephaven,MN,302230,16,F,Track:PR,03
+591.94,Gabriella, Allong,West Point,NY,213627,21,F,Track:PR,03
+592.53,Renee', Fenstermacher,Redondo Beach,CA,263843,49,F,Track:PR,03
+592.63,Stephanie, Torres,East Elmhurst,NY,269772,20,F,Track:PR,03
+592.99,Rachel, Hong,Seattle,WA,270643,42,F,Track:PR,03
+595.09,Jasmine, Hansen,Grimes,IA,361078,21,F,Track:PR,03
+596.67,Michelle, Stoll,Boulder,CO,115586,40,F,Track:PR,03
+596.67,Monika, King,Hermosa Beach,CA,255491,50,F,Track:PR,03
+596.67,Melanie, Phillips,Redondo Beach,CA,52772,45,F,Track:PR,03
+596.67,Alaina, Gurski,Philadelphia,PA,148911,43,F,Track:PR,03
+551.11,Emilia, Field,Lake Forest,IL,321530,14,F,Track:PR,04
+552.06,Courtney, Bach,Dallas,TX,334094,32,F,Track:PR,04
+556.37,Jill, Ramsey,Bothell,WA,148269,55,F,Track:PR,04
+558.33,Pamela, Jackson,Garland,TX,157028,50,F,Track:PR,04
+560.00,Lynn, Rivier,Highland Park,IL,357114,62,F,Track:PR,04
+561.85,erin, miller,Los Angeles,CA,333810,32,F,Track:PR,04
+562.16,Molly, Johnson,Renton,WA,231853,39,F,Track:PR,04
+569.77,Madison, Curry,Mckinney,TX,343738,15,F,Track:PR,04
+570.09,Allyson, Wasielewski,Orefield,PA,351960,14,F,Track:PR,04
+570.60,Debra, Cavender,Troy,MI,249943,57,F,Track:PR,04
+572.50,Emma, Caughlin,Bloomington,IN,335006,21,F,Track:PR,04
+574.18,Salma, Huque,Douglasville,GA,334838,15,F,Track:PR,04
+576.22,Courtney, Comer,San Marcos,CA,287901,14,F,Track:PR,04
+578.27,Kalie, King,Mertztown,PA,321032,14,F,Track:PR,04
+579.01,Kathryn, Beattie,Issaquah,WA,347498,46,F,Track:PR,04
+579.34,Lauren, Catlin,Fairfax,CA,256601,21,F,Track:PR,04
+579.44,Claire, Daunis,River Ridge,LA,331926,23,F,Track:PR,04
+580.00,Ann, Weigel,Mckinney,TX,288493,14,F,Track:PR,04
+580.00,Kristin, Wolfe,Sanjose,CA,289378,15,F,Track:PR,04
+580.00,Celeste, Power,Baton Rouge,LA,336484,30,F,Track:PR,04
+580.00,Ainhoa, Perez-Diez,Rockville,MD,274754,42,F,Track:PR,04
+580.31,Emma, Fickel,Rochester Hills,MI,324218,15,F,Track:PR,04
+580.54,Karine, ValliantSaunders,Seattle,WA,367868,33,F,Track:PR,04
+582.35,Anya, Malarski,St. Paul,MN,302412,14,F,Track:PR,04
+582.78,Catherine, Hollibaugh,Carmel,IN,354456,20,F,Track:PR,04
+582.85,Jennifer, Wagner,Houston,TX,288729,33,F,Track:PR,04
+582.90,Julia, Winski,Katy,TX,311182,17,F,Track:PR,04
+584.40,Eva, Burke,Macungie,PA,378805,14,F,Track:PR,04
+584.62,Elizabeth, Tveter,Derry,NH,380067,16,F,Track:PR,04
+585.00,Catherine, Watkins,Evanston,IL,199317,30,F,Track:PR,04
+585.55,Ashton, DeHahn,Lafayette,IN,379687,20,F,Track:PR,04
+586.34,Olivia, Saunders,Flemington,NJ,295300,16,F,Track:PR,04
+586.67,Valerie, Tiemann,Spring,TX,330038,56,F,Track:PR,04
+587.19,Olivia, Jones,Katy,TX,347080,14,F,Track:PR,04
+587.41,Elizabeth, Peterson,Olympia,WA,304994,22,F,Track:PR,04
+587.77,Johanna, Cordasco,Baskingridge,NJ,295493,14,F,Track:PR,04
+588.07,Hannah, McDade,Tigard,OR,297261,16,F,Track:PR,04
+588.33,Inna, Wirawan,Houston,TX,352710,43,F,Track:PR,04
+588.33,Marianne, Hernandez,Davis,CA,68813,51,F,Track:PR,04
+588.33,Riley, Missel,Grand Haven,MI,377467,20,F,Track:PR,04
+588.48,Rebecca, Israel,Moreno Valley,CA,305237,15,F,Track:PR,04
+589.36,Addyson, Albershardt,Matthews,NC,287411,19,F,Track:PR,04
+590.00,Dana, Loo,Madison,WI,283736,16,F,Track:PR,04
+591.11,Katherine, Hrubes,Webster Groves,MO,276364,42,F,Track:PR,04
+591.17,Christi, Kenyon,Seattle,WA,272209,56,F,Track:PR,04
+591.98,Linnea, Nasman,Austin,TX,219356,27,F,Track:PR,04
+592.57,Katherine, Lawrence,Colorado Springs,CO,294821,14,F,Track:PR,04
+593.24,Victoria, Lawrence,Colorado Springs,CO,294698,16,F,Track:PR,04
+593.52,Victoria, Ollo,Seymour,IN,359065,20,F,Track:PR,04
+593.89,Tamyra, Barnard,Dania Beach,FL,202120,53,F,Track:PR,04
+594.61,Peye, Wong,Flushing,NY,325504,15,F,Track:PR,04
+594.96,Gabrielle, Longchamp,Flemington,NJ,320230,16,F,Track:PR,04
+596.32,Elizabeth, Adams,Seattle,WA,374677,32,F,Track:PR,04
+596.66,Shelly, Collins,Franklin,TN,305394,41,F,Track:PR,04
+596.67,Miranda, Reisch,Fremont,CA,353746,14,F,Track:PR,04
+596.67,Allison, Braddock,Saint Louis,MO,268413,43,F,Track:PR,04
+596.67,Abigail, Beach,N. Scituate,MA,337090,16,F,Track:PR,04
+475.32,Jennifer, Valente,San Diego,CA,293380,19,F,Track:SR,PR
+500.75,Lauren, Hall,Dolores,CO,262479,34,F,Track:SR,PR
+524.40,Jacquelyn, Crowell,Maitland,FL,185441,25,F,Track:SR,PR
+474.29,Shelby, Reynolds,Cypress,CA,188007,22,F,Track:SR,01
+482.49,Cari, Higgins,Boulder,CO,225441,37,F,Track:SR,01
+485.19,Erin, Glover,Portland,OR,357591,32,F,Track:SR,01
+492.01,Colleen, Hayduk,Kutztown,PA,184207,23,F,Track:SR,01
+507.81,Neva, Day,Manhattan Beach,CA,218801,44,F,Track:SR,01
+511.75,Amara, Edwards,Newcastle,WA,170202,25,F,Track:SR,01
+529.84,Erica, Allar,Tucson,AZ,174914,28,F,Track:SR,01
+535.92,Suzanne, Goodwin,Mckinney,TX,96860,47,F,Track:SR,01
+540.49,Tela, Crane,Sammamish,WA,184933,27,F,Track:SR,01
+552.49,Emily, Thurston,San Pablo,CA,128351,36,F,Track:SR,01
+552.65,Jessica, Cutler,Seattle,WA,158992,34,F,Track:SR,01
+564.26,Kelly, Plese,Enumclaw,WA,281405,21,F,Track:SR,01
+564.95,Mary, Costelloe,Emmaus,PA,192297,22,F,Track:SR,01
+568.63,Melissa, (Missy) Erickson,Alexandria,MN,233106,23,F,Track:SR,01
+569.89,Kimberly, Geist,Emmaus,PA,134992,26,F,Track:SR,01
+572.14,Jennifer, Triplett,Colorado Springs,CO,219367,35,F,Track:SR,01
+576.64,Kristen, Meshberg,Lyons,IL,167518,43,F,Track:SR,01
+577.39,Norrene, Godfrey,Vancouver,WA,49844,48,F,Track:SR,01
+585.00,Luanne, Murray,London,OH,48868,50,F,Track:SR,01
+590.60,Nadia, Latzgo,Fogelsville,PA,240336,18,F,Track:SR,01
+592.63,Elizabeth, Newell,Oakland,CA,252152,31,F,Track:SR,01
+595.15,Mandy, Marquardt,Breinigsville,PA,200340,22,F,Track:SR,01
+499.56,Kate, Wilson,Los Angeles,CA,258361,20,F,Track:SR,02
+501.54,Lindsay, Felker,Seattle,WA,303546,32,F,Track:SR,02
+515.27,Annette, Williams,Kenmore,WA,71338,51,F,Track:SR,02
+525.77,Heather, Ross,Felton,CA,239612,26,F,Track:SR,02
+537.02,Emilie, Flanigan,Saint Louis,MO,214541,30,F,Track:SR,02
+537.59,Lauren, Stephens,Dallas,TX,288678,27,F,Track:SR,02
+538.20,Francine, Haas,Chicago,IL,162422,47,F,Track:SR,02
+541.59,Laura, Chang,Kent,WA,258166,31,F,Track:SR,02
+554.06,Tamara, Stephas,Seattle,WA,133090,46,F,Track:SR,02
+554.97,Korina, Huizar,Roseville,CA,332152,26,F,Track:SR,02
+560.13,Jennifer, Zierke,Millbrae,CA,275670,29,F,Track:SR,02
+564.22,Payton, Thomas,Euless,TX,280627,17,F,Track:SR,02
+565.39,Sierra, Siebenlist,Indianapolis,IN,166038,27,F,Track:SR,02
+566.46,Christa, Ghent,Boulder,CO,327486,23,F,Track:SR,02
+567.97,Jessica, Prinner,South Elgin,IL,225342,21,F,Track:SR,02
+575.05,Renee, Schroeder,Nederland,CO,193694,50,F,Track:SR,02
+575.52,Kaitlyn, Lawrence,Emmaus,PA,232118,19,F,Track:SR,02
+576.59,Terra, James,Minneapolis,MN,281803,33,F,Track:SR,02
+577.03,Christina, Birch,Somerville,MA,294746,27,F,Track:SR,02
+578.34,Cheryl, Fuller-Muller,Cumming,GA,235133,41,F,Track:SR,02
+585.68,Tara, McCormick,Long Beach,CA,229993,18,F,Track:SR,02
+586.25,Daphne, Karagianis,Chicago,IL,291446,28,F,Track:SR,02
+586.42,Allie, Dragoo,Grand Rapids,MI,291607,24,F,Track:SR,02
+586.67,Ingrid, Alongi,Boulder,CO,42742,39,F,Track:SR,02
+587.56,Bailey, Semian,Mertztown,PA,281672,18,F,Track:SR,02
+587.91,Heather, VanValkenburg,Vancouver,WA,200293,38,F,Track:SR,02
+590.00,Vera, Divenyi,Denver,CO,220322,40,F,Track:SR,02
+590.62,Hannah, Hayduk,Kutztown,PA,200614,20,F,Track:SR,02
+591.90,Elizabeth, Engwis,Kenosha,WI,190874,21,F,Track:SR,02
+596.67,Kimberly, Nuffer,Denver,CO,210166,44,F,Track:SR,02
+596.67,Erin, Popovich,Plano,TX,260210,21,F,Track:SR,02
+501.30,Summer, Moak,Katy,TX,343484,14,F,Track:SR,03
+533.40,Karen, Claeys,Seattle,WA,196193,47,F,Track:SR,03
+534.26,Jane, Evely,Carnation,WA,162455,44,F,Track:SR,03
+535.84,Marissa, Carr,Stanwood,WA,336040,23,F,Track:SR,03
+538.36,Ashley, Rethemeyer,Hermann,MO,304266,25,F,Track:SR,03
+539.80,Stacey, Giuffre,Sammamish,WA,249805,16,F,Track:SR,03
+542.38,Alexandra, McKay,Seattle,WA,275900,36,F,Track:SR,03
+543.44,Jacqueline, Kurth,Palm City,FL,182253,22,F,Track:SR,03
+545.04,Shannon, Bhatia,San Jose,CA,306273,18,F,Track:SR,03
+548.13,Heather, Poole,Seattle,WA,366318,33,F,Track:SR,03
+549.72,Angela, Rochester,Highland Park,IL,286332,36,F,Track:SR,03
+550.04,alexie, montaland,Bellevue,WA,272214,39,F,Track:SR,03
+551.11,Nancy, Heymann,Highland Park,IL,283728,53,F,Track:SR,03
+552.22,Mariasol, Johannes,Saint Louis,MO,298086,27,F,Track:SR,03
+553.23,Yuliya, Shabalina,Bellevue,WA,332854,31,F,Track:SR,03
+553.89,Sydney, Hatten,Indianapolis,IN,241403,28,F,Track:SR,03
+555.06,Nancy, Williams,Seattle,WA,365879,27,F,Track:SR,03
+560.68,Linda, Coppa,Seattle,WA,61906,45,F,Track:SR,03
+560.83,Molly, Brady,Saint Louis,MO,318720,26,F,Track:SR,03
+561.74,Morgan, Kapp,Claremont,CA,186865,33,F,Track:SR,03
+564.24,Cindi, Vargas,Humble,TX,298185,42,F,Track:SR,03
+564.27,Lori, King,Woodinville,WA,108244,44,F,Track:SR,03
+565.00,Shannon, Moak,Katy,TX,339810,40,F,Track:SR,03
+567.85,Tara, Unverzagt,Torrance,CA,255337,50,F,Track:SR,03
+568.55,Amanda, Seigle,Citrus Heights,CA,203755,31,F,Track:SR,03
+568.55,Rachel, Byus,Argyle,TX,260379,27,F,Track:SR,03
+569.48,Sarah, Sturm,Durango,CO,275320,24,F,Track:SR,03
+570.43,Kirsten, Williams,Lonetree,CO,285625,17,F,Track:SR,03
+571.11,Caitlin, Rolfs,Topeka,KS,269339,25,F,Track:SR,03
+572.50,Yesica, Mendoza,Saint Charles,MO,358741,24,F,Track:SR,03
+572.56,Julia, Lonchar,Philadelphia,PA,306648,28,F,Track:SR,03
+574.01,Nicolle, Bruderer,Boulder,CO,366636,20,F,Track:SR,03
+574.18,Laurel, Rathbun,Monument,CO,201838,17,F,Track:SR,03
+575.36,Jasmine, Hansen,Grimes,IA,361078,21,F,Track:SR,03
+576.05,Valerie, McGoldrick,Deephaven,MN,302230,16,F,Track:SR,03
+578.18,Sandra, Samman,Chicago,IL,300027,39,F,Track:SR,03
+578.41,Rachel, Hong,Seattle,WA,270643,42,F,Track:SR,03
+578.54,Madison, Tuggle,Littleton,CO,310004,19,F,Track:SR,03
+580.00,Anne, Donley,Boulder,CO,227028,36,F,Track:SR,03
+580.95,Mary, Nunnelly,Houston,TX,143312,52,F,Track:SR,03
+582.25,Bonnie, Karas,Rochester Hills,MI,321630,48,F,Track:SR,03
+582.38,Corrie, Karas,Rochester,MI,353448,19,F,Track:SR,03
+583.07,Meg, Browning,Minneapolis,MN,369069,25,F,Track:SR,03
+583.33,Therese, Johnson,Denver,CO,357287,39,F,Track:SR,03
+583.41,Abby, Ruess,Saint Paul,MN,312258,29,F,Track:SR,03
+584.17,Gabriella, Allong,West Point,NY,213627,21,F,Track:SR,03
+585.42,Evelyn, Korbich,New Tripoli,PA,290571,17,F,Track:SR,03
+585.56,Allyson, Beach,Cleveland,OH,308581,19,F,Track:SR,03
+586.15,Katie, Stonebraker,Sacramento,CA,226927,40,F,Track:SR,03
+586.25,Emily, Elbers,Syracuse,NY,314836,19,F,Track:SR,03
+587.14,Stephanie, Torres,East Elmhurst,NY,269772,20,F,Track:SR,03
+587.29,Julia, Sante,Queensbury,NY,284417,16,F,Track:SR,03
+587.53,Adrienne, Belliveau,San Francisco,CA,303420,29,F,Track:SR,03
+587.69,Beth, Lyndon-Griffith,Seattle,WA,21930,50,F,Track:SR,03
+588.33,Jamie, Gavin-Smyth,Chicago,IL,293047,30,F,Track:SR,03
+589.46,Renee', Fenstermacher,Redondo Beach,CA,263843,49,F,Track:SR,03
+589.99,Jane, Chateaubriand,Seattle,WA,226258,52,F,Track:SR,03
+589.99,Marie, Snyder,Chicago,IL,329524,27,F,Track:SR,03
+591.11,Stephanie, Nadeau,Saint Louis,MO,268409,38,F,Track:SR,03
+591.42,Janet, Lischer,Colorado Springs,CO,21323,51,F,Track:SR,03
+593.00,Melanie, Phillips,Redondo Beach,CA,52772,45,F,Track:SR,03
+593.33,Michelle, Stoll,Boulder,CO,115586,40,F,Track:SR,03
+593.64,Ellen, Noble,Kennebunkport,ME,282412,18,F,Track:SR,03
+596.67,Mary, Glenn Enrique,Foster City,CA,266378,31,F,Track:SR,03
+596.67,Heather, McWilliamsMierzejews,Louisville,CO,365141,40,F,Track:SR,03
+596.67,Julie, Robertson-Zivin,Seattle,WA,237676,44,F,Track:SR,03
+596.68,dylan, lafferty,Fogelsville,PA,319876,18,F,Track:SR,03
+600.00,Carol, Johnson,Seattle,WA,197530,55,F,Track:SR,03
+544.51,Isabella, Brookshire,Hendersonville,NC,283548,13,F,Track:SR,04
+549.82,Marcy, Bardman,Barto,PA,321084,13,F,Track:SR,04
+550.19,Madison, Curry,Mckinney,TX,343738,15,F,Track:SR,04
+556.72,Molly, Johnson,Renton,WA,231853,39,F,Track:SR,04
+560.00,Kennedy, Hill,Woodland,CA,352008,13,F,Track:SR,04
+560.00,Lynn, Rivier,Highland Park,IL,357114,62,F,Track:SR,04
+560.72,Sandra, North,Berthoud,CO,368581,56,F,Track:SR,04
+561.67,Emilia, Field,Lake Forest,IL,321530,14,F,Track:SR,04
+562.06,Brittany, Bardman,Barto,PA,366050,11,F,Track:SR,04
+563.02,Corrine, Krasley,Coplay,PA,383360,11,F,Track:SR,04
+564.01,Courtney, Bach,Dallas,TX,334094,32,F,Track:SR,04
+566.05,Allyson, Wasielewski,Orefield,PA,351960,14,F,Track:SR,04
+568.36,Kathryn, Beattie,Issaquah,WA,347498,46,F,Track:SR,04
+568.58,Ivy, Koester,Los Angeles,CA,381514,13,F,Track:SR,04
+569.62,Jill, Ramsey,Bothell,WA,148269,55,F,Track:SR,04
+569.65,Debra, Cavender,Troy,MI,249943,57,F,Track:SR,04
+570.14,Olivia, Jones,Katy,TX,347080,14,F,Track:SR,04
+570.76,Salma, Huque,Douglasville,GA,334838,15,F,Track:SR,04
+571.56,Cheyenne, Comer,San Marcos,CA,297265,12,F,Track:SR,04
+572.12,Emma, Caughlin,Bloomington,IN,335006,21,F,Track:SR,04
+572.49,Eve, Chavez,Northridge,CA,353968,13,F,Track:SR,04
+573.12,Kalie, King,Mertztown,PA,321032,14,F,Track:SR,04
+573.64,Sarah, Haight,Fairfax,VA,333866,22,F,Track:SR,04
+574.65,Jennifer, Wagner,Houston,TX,288729,33,F,Track:SR,04
+574.71,Catherine, Watkins,Evanston,IL,199317,30,F,Track:SR,04
+575.10,Ana, Berns,Lititz,PA,381160,11,F,Track:SR,04
+576.29,Lauren, Wolfe,San Jose,CA,317172,13,F,Track:SR,04
+577.32,Aliza, Tobias,Blandon,PA,381641,13,F,Track:SR,04
+577.35,Madeleine, Tveter,Derry,NH,380069,12,F,Track:SR,04
+577.50,Katherine, Hrubes,Webster Groves,MO,276364,42,F,Track:SR,04
+577.83,Courtney, Comer,San Marcos,CA,287901,14,F,Track:SR,04
+578.44,Sarah, Huang,Pleasant Prairie,WI,225258,18,F,Track:SR,04
+580.00,Kristin, Wolfe,Sanjose,CA,289378,15,F,Track:SR,04
+580.00,Ann, Weigel,Mckinney,TX,288493,14,F,Track:SR,04
+580.00,cristel, santiago,Wildwood,MO,288943,42,F,Track:SR,04
+580.00,Celeste, Power,Baton Rouge,LA,336484,30,F,Track:SR,04
+580.09,Stephanie, Lawrence,Colorado Springs,CO,357542,11,F,Track:SR,04
+580.19,Eva, Burke,Macungie,PA,378805,14,F,Track:SR,04
+580.32,Pamela, Jackson,Garland,TX,157028,50,F,Track:SR,04
+581.67,Julia, Winski,Katy,TX,311182,17,F,Track:SR,04
+581.67,Eva, Berger,Saint Louis,MO,380240,11,F,Track:SR,04
+582.08,Jennifer, Webster,West Point,NY,361052,20,F,Track:SR,04
+582.08,Valerie, Tiemann,Spring,TX,330038,56,F,Track:SR,04
+582.55,Anya, Malarski,St. Paul,MN,302412,14,F,Track:SR,04
+583.54,Olivia, Saunders,Flemington,NJ,295300,16,F,Track:SR,04
+584.27,Linnea, Nasman,Austin,TX,219356,27,F,Track:SR,04
+584.43,Emily, Hughes,Fremont,CA,338990,12,F,Track:SR,04
+584.58,Lauren, Catlin,Fairfax,CA,256601,21,F,Track:SR,04
+585.00,Claire, Daunis,River Ridge,LA,331926,23,F,Track:SR,04
+585.46,ALaina, Beckwith,Lawrence,KS,370729,29,F,Track:SR,04
+586.07,Karine, ValliantSaunders,Seattle,WA,367868,33,F,Track:SR,04
+586.95,Catherine, Hollibaugh,Carmel,IN,354456,20,F,Track:SR,04
+587.00,Ashton, DeHahn,Lafayette,IN,379687,20,F,Track:SR,04
+587.26,Peye, Wong,Flushing,NY,325504,15,F,Track:SR,04
+587.51,Barbara, Thiele,Hillsboro,OR,268052,60,F,Track:SR,04
+588.33,Inna, Wirawan,Houston,TX,352710,43,F,Track:SR,04
+588.77,Elizabeth, Peterson,Olympia,WA,304994,22,F,Track:SR,04
+589.16,Hannah, McDade,Tigard,OR,297261,16,F,Track:SR,04
+589.62,Rebecca, Israel,Moreno Valley,CA,305237,15,F,Track:SR,04
+589.99,Dana, Loo,Madison,WI,283736,16,F,Track:SR,04
+590.00,Sarah, Turner,Saint Louis,MO,340000,26,F,Track:SR,04
+590.20,Wenzdae, Morales,El Segundo,CA,379963,12,F,Track:SR,04
+590.42,Riley, Missel,Grand Haven,MI,377467,20,F,Track:SR,04
+591.04,Gabrielle, Longchamp,Flemington,NJ,320230,16,F,Track:SR,04
+591.11,Abigail, Beach,N. Scituate,MA,337090,16,F,Track:SR,04
+591.97,Katherine, Lawrence,Colorado Springs,CO,294821,14,F,Track:SR,04
+592.50,Allison, Braddock,Saint Louis,MO,268413,43,F,Track:SR,04
+592.91,Victoria, Lawrence,Colorado Springs,CO,294698,16,F,Track:SR,04
+593.63,Christi, Kenyon,Seattle,WA,272209,56,F,Track:SR,04
+594.33,Emma, Fickel,Rochester Hills,MI,324218,15,F,Track:SR,04
+594.58,Victoria, Ollo,Seymour,IN,359065,20,F,Track:SR,04
+594.78,Elizabeth, Tveter,Derry,NH,380067,16,F,Track:SR,04
+595.33,Elizabeth, Adams,Seattle,WA,374677,32,F,Track:SR,04
+596.11,Christine, Tucker,Richardson,TX,188676,46,F,Track:SR,04
+596.66,Marianne, Hernandez,Davis,CA,68813,51,F,Track:SR,04
+596.67,Lauren, Heiliger,Bluffton,SC,306059,22,F,Track:SR,04
+596.67,Miranda, Reisch,Fremont,CA,353746,14,F,Track:SR,04
+600.00,Whitleigh, Powell,Savannah,TX,381093,12,F,Track:SR,04
+559.46,Lauren, Hall,Dolores,CO,262479,34,F,Track:IP,PR
+560.70,Kaitlin, Antonneau,Racine,WI,200237,21,F,Track:IP,PR
+565.04,Jacquelyn, Crowell,Maitland,FL,185441,25,F,Track:IP,PR
+521.66,Neva, Day,Manhattan Beach,CA,218801,44,F,Track:IP,01
+555.31,Suzanne, Goodwin,Mckinney,TX,96860,47,F,Track:IP,01
+560.33,Emily, Thurston,San Pablo,CA,128351,36,F,Track:IP,01
+561.32,Kimberly, Geist,Emmaus,PA,134992,26,F,Track:IP,01
+562.77,Mary, Costelloe,Emmaus,PA,192297,22,F,Track:IP,01
+563.18,Cari, Higgins,Boulder,CO,225441,37,F,Track:IP,01
+564.15,Mandy, Marquardt,Breinigsville,PA,200340,22,F,Track:IP,01
+565.53,Kelly, Plese,Enumclaw,WA,281405,21,F,Track:IP,01
+566.90,Erin, Glover,Portland,OR,357591,32,F,Track:IP,01
+568.76,Elizabeth, Newell,Oakland,CA,252152,31,F,Track:IP,01
+578.06,Kristen, Meshberg,Lyons,IL,167518,43,F,Track:IP,01
+578.83,Mackenzie, Woodring,Belmont,MI,211079,34,F,Track:IP,01
+588.33,Nadia, Latzgo,Fogelsville,PA,240336,18,F,Track:IP,01
+546.37,Annette, Williams,Kenmore,WA,71338,51,F,Track:IP,02
+560.01,Jessica, Prinner,South Elgin,IL,225342,21,F,Track:IP,02
+561.39,Christina, Birch,Somerville,MA,294746,27,F,Track:IP,02
+562.08,Christa, Ghent,Boulder,CO,327486,23,F,Track:IP,02
+563.02,Lauren, Stephens,Dallas,TX,288678,27,F,Track:IP,02
+563.46,Allie, Dragoo,Grand Rapids,MI,291607,24,F,Track:IP,02
+568.15,Cheryl, Fuller-Muller,Cumming,GA,235133,41,F,Track:IP,02
+570.16,Ingrid, Alongi,Boulder,CO,42742,39,F,Track:IP,02
+570.42,Heather, Ross,Felton,CA,239612,26,F,Track:IP,02
+573.17,Jennifer, Zierke,Millbrae,CA,275670,29,F,Track:IP,02
+580.00,Christine, Phillips,Chandler,AZ,264011,46,F,Track:IP,02
+580.71,Kaitlyn, Lawrence,Emmaus,PA,232118,19,F,Track:IP,02
+582.92,Tamara, Stephas,Seattle,WA,133090,46,F,Track:IP,02
+583.21,Payton, Thomas,Euless,TX,280627,17,F,Track:IP,02
+583.64,Kate, Wilson,Los Angeles,CA,258361,20,F,Track:IP,02
+585.54,Hannah, Hayduk,Kutztown,PA,200614,20,F,Track:IP,02
+585.56,Bailey, Semian,Mertztown,PA,281672,18,F,Track:IP,02
+589.22,Linsey, Hamilton,Minneapolis,MN,266416,34,F,Track:IP,02
+593.33,Andi, Smith,Menlo Park,CA,33024,47,F,Track:IP,02
+544.84,Jasmine, Hansen,Grimes,IA,361078,21,F,Track:IP,03
+545.22,Jane, Evely,Carnation,WA,162455,44,F,Track:IP,03
+553.38,Adrienne, Belliveau,San Francisco,CA,303420,29,F,Track:IP,03
+555.98,Gabriella, Allong,West Point,NY,213627,21,F,Track:IP,03
+556.48,Cindi, Vargas,Humble,TX,298185,42,F,Track:IP,03
+556.90,Anne, Donley,Boulder,CO,227028,36,F,Track:IP,03
+557.59,Laurel, Green,Windsor,CA,75728,45,F,Track:IP,03
+559.32,Jacqueline, Kurth,Palm City,FL,182253,22,F,Track:IP,03
+566.22,Emily, Elbers,Syracuse,NY,314836,19,F,Track:IP,03
+566.91,Sarah, Sturm,Durango,CO,275320,24,F,Track:IP,03
+567.60,Nicolle, Bruderer,Boulder,CO,366636,20,F,Track:IP,03
+568.98,Ashley, Rethemeyer,Hermann,MO,304266,25,F,Track:IP,03
+569.04,Beth, Butrymowicz,Campbell,CA,267372,35,F,Track:IP,03
+569.67,Corrie, Karas,Rochester,MI,353448,19,F,Track:IP,03
+570.25,Marsha, Macro,Littleton,CO,201277,69,F,Track:IP,03
+570.36,Madison, Tuggle,Littleton,CO,310004,19,F,Track:IP,03
+571.05,MacKenzie, Paul,U S A F Academy,CO,367737,21,F,Track:IP,03
+571.74,Rachel, Byus,Argyle,TX,260379,27,F,Track:IP,03
+572.43,Meg, Browning,Minneapolis,MN,369069,25,F,Track:IP,03
+574.50,Marissa, Carr,Stanwood,WA,336040,23,F,Track:IP,03
+576.20,Julia, Lonchar,Philadelphia,PA,306648,28,F,Track:IP,03
+578.49,Janet, Lischer,Colorado Springs,CO,21323,51,F,Track:IP,03
+579.55,Carol, Kauder,Boulder,CO,298004,45,F,Track:IP,03
+580.00,Alaina, Gurski,Philadelphia,PA,148911,43,F,Track:IP,03
+580.00,Allyson, Beach,Cleveland,OH,308581,19,F,Track:IP,03
+580.02,Ivie, Crawford,Durango,CO,262452,21,F,Track:IP,03
+581.40,Amelia, Christensen,Fairfield,IA,368127,24,F,Track:IP,03
+582.08,Tara, Unverzagt,Torrance,CA,255337,50,F,Track:IP,03
+582.78,Megan, Kelly,Minneapolis,MN,296364,27,F,Track:IP,03
+583.41,Therese, Johnson,Denver,CO,357287,39,F,Track:IP,03
+584.16,Yesica, Mendoza,Saint Charles,MO,358741,24,F,Track:IP,03
+584.17,Karen, Claeys,Seattle,WA,196193,47,F,Track:IP,03
+584.55,Sandy, Mercurio,Boulder,CO,349978,52,F,Track:IP,03
+584.77,Lisa, Turnbull,Springfield,OR,243750,34,F,Track:IP,03
+588.33,Renee', Fenstermacher,Redondo Beach,CA,263843,49,F,Track:IP,03
+588.33,Catherine, Nicoletti,Louisville,CO,279165,62,F,Track:IP,03
+589.68,Mariasol, Johannes,Saint Louis,MO,298086,27,F,Track:IP,03
+590.42,Bonnie, Karas,Rochester Hills,MI,321630,48,F,Track:IP,03
+591.11,Lori, King,Woodinville,WA,108244,44,F,Track:IP,03
+592.50,Monika, King,Hermosa Beach,CA,255491,50,F,Track:IP,03
+593.89,Fiona, Winder,Lafayette,CA,308071,19,F,Track:IP,03
+596.66,Elizabeth, Hernandez-Jones,Morganhill,CA,280037,44,F,Track:IP,03
+596.67,dylan, lafferty,Fogelsville,PA,319876,18,F,Track:IP,03
+596.67,Heather, McWilliamsMierzejews,Louisville,CO,365141,40,F,Track:IP,03
+596.67,Cynthia, Bardman,Barto,PA,321082,44,F,Track:IP,03
+596.67,Jeanette, Fitzgerald,Santa Ana,CA,54491,63,F,Track:IP,03
+557.46,Victoria, Ollo,Seymour,IN,359065,20,F,Track:IP,04
+563.76,MaryAnn, Levenson,Menlo Park,CA,219719,55,F,Track:IP,04
+564.46,Sarah, Haight,Fairfax,VA,333866,22,F,Track:IP,04
+566.63,Jennifer, Webster,West Point,NY,361052,20,F,Track:IP,04
+566.98,Mary, Ellen Allen,San Mateo,CA,259078,63,F,Track:IP,04
+568.18,Rita, Kacala,Racine,WI,175803,58,F,Track:IP,04
+573.12,Lauren, Catlin,Fairfax,CA,256601,21,F,Track:IP,04
+576.10,Valerie, Tiemann,Spring,TX,330038,56,F,Track:IP,04
+576.57,Amber, Vredenburg,Round Rock,TX,251058,19,F,Track:IP,04
+576.85,Bonnie, Woodbury,Escondido,CA,279239,70,F,Track:IP,04
+578.83,Kara, Vatthauer,Tucson,AZ,352428,48,F,Track:IP,04
+580.00,CATHERINE, FRECK,Vienna,VA,274024,54,F,Track:IP,04
+580.00,Marcy, Bardman,Barto,PA,321084,13,F,Track:IP,04
+580.00,Addyson, Albershardt,Matthews,NC,287411,19,F,Track:IP,04
+580.00,Jennifer, Wagner,Houston,TX,288729,33,F,Track:IP,04
+580.00,Ann, Weigel,Mckinney,TX,288493,14,F,Track:IP,04
+582.21,Lauren, Heiliger,Bluffton,SC,306059,22,F,Track:IP,04
+582.78,Alexis, Ryan,Ventura,CA,205156,19,F,Track:IP,04
+584.77,Rachael, Scdoris,Bend,OR,183634,28,F,Track:IP,04
+584.85,Ashley, weaver,Wichita Falls,TX,334082,22,F,Track:IP,04
+585.56,Christine, Kelley,Middletown,MD,166665,48,F,Track:IP,04
+586.23,Morganne, Endicott,Lebanon,TN,299374,20,F,Track:IP,04
+586.73,Jo, Johnson,Wilmington,DE,207376,66,F,Track:IP,04
+588.30,Riley, Missel,Grand Haven,MI,377467,20,F,Track:IP,04
+588.33,Claire, Daunis,River Ridge,LA,331926,23,F,Track:IP,04
+588.33,Ainhoa, Perez-Diez,Rockville,MD,274754,42,F,Track:IP,04
+589.54,Debra, Cavender,Troy,MI,249943,57,F,Track:IP,04
+591.06,Katherine, Wymbs,Cambridge,MA,386021,22,F,Track:IP,04
+591.11,Sarah, Huang,Pleasant Prairie,WI,225258,18,F,Track:IP,04
+591.11,Gwenn, Afton,Reston,VA,279725,51,F,Track:IP,04
+592.50,Abigail, Beach,N. Scituate,MA,337090,16,F,Track:IP,04
+593.73,leigh, balkom,Kensington,CA,349140,35,F,Track:IP,04
+594.51,Cathleen, Hamilton,Avilla,IN,324560,20,F,Track:IP,04
+595.20,Sarah, Huber,Jacksonville,NC,387877,20,F,Track:IP,04
+596.67,Tracy, Barclay,Tucson,AZ,73527,55,F,Track:IP,04
+596.67,Courtney, Bach,Dallas,TX,334094,32,F,Track:IP,04
+596.67,Pamela, Jackson,Garland,TX,157028,50,F,Track:IP,04
+596.67,Kathryn, Beattie,Issaquah,WA,347498,46,F,Track:IP,04
+596.67,Inna, Wirawan,Houston,TX,352710,43,F,Track:IP,04
+596.67,Karen, Fienberg,Longmont,CO,367166,50,F,Track:IP,04
+596.67,Mignon, Guerin,New Orleans,LA,262203,50,F,Track:IP,04
+509.84,Jennifer, Valente,San Diego,CA,293380,19,F,Track:SPR,PR
+450.66,Tela, Crane,Sammamish,WA,184933,27,F,Track:SPR,01
+490.37,Colleen, Hayduk,Kutztown,PA,184207,23,F,Track:SPR,01
+504.23,Dana, Feiss,Telford,PA,251475,24,F,Track:SPR,01
+514.92,Kimberly, Edwards,Clinton,CT,263393,43,F,Track:SPR,01
+516.26,Melissa, (Missy) Erickson,Alexandria,MN,233106,23,F,Track:SPR,01
+529.82,Mandy, Marquardt,Breinigsville,PA,200340,22,F,Track:SPR,01
+532.12,Erin, Glover,Portland,OR,357591,32,F,Track:SPR,01
+544.25,Erica, Allar,Tucson,AZ,174914,28,F,Track:SPR,01
+560.62,Claire, Routledge,Wichitafalls,TX,305347,23,F,Track:SPR,01
+565.37,Kelly, Plese,Enumclaw,WA,281405,21,F,Track:SPR,01
+570.49,Shelby, Reynolds,Cypress,CA,188007,22,F,Track:SPR,01
+582.27,Jennifer, Triplett,Colorado Springs,CO,219367,35,F,Track:SPR,01
+585.32,Mary, Costelloe,Emmaus,PA,192297,22,F,Track:SPR,01
+585.56,Suzanne, Goodwin,Mckinney,TX,96860,47,F,Track:SPR,01
+589.10,Colleen, Gulick,Spring City,PA,180423,22,F,Track:SPR,01
+590.12,Amara, Edwards,Newcastle,WA,170202,25,F,Track:SPR,01
+447.12,Madalyn, Godby,Louisville,CO,271427,21,F,Track:SPR,02
+540.19,Anissa, Cobb,Portland,OR,184451,27,F,Track:SPR,02
+551.48,Annette, Williams,Kenmore,WA,71338,51,F,Track:SPR,02
+556.82,Christina, Birch,Somerville,MA,294746,27,F,Track:SPR,02
+558.72,Elizabeth, Engwis,Kenosha,WI,190874,21,F,Track:SPR,02
+559.67,Jessica, Prinner,South Elgin,IL,225342,21,F,Track:SPR,02
+564.11,Payton, Thomas,Euless,TX,280627,17,F,Track:SPR,02
+565.05,Ingrid, Alongi,Boulder,CO,42742,39,F,Track:SPR,02
+570.19,Dana, Walton,E Norriton,PA,70202,43,F,Track:SPR,02
+572.02,Christa, Ghent,Boulder,CO,327486,23,F,Track:SPR,02
+572.63,Chloe, Chepigin,Chappaqua,NY,305094,19,F,Track:SPR,02
+573.31,Lindsay, Felker,Seattle,WA,303546,32,F,Track:SPR,02
+576.62,Kimberly, Nuffer,Denver,CO,210166,44,F,Track:SPR,02
+580.86,Vera, Divenyi,Denver,CO,220322,40,F,Track:SPR,02
+587.22,Kaitlyn, Lawrence,Emmaus,PA,232118,19,F,Track:SPR,02
+589.67,Renee, Schroeder,Nederland,CO,193694,50,F,Track:SPR,02
+589.83,Tamara, Stephas,Seattle,WA,133090,46,F,Track:SPR,02
+596.67,Hannah, Hayduk,Kutztown,PA,200614,20,F,Track:SPR,02
+596.67,Erin, Popovich,Plano,TX,260210,21,F,Track:SPR,02
+596.67,Heather, VanValkenburg,Vancouver,WA,200293,38,F,Track:SPR,02
+536.57,Cindi, Vargas,Humble,TX,298185,42,F,Track:SPR,03
+544.02,Gabriella, Allong,West Point,NY,213627,21,F,Track:SPR,03
+549.90,Jasmine, Hansen,Grimes,IA,361078,21,F,Track:SPR,03
+552.95,Shannon, Moak,Katy,TX,339810,40,F,Track:SPR,03
+553.02,Stephanie, Torres,East Elmhurst,NY,269772,20,F,Track:SPR,03
+554.92,Corrie, Karas,Rochester,MI,353448,19,F,Track:SPR,03
+555.87,Yesica, Mendoza,Saint Charles,MO,358741,24,F,Track:SPR,03
+561.30,Rachel, Byus,Argyle,TX,260379,27,F,Track:SPR,03
+563.47,Madison, Tuggle,Littleton,CO,310004,19,F,Track:SPR,03
+564.42,Nicolle, Bruderer,Boulder,CO,366636,20,F,Track:SPR,03
+568.22,Mariasol, Johannes,Saint Louis,MO,298086,27,F,Track:SPR,03
+571.07,Meg, Browning,Minneapolis,MN,369069,25,F,Track:SPR,03
+574.87,Ashley, Rethemeyer,Hermann,MO,304266,25,F,Track:SPR,03
+575.67,Gea, Johnson,Scottsdale,AZ,322596,46,F,Track:SPR,03
+575.75,Laurel, Rathbun,Monument,CO,201838,17,F,Track:SPR,03
+575.82,Emily, Elbers,Syracuse,NY,314836,19,F,Track:SPR,03
+576.52,Mary, Nunnelly,Houston,TX,143312,52,F,Track:SPR,03
+577.24,Kirsten, Williams,Lonetree,CO,285625,17,F,Track:SPR,03
+580.00,Caitlin, Rolfs,Topeka,KS,269339,25,F,Track:SPR,03
+580.00,Allyson, Beach,Cleveland,OH,308581,19,F,Track:SPR,03
+580.23,Julia, Sante,Queensbury,NY,284417,16,F,Track:SPR,03
+582.67,Tara, Unverzagt,Torrance,CA,255337,50,F,Track:SPR,03
+583.21,Stacey, Giuffre,Sammamish,WA,249805,16,F,Track:SPR,03
+583.31,Jane, Evely,Carnation,WA,162455,44,F,Track:SPR,03
+584.17,Summer, Moak,Katy,TX,343484,14,F,Track:SPR,03
+584.71,Evelyn, Korbich,New Tripoli,PA,290571,17,F,Track:SPR,03
+585.56,Jane, Chateaubriand,Seattle,WA,226258,52,F,Track:SPR,03
+586.17,Bonnie, Karas,Rochester Hills,MI,321630,48,F,Track:SPR,03
+586.20,Valerie, McGoldrick,Deephaven,MN,302230,16,F,Track:SPR,03
+586.27,Megan, Kelly,Minneapolis,MN,296364,27,F,Track:SPR,03
+586.59,Janet, Lischer,Colorado Springs,CO,21323,51,F,Track:SPR,03
+588.33,Lori, King,Woodinville,WA,108244,44,F,Track:SPR,03
+588.76,Therese, Johnson,Denver,CO,357287,39,F,Track:SPR,03
+589.99,Shannon, Valerio,Englewood,CO,342452,45,F,Track:SPR,03
+591.11,Alaina, Gurski,Philadelphia,PA,148911,43,F,Track:SPR,03
+592.50,Molly, Brady,Saint Louis,MO,318720,26,F,Track:SPR,03
+596.67,Michelle, Stoll,Boulder,CO,115586,40,F,Track:SPR,03
+596.67,Sandy, Mercurio,Boulder,CO,349978,52,F,Track:SPR,03
+552.98,Hannah, Calvert,Austin,TX,308722,24,F,Track:SPR,04
+554.28,Victoria, Ollo,Seymour,IN,359065,20,F,Track:SPR,04
+562.52,Ashley, weaver,Wichita Falls,TX,334082,22,F,Track:SPR,04
+571.97,Jennifer, Webster,West Point,NY,361052,20,F,Track:SPR,04
+572.20,Rita, Kacala,Racine,WI,175803,58,F,Track:SPR,04
+573.10,Sarah, Haight,Fairfax,VA,333866,22,F,Track:SPR,04
+573.89,Claire, Daunis,River Ridge,LA,331926,23,F,Track:SPR,04
+578.32,Debra, Cavender,Troy,MI,249943,57,F,Track:SPR,04
+578.67,Morganne, Endicott,Lebanon,TN,299374,20,F,Track:SPR,04
+578.73,Hannah, McDade,Tigard,OR,297261,16,F,Track:SPR,04
+579.19,Julia, Winski,Katy,TX,311182,17,F,Track:SPR,04
+580.00,Christine, Kelley,Middletown,MD,166665,48,F,Track:SPR,04
+580.00,Ainhoa, Perez-Diez,Rockville,MD,274754,42,F,Track:SPR,04
+580.00,Jennifer, Wagner,Houston,TX,288729,33,F,Track:SPR,04
+580.00,Celeste, Power,Baton Rouge,LA,336484,30,F,Track:SPR,04
+582.33,Bonnie, Woodbury,Escondido,CA,279239,70,F,Track:SPR,04
+584.17,ALaina, Beckwith,Lawrence,KS,370729,29,F,Track:SPR,04
+584.37,Riley, Missel,Grand Haven,MI,377467,20,F,Track:SPR,04
+584.43,Sandra, North,Berthoud,CO,368581,56,F,Track:SPR,04
+584.44,Valerie, Tiemann,Spring,TX,330038,56,F,Track:SPR,04
+585.00,CATHERINE, FRECK,Vienna,VA,274024,54,F,Track:SPR,04
+587.69,Olivia, Saunders,Flemington,NJ,295300,16,F,Track:SPR,04
+588.33,Courtney, Bach,Dallas,TX,334094,32,F,Track:SPR,04
+588.33,Madison, Curry,Mckinney,TX,343738,15,F,Track:SPR,04
+591.48,Lauren, Heiliger,Bluffton,SC,306059,22,F,Track:SPR,04
+592.17,Victoria, Lawrence,Colorado Springs,CO,294698,16,F,Track:SPR,04
+593.33,Ashley, Hiatt,Austin,TX,339334,23,F,Track:SPR,04
+593.33,Jo, Johnson,Wilmington,DE,207376,66,F,Track:SPR,04
+593.67,Elizabeth, Tveter,Derry,NH,380067,16,F,Track:SPR,04
+593.87,Katherine, Wymbs,Cambridge,MA,386021,22,F,Track:SPR,04
+595.16,Gabrielle, Longchamp,Flemington,NJ,320230,16,F,Track:SPR,04
+595.77,Sarah, Huber,Jacksonville,NC,387877,20,F,Track:SPR,04
+596.65,Dana, Loo,Madison,WI,283736,16,F,Track:SPR,04
+596.67,Olivia, Jones,Katy,TX,347080,14,F,Track:SPR,04
+596.67,Pamela, Jackson,Garland,TX,157028,50,F,Track:SPR,04
+596.67,Tracy, Barclay,Tucson,AZ,73527,55,F,Track:SPR,04
+596.67,Abbey, Smich,Sagamore Hills,OH,287682,18,F,Track:SPR,04
+596.67,Abigail, Beach,N. Scituate,MA,337090,16,F,Track:SPR,04
+383.98,Jennifer, Valente,San Diego,CA,293380,19,F,Track:KEIR,PR
+586.67,Kaitlin, Antonneau,Racine,WI,200237,21,F,Track:KEIR,PR
+380.57,Dana, Feiss,Telford,PA,251475,24,F,Track:KEIR,01
+391.99,Tela, Crane,Sammamish,WA,184933,27,F,Track:KEIR,01
+405.41,Shelby, Reynolds,Cypress,CA,188007,22,F,Track:KEIR,01
+410.10,Melissa, (Missy) Erickson,Alexandria,MN,233106,23,F,Track:KEIR,01
+488.46,Erin, Glover,Portland,OR,357591,32,F,Track:KEIR,01
+563.91,Erica, Allar,Tucson,AZ,174914,28,F,Track:KEIR,01
+566.20,Colleen, Hayduk,Kutztown,PA,184207,23,F,Track:KEIR,01
+573.21,Kimberly, Edwards,Clinton,CT,263393,43,F,Track:KEIR,01
+580.00,Amara, Edwards,Newcastle,WA,170202,25,F,Track:KEIR,01
+582.38,Kelly, Plese,Enumclaw,WA,281405,21,F,Track:KEIR,01
+587.14,Jessica, Cutler,Seattle,WA,158992,34,F,Track:KEIR,01
+593.33,Luanne, Murray,London,OH,48868,50,F,Track:KEIR,01
+427.91,Madalyn, Godby,Louisville,CO,271427,21,F,Track:KEIR,02
+510.66,Lindsay, Felker,Seattle,WA,303546,32,F,Track:KEIR,02
+559.20,Anissa, Cobb,Portland,OR,184451,27,F,Track:KEIR,02
+560.19,Linsey, Hamilton,Minneapolis,MN,266416,34,F,Track:KEIR,02
+570.95,Annette, Williams,Kenmore,WA,71338,51,F,Track:KEIR,02
+575.24,Chloe, Chepigin,Chappaqua,NY,305094,19,F,Track:KEIR,02
+575.24,Terra, James,Minneapolis,MN,281803,33,F,Track:KEIR,02
+576.15,Tara, McCormick,Long Beach,CA,229993,18,F,Track:KEIR,02
+580.00,Francine, Haas,Chicago,IL,162422,47,F,Track:KEIR,02
+580.03,Payton, Thomas,Euless,TX,280627,17,F,Track:KEIR,02
+588.33,Korina, Huizar,Roseville,CA,332152,26,F,Track:KEIR,02
+589.52,Laura, Chang,Kent,WA,258166,31,F,Track:KEIR,02
+590.00,Elizabeth, Engwis,Kenosha,WI,190874,21,F,Track:KEIR,02
+596.67,Kira, Prokopakis,Santa Clara,CA,283149,22,F,Track:KEIR,02
+580.00,Mary, Ellen Ash,Menlo Park,CA,254874,33,F,Track:KEIR,03
+580.00,Summer, Moak,Katy,TX,343484,14,F,Track:KEIR,03
+580.00,Jacqueline, Kurth,Palm City,FL,182253,22,F,Track:KEIR,03
+583.33,Stephanie, Torres,East Elmhurst,NY,269772,20,F,Track:KEIR,03
+584.17,Nancy, Heymann,Highland Park,IL,283728,53,F,Track:KEIR,03
+584.17,Shannon, Moak,Katy,TX,339810,40,F,Track:KEIR,03
+586.67,Jane, Evely,Carnation,WA,162455,44,F,Track:KEIR,03
+589.52,Mariasol, Johannes,Saint Louis,MO,298086,27,F,Track:KEIR,03
+590.00,Jane, Chateaubriand,Seattle,WA,226258,52,F,Track:KEIR,03
+596.67,Corrie, Karas,Rochester,MI,353448,19,F,Track:KEIR,03
+572.50,Emilia, Field,Lake Forest,IL,321530,14,F,Track:KEIR,04
+588.33,Jennifer, Wagner,Houston,TX,288729,33,F,Track:KEIR,04
+591.90,Katherine, Hrubes,Webster Groves,MO,276364,42,F,Track:KEIR,04
+596.67,Catherine, Watkins,Evanston,IL,199317,30,F,Track:KEIR,04
+596.67,Kathryn, Beattie,Issaquah,WA,347498,46,F,Track:KEIR,04
+596.67,Courtney, Bach,Dallas,TX,334094,32,F,Track:KEIR,04
+554.47,Kaitlin, Antonneau,Racine,WI,200237,21,F,Track:TT,PR
+571.28,Jennifer, Valente,San Diego,CA,293380,19,F,Track:TT,PR
+520.23,Melissa, (Missy) Erickson,Alexandria,MN,233106,23,F,Track:TT,01
+530.84,Tela, Crane,Sammamish,WA,184933,27,F,Track:TT,01
+552.17,Mandy, Marquardt,Breinigsville,PA,200340,22,F,Track:TT,01
+553.71,Colleen, Hayduk,Kutztown,PA,184207,23,F,Track:TT,01
+556.77,Mary, Costelloe,Emmaus,PA,192297,22,F,Track:TT,01
+557.54,Claire, Routledge,Wichitafalls,TX,305347,23,F,Track:TT,01
+559.66,Dana, Feiss,Telford,PA,251475,24,F,Track:TT,01
+564.44,Kelly, Plese,Enumclaw,WA,281405,21,F,Track:TT,01
+569.46,Erin, Glover,Portland,OR,357591,32,F,Track:TT,01
+570.45,Amara, Edwards,Newcastle,WA,170202,25,F,Track:TT,01
+575.48,Mackenzie, Woodring,Belmont,MI,211079,34,F,Track:TT,01
+577.74,Kimberly, Edwards,Clinton,CT,263393,43,F,Track:TT,01
+582.47,Neva, Day,Manhattan Beach,CA,218801,44,F,Track:TT,01
+583.71,Suzanne, Goodwin,Mckinney,TX,96860,47,F,Track:TT,01
+496.26,Madalyn, Godby,Louisville,CO,271427,21,F,Track:TT,02
+524.92,Anissa, Cobb,Portland,OR,184451,27,F,Track:TT,02
+552.81,Lindsay, Felker,Seattle,WA,303546,32,F,Track:TT,02
+553.65,Payton, Thomas,Euless,TX,280627,17,F,Track:TT,02
+555.24,Elizabeth, Engwis,Kenosha,WI,190874,21,F,Track:TT,02
+559.84,Allie, Dragoo,Grand Rapids,MI,291607,24,F,Track:TT,02
+560.61,Christina, Birch,Somerville,MA,294746,27,F,Track:TT,02
+564.89,Annette, Williams,Kenmore,WA,71338,51,F,Track:TT,02
+565.21,Christa, Ghent,Boulder,CO,327486,23,F,Track:TT,02
+575.17,Kaitlyn, Lawrence,Emmaus,PA,232118,19,F,Track:TT,02
+576.36,Chloe, Chepigin,Chappaqua,NY,305094,19,F,Track:TT,02
+579.43,Christine, Phillips,Chandler,AZ,264011,46,F,Track:TT,02
+579.78,Ingrid, Alongi,Boulder,CO,42742,39,F,Track:TT,02
+580.89,Cheryl, Fuller-Muller,Cumming,GA,235133,41,F,Track:TT,02
+581.85,Lauren, Stephens,Dallas,TX,288678,27,F,Track:TT,02
+582.84,Hannah, Hayduk,Kutztown,PA,200614,20,F,Track:TT,02
+584.04,Kimberly, Nuffer,Denver,CO,210166,44,F,Track:TT,02
+589.91,Vera, Divenyi,Denver,CO,220322,40,F,Track:TT,02
+545.28,Gea, Johnson,Scottsdale,AZ,322596,46,F,Track:TT,03
+548.37,Summer, Moak,Katy,TX,343484,14,F,Track:TT,03
+552.94,Stephanie, Torres,East Elmhurst,NY,269772,20,F,Track:TT,03
+556.01,Corrie, Karas,Rochester,MI,353448,19,F,Track:TT,03
+556.40,Shannon, Moak,Katy,TX,339810,40,F,Track:TT,03
+558.31,Yesica, Mendoza,Saint Charles,MO,358741,24,F,Track:TT,03
+559.07,Jacqueline, Kurth,Palm City,FL,182253,22,F,Track:TT,03
+561.37,Gabriella, Allong,West Point,NY,213627,21,F,Track:TT,03
+562.14,Meg, Browning,Minneapolis,MN,369069,25,F,Track:TT,03
+562.91,Madison, Tuggle,Littleton,CO,310004,19,F,Track:TT,03
+563.67,Rachel, Byus,Argyle,TX,260379,27,F,Track:TT,03
+565.97,Emily, Elbers,Syracuse,NY,314836,19,F,Track:TT,03
+568.42,Mary, Nunnelly,Houston,TX,143312,52,F,Track:TT,03
+571.34,Nicolle, Bruderer,Boulder,CO,366636,20,F,Track:TT,03
+571.44,Katie, Stonebraker,Sacramento,CA,226927,40,F,Track:TT,03
+572.11,Ashley, Rethemeyer,Hermann,MO,304266,25,F,Track:TT,03
+573.64,Jasmine, Hansen,Grimes,IA,361078,21,F,Track:TT,03
+574.41,Sarah, Sturm,Durango,CO,275320,24,F,Track:TT,03
+575.12,Tara, Unverzagt,Torrance,CA,255337,50,F,Track:TT,03
+575.42,Kirsten, Williams,Lonetree,CO,285625,17,F,Track:TT,03
+575.94,Mariasol, Johannes,Saint Louis,MO,298086,27,F,Track:TT,03
+576.71,Marissa, Carr,Stanwood,WA,336040,23,F,Track:TT,03
+577.19,Laurel, Rathbun,Monument,CO,201838,17,F,Track:TT,03
+578.16,Mary, Glenn Enrique,Foster City,CA,266378,31,F,Track:TT,03
+579.01,Janet, Lischer,Colorado Springs,CO,21323,51,F,Track:TT,03
+579.34,Cindi, Vargas,Humble,TX,298185,42,F,Track:TT,03
+580.00,Allyson, Beach,Cleveland,OH,308581,19,F,Track:TT,03
+580.73,Julia, Sante,Queensbury,NY,284417,16,F,Track:TT,03
+582.54,Lisa, Turnbull,Springfield,OR,243750,34,F,Track:TT,03
+582.54,Sandy, Mercurio,Boulder,CO,349978,52,F,Track:TT,03
+583.16,Anne, Donley,Boulder,CO,227028,36,F,Track:TT,03
+583.74,Bonnie, Karas,Rochester Hills,MI,321630,48,F,Track:TT,03
+584.27,Evelyn, Korbich,New Tripoli,PA,290571,17,F,Track:TT,03
+586.04,Stacey, Giuffre,Sammamish,WA,249805,16,F,Track:TT,03
+586.51,Shannon, Bhatia,San Jose,CA,306273,18,F,Track:TT,03
+586.53,Therese, Johnson,Denver,CO,357287,39,F,Track:TT,03
+586.58,Marsha, Macro,Littleton,CO,201277,69,F,Track:TT,03
+587.20,Carol, Kauder,Boulder,CO,298004,45,F,Track:TT,03
+588.05,Monika, King,Hermosa Beach,CA,255491,50,F,Track:TT,03
+588.77,Jane, Evely,Carnation,WA,162455,44,F,Track:TT,03
+589.58,Valerie, McGoldrick,Deephaven,MN,302230,16,F,Track:TT,03
+591.11,Jane, Chateaubriand,Seattle,WA,226258,52,F,Track:TT,03
+591.59,Ellen, Noble,Kennebunkport,ME,282412,18,F,Track:TT,03
+593.29,Michelle, Stoll,Boulder,CO,115586,40,F,Track:TT,03
+593.50,Melanie, Phillips,Redondo Beach,CA,52772,45,F,Track:TT,03
+595.08,Elizabeth, Hernandez-Jones,Morganhill,CA,280037,44,F,Track:TT,03
+596.66,Shannon, Valerio,Englewood,CO,342452,45,F,Track:TT,03
+596.67,Jeanette, Fitzgerald,Santa Ana,CA,54491,63,F,Track:TT,03
+596.67,Adrienne, Belliveau,San Francisco,CA,303420,29,F,Track:TT,03
+596.67,Heather, McWilliamsMierzejews,Louisville,CO,365141,40,F,Track:TT,03
+547.23,Olivia, Jones,Katy,TX,347080,14,F,Track:TT,04
+562.67,Nicole,  Hemmerlin,Mesa,AZ,366958,11,F,Track:TT,04
+562.67,Kayla, Hankins,Scottsdale,AZ,354122,11,F,Track:TT,04
+566.74,Victoria, Ollo,Seymour,IN,359065,20,F,Track:TT,04
+567.51,Riley, Missel,Grand Haven,MI,377467,20,F,Track:TT,04
+568.27,Ashley, weaver,Wichita Falls,TX,334082,22,F,Track:TT,04
+569.01,Ashley, Hiatt,Austin,TX,339334,23,F,Track:TT,04
+569.20,Valerie, Tiemann,Spring,TX,330038,56,F,Track:TT,04
+570.73,Emma, Fickel,Rochester Hills,MI,324218,15,F,Track:TT,04
+571.11,Whitleigh, Powell,Savannah,TX,381093,12,F,Track:TT,04
+574.11,Hannah, Calvert,Austin,TX,308722,24,F,Track:TT,04
+574.73,Rita, Kacala,Racine,WI,175803,58,F,Track:TT,04
+575.44,Courtney, Comer,San Marcos,CA,287901,14,F,Track:TT,04
+575.48,Kara, Vatthauer,Tucson,AZ,352428,48,F,Track:TT,04
+576.50,Bonnie, Woodbury,Escondido,CA,279239,70,F,Track:TT,04
+577.02,Isabella, Brookshire,Hendersonville,NC,283548,13,F,Track:TT,04
+577.60,Courtney, Bach,Dallas,TX,334094,32,F,Track:TT,04
+577.80,Eva, Burke,Macungie,PA,378805,14,F,Track:TT,04
+578.25,Eve, Chavez,Northridge,CA,353968,13,F,Track:TT,04
+578.96,Hannah, McDade,Tigard,OR,297261,16,F,Track:TT,04
+579.48,Marcy, Bardman,Barto,PA,321084,13,F,Track:TT,04
+580.00,Ann, Weigel,Mckinney,TX,288493,14,F,Track:TT,04
+580.00,Kennedy, Hill,Woodland,CA,352008,13,F,Track:TT,04
+580.00,Kristin, Wolfe,Sanjose,CA,289378,15,F,Track:TT,04
+580.16,Salma, Huque,Douglasville,GA,334838,15,F,Track:TT,04
+580.54,Jennifer, Webster,West Point,NY,361052,20,F,Track:TT,04
+580.71,Cheyenne, Comer,San Marcos,CA,297265,12,F,Track:TT,04
+581.94,Wenzdae, Morales,El Segundo,CA,379963,12,F,Track:TT,04
+582.07,Linnea, Nasman,Austin,TX,219356,27,F,Track:TT,04
+582.50,Olivia, Saunders,Flemington,NJ,295300,16,F,Track:TT,04
+582.51,Anya, Malarski,St. Paul,MN,302412,14,F,Track:TT,04
+582.54,Rachael, Scdoris,Bend,OR,183634,28,F,Track:TT,04
+583.51,Sandra, North,Berthoud,CO,368581,56,F,Track:TT,04
+584.17,Jennifer, Wagner,Houston,TX,288729,33,F,Track:TT,04
+584.17,Claire, Daunis,River Ridge,LA,331926,23,F,Track:TT,04
+584.17,Ivy, Koester,Los Angeles,CA,381514,13,F,Track:TT,04
+584.87,Rebecca, Israel,Moreno Valley,CA,305237,15,F,Track:TT,04
+585.56,Miranda, Reisch,Fremont,CA,353746,14,F,Track:TT,04
+585.63,Corrine, Krasley,Coplay,PA,383360,11,F,Track:TT,04
+586.86,Madeleine, Tveter,Derry,NH,380069,12,F,Track:TT,04
+588.97,Katherine, Wymbs,Cambridge,MA,386021,22,F,Track:TT,04
+589.32,Brittany, Bardman,Barto,PA,366050,11,F,Track:TT,04
+589.58,Kalie, King,Mertztown,PA,321032,14,F,Track:TT,04
+589.72,Mary, Ellen Allen,San Mateo,CA,259078,63,F,Track:TT,04
+589.74,Sarah, Haight,Fairfax,VA,333866,22,F,Track:TT,04
+590.51,Amber, Vredenburg,Round Rock,TX,251058,19,F,Track:TT,04
+590.55,Ana, Berns,Lititz,PA,381160,11,F,Track:TT,04
+591.11,Lauren, Wolfe,San Jose,CA,317172,13,F,Track:TT,04
+591.35,Victoria, Lawrence,Colorado Springs,CO,294698,16,F,Track:TT,04
+591.94,Peye, Wong,Flushing,NY,325504,15,F,Track:TT,04
+592.28,Debra, Cavender,Troy,MI,249943,57,F,Track:TT,04
+592.36,Karen, Fienberg,Longmont,CO,367166,50,F,Track:TT,04
+592.50,Abigail, Beach,N. Scituate,MA,337090,16,F,Track:TT,04
+592.81,Morganne, Endicott,Lebanon,TN,299374,20,F,Track:TT,04
+592.97,leigh, balkom,Kensington,CA,349140,35,F,Track:TT,04
+593.01,Stephanie, Lawrence,Colorado Springs,CO,357542,11,F,Track:TT,04
+593.12,Elizabeth, Tveter,Derry,NH,380067,16,F,Track:TT,04
+594.24,Aliza, Tobias,Blandon,PA,381641,13,F,Track:TT,04
+594.30,Madison, Curry,Mckinney,TX,343738,15,F,Track:TT,04
+594.83,Pamela, Jackson,Garland,TX,157028,50,F,Track:TT,04
+594.89,Gabrielle, Longchamp,Flemington,NJ,320230,16,F,Track:TT,04
+595.11,Sarah, Huber,Jacksonville,NC,387877,20,F,Track:TT,04
+595.87,Lauren, Heiliger,Bluffton,SC,306059,22,F,Track:TT,04
+596.64,Cathleen, Hamilton,Avilla,IN,324560,20,F,Track:TT,04
+596.65,Katherine, Lawrence,Colorado Springs,CO,294821,14,F,Track:TT,04
+596.66,Dana, Loo,Madison,WI,283736,16,F,Track:TT,04
+596.66,Jo, Johnson,Wilmington,DE,207376,66,F,Track:TT,04
+596.66,Abbey, Smich,Sagamore Hills,OH,287682,18,F,Track:TT,04
+596.66,Tracy, Barclay,Tucson,AZ,73527,55,F,Track:TT,04
+596.67,Mignon, Guerin,New Orleans,LA,262203,50,F,Track:TT,04
+596.67,Emily, Hughes,Fremont,CA,338990,12,F,Track:TT,04
+596.67,Inna, Wirawan,Houston,TX,352710,43,F,Track:TT,04
+596.67,Julia, Winski,Katy,TX,311182,17,F,Track:TT,04
+596.68,Christine, Tucker,Richardson,TX,188676,46,F,Track:TT,04

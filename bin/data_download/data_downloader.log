@@ -1,0 +1,13 @@
+2013-05-06 15:50:08,997 [1] INFO  com.ggp.DataDownloader - Generating file: ../shared_data/USACRITS_MEN.csv
+2013-05-06 15:50:09,006 [1] INFO  com.ggp.DataDownloader -  loading data source: M.Road:CRIT.PR
+2013-05-06 15:50:09,010 [1] INFO  com.ggp.USACDataSource - USACrits request: http://www.road-results.com/USACrits/?gender=M
+2013-05-06 15:50:11,356 [1] INFO  com.ggp.DataDownloader -  writing file: ../shared_data/USACRITS_MEN.csv
+2013-05-06 15:50:11,408 [1] INFO  com.ggp.DataDownloader - Generating file: ../shared_data/USACRITS_WOMEN.csv
+2013-05-06 15:50:11,409 [1] INFO  com.ggp.DataDownloader -  loading data source: W.Road:CRIT.PR
+2013-05-06 15:50:11,409 [1] INFO  com.ggp.USACDataSource - USACrits request: http://www.road-results.com/USACrits/?gender=W
+2013-05-06 15:50:12,146 [1] INFO  com.ggp.DataDownloader -  writing file: ../shared_data/USACRITS_WOMEN.csv
+2013-05-06 15:50:12,149 [1] INFO  com.ggp.DataDownloader - Generating file: ../shared_data/USAC_ROAD_MEN.csv
+2013-05-06 15:50:12,149 [1] INFO  com.ggp.DataDownloader -  loading data source: M.Road:RR.PR
+2013-05-06 15:50:14,762 [1] INFO  com.ggp.USACDataSource -  added 146 Road:RR M PR riders.
+2013-05-06 15:50:14,940 [1] INFO  com.ggp.DataDownloader -  loading data source: M.Road:RR.01
+2013-05-06 15:50:18,015 [1] INFO  com.ggp.USACDataSource -  added 500 Road:RR M 01 riders.
