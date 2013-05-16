@@ -186,7 +186,9 @@ namespace com.mattygiedt
                         if( firstName.Equals( rider.FirstName ) == false ||
                             lastName.Equals( rider.LastName ) == false )
                         {
-                            log.Warn( "FOUND BY BIKEREG LICENSE WITH NAME CONFLICT" );
+                            log.Warn( " BIKEREG LICENSE [" + bikeRegLicense + "] WITH NAME CONFLICT: [["
+                                + firstName + "][" + rider.FirstName + "]["
+                                + lastName + "][" + rider.LastName + "]]" );
                             rider.Message = "BIKEREG LICENSE WITH NAME CONFLICT";
                         }
                         else
@@ -205,7 +207,9 @@ namespace com.mattygiedt
                         if( firstName.Equals( rider.FirstName ) == false ||
                             lastName.Equals( rider.LastName ) == false )
                         {
-                            log.Warn( "MANUAL LICENSE WITH NAME CONFLICT" );
+                            log.Warn( " MANUAL LICENSE [" + manualLicense + "] WITH NAME CONFLICT: [["
+                                + firstName + "][" + rider.FirstName + "]["
+                                + lastName + "][" + rider.LastName + "]]" );
                             rider.Message = "MANUAL LICENSE WITH NAME CONFLICT";
                         }
                         else
@@ -216,16 +220,24 @@ namespace com.mattygiedt
                         rankedRiders.Add( rider.CloneRider() );
                         break;
                     }
-                    else if( firstName.Equals( rider.FirstName ) && lastName.Equals( rider.LastName ) )
-                    {
-                        //log.Debug( "FOUND BY NAME  '" + rider.FirstName + "' '" + rider.LastName + "'" );
-
-                        found = true;
-                        rider.EntryDate = entryDate;
-                        rider.Message = "FOUND BY NAME";
-                        rankedRiders.Add( rider.CloneRider() );
-                        break;
-                    }
+                    //else if( firstName.Equals( rider.FirstName ) && lastName.Equals( rider.LastName ) )
+                    //{
+                    //    //
+                    //    //  Only find by name if license is invalid.
+                    //    //
+                    //
+                    //    if( "".Equals( manualLicense ) == true &&
+                    //        "".Equals( bikeRegLicens ) == true )
+                    //    {
+                    //        //log.Debug( "FOUND BY NAME  '" + rider.FirstName + "' '" + rider.LastName + "'" );
+                    //
+                    //        found = true;
+                    //        rider.EntryDate = entryDate;
+                    //        rider.Message = "FOUND BY NAME";
+                    //        rankedRiders.Add( rider.CloneRider() );
+                    //        break;
+                    //    }
+                    //}
                 }
 
                 if( found == false )
@@ -241,30 +253,30 @@ namespace com.mattygiedt
                         if( bikeRegLicense.Equals( manualLicense ) )
                         {
                             rider.License = bikeRegLicense;
-                            rider.Message = "UNKNOWN LICENSE";
+                            rider.Message = "UNKNOWN LICENSE " + bikeRegLicense;
                             unknownRiders.Add( rider );
                         }
                         else if( "".Equals( bikeRegLicense ) == true && "".Equals( manualLicense ) == false )
                         {
                             rider.License = manualLicense;
-                            rider.Message = "UNKNOWN MANUAL LICENSE";
+                            rider.Message = "UNKNOWN MANUAL LICENSE " + manualLicense;
                             unknownRiders.Add( rider );
                         }
                         else if( "".Equals( bikeRegLicense ) == false && "".Equals( manualLicense ) == true )
                         {
                             rider.License = bikeRegLicense;
-                            rider.Message = "UNKNOWN BIKEREG LICENSE";
+                            rider.Message = "UNKNOWN BIKEREG LICENSE " + bikeRegLicense;
                             unknownRiders.Add( rider );
                         }
                         else if( "".Equals( bikeRegLicense ) == true && "".Equals( manualLicense ) == true )
                         {
-                            rider.License = bikeRegLicense;
+                            rider.License = "";
                             rider.Message = "NO LICENSE";
                             unknownRiders.Add( rider );
                         }
                         else
                         {
-                            rider.License = "[" + bikeRegLicense + "," + manualLicense + "]";
+                            rider.License = "[" + bikeRegLicense + " | " + manualLicense + "]";
                             rider.Message = "UNKNOWN LICENSE";
                             unknownRiders.Add( rider );
                         }
@@ -278,7 +290,7 @@ namespace com.mattygiedt
                                 lastName,
                                 "", "" );
 
-                        unknownRider.License = "[" + bikeRegLicense + "," + manualLicense + "]";
+                        unknownRider.License = "[" + bikeRegLicense + " | " + manualLicense + "]";
                         unknownRider.Message = "UNKNOWN LICENSE";
                         unknownRider.EntryDate = entryDate;
 

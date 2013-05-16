@@ -95,5 +95,10 @@ namespace com.mattygiedt
         {
             return USACritsDataSource.DataSourceType;
         }
+
+        public override string CanRideInRace( string ageLimit, string categoryLimit )
+        {
+            return "TRUE";
+        }
     }
 }

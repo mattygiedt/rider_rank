@@ -78,6 +78,18 @@ namespace com.mattygiedt
         {
             get { return (string)this[ "discipline" ]; }
         }
+
+        [ConfigurationProperty( "age", IsRequired=true )]
+        public string Age
+        {
+            get { return (string)this[ "age" ]; }
+        }
+
+        [ConfigurationProperty( "categories", IsRequired=true )]
+        public string Categories
+        {
+            get { return (string)this[ "categories" ]; }
+        }
     }
 
     [ConfigurationCollection( typeof(RiderDataElement), AddItemName="rider_data", CollectionType=ConfigurationElementCollectionType.BasicMap )]

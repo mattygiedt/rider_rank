@@ -39,6 +39,20 @@ namespace com.mattygiedt
             return list;
         }
 
+        public List<string> Columns
+        {
+            get
+            {
+                List<string> cols = new List<string>();
+                foreach( string c in columnMap.Keys )
+                {
+                    cols.Add( c );
+                }
+
+                return cols;
+            }
+        }
+
         public BikeRegData( string filename )
         {
             this.filename = filename;
@@ -70,6 +84,59 @@ namespace com.mattygiedt
             }
 
             file.Close();
+        }
+
+        public List<BikeRegRider> GetRidersByEvent( string evnt )
+        {
+            List<BikeRegRider> riders = new List<BikeRegRider>();
+
+            foreach( string row in rows )
+            {
+                string [] row_arr = row.Split( ',' );
+
+                string categoryEntered = row_arr[ ColumnIndex( "Category Entered" ) ].ToUpper();
+                string license = row_arr[ ColumnIndex( "BikeReg USAC License" ) ].ToUpper();
+                string firstName = row_arr[ ColumnIndex( "First Name" ) ].ToUpper();
+                string lastName = row_arr[ ColumnIndex( "Last Name" ) ].ToUpper();
+                string entryDate = row_arr[ ColumnIndex( "Entry Date and Time" ) ];
+
+                if( "ALL".Equals( evnt ) )
+                {
+                    riders.Add( new BikeRegRider( license, firstName, lastName, entryDate ) );
+                }
+                else if( categoryEntered.Equals( evnt.ToUpper() ) )
+                {
+                    riders.Add( new BikeRegRider( license, firstName, lastName, entryDate ) );
+                }
+            }
+
+            return riders;
+        }
+
+        public List<string> GetEvents()
+        {
+            List<string> events = new List<string>();
+            Dictionary<string,string> eventMap = new Dictionary<string,string>();
+
+            foreach( string row in rows )
+            {
+                string [] row_arr = row.Split( ',' );
+
+                if( eventMap.ContainsKey(
+                    row_arr[ ColumnIndex( "Category Entered" ) ] ) == false )
+                {
+                    eventMap.Add(
+                        row_arr[ ColumnIndex( "Category Entered" ) ],
+                        row_arr[ ColumnIndex( "Category Entered" ) ] );
+                }
+            }
+
+            foreach( string key in eventMap.Keys )
+            {
+                events.Add( key );
+            }
+
+            return events;
         }
 
         public int ColumnIndex( string column_name )

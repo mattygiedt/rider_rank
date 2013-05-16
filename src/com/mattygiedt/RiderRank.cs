@@ -77,6 +77,8 @@ namespace com.mattygiedt
                 //  Iterate over each event and rank the riders
                 //
 
+                bool top10Append = false;
+
                 for( int i=0; i<configSection.EventsConfig.Count; i++ )
                 {
                     log.Info( " generating rider list for: " +
@@ -91,7 +93,73 @@ namespace com.mattygiedt
                     {
                         foreach( BaseRider rider in rankedRiders )
                         {
-                            outfile.WriteLine( rider.ToRankCSV( ) );
+                            outfile.WriteLine(
+                                rider.CanRideInRace(
+                                    configSection.EventsConfig[ i ].Age,
+                                    configSection.EventsConfig[ i ].Categories ) + "," +
+                                rider.ToRankCSV() );
+                        }
+                    }
+
+                    //
+                    //  Add to top-10 file
+                    //
+
+                    using( StreamWriter outfile = new StreamWriter(
+                        configSection.OutputDir + "\\TOP-10.csv", top10Append ) )
+                    {
+                        top10Append = true; // one shot
+                        outfile.WriteLine( configSection.EventsConfig[ i ].Name );
+
+                        for( int j=0; j<rankedRiders.Count; j++ )
+                        {
+                            outfile.WriteLine( rankedRiders[ j ].ToRankCSV() );
+
+                            if( j == 9 ) break;
+                        }
+
+                        outfile.WriteLine();
+                    }
+                }
+
+                //
+                //  List riders in multiple races
+                //
+
+                List<BikeRegRider> bikeRegRiders = bikeRegData.GetRidersByEvent( "ALL" );
+
+                foreach( string evnt in bikeRegData.GetEvents() )
+                {
+                    foreach( BikeRegRider eventRider in bikeRegData.GetRidersByEvent( evnt ) )
+                    {
+                        foreach( BikeRegRider rider in bikeRegRiders )
+                        {
+                            if( eventRider.EqualsByName( rider ) )
+                            {
+                                if( eventRider.EqualsByLicense( rider ) == false )
+                                {
+                                    log.Warn( "DUPLICATE RIDER NAME: " + eventRider.Name );
+                                }
+                                else
+                                {
+                                    rider.AddEvent( evnt );
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                using( StreamWriter outfile = new StreamWriter(
+                        configSection.OutputDir + "\\" +
+                        "MultiEventRiders.csv" ) )
+                {
+                    foreach( BikeRegRider rider in bikeRegRiders )
+                    {
+                        if( rider.Events.Count > 1 )
+                        {
+                            log.Warn( rider.ToDataCSV() );
+                            outfile.WriteLine( rider.ToDataCSV( ) );
                         }
                     }
                 }

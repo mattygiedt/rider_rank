@@ -42,6 +42,7 @@ namespace com.mattygiedt
         public abstract string ToDataCSV( );
         public abstract string ToRankCSV( );
         public abstract string RiderType( );
+        public abstract string CanRideInRace( string ageLimit, string categoryLimit );
 
         protected void Init()
         {
@@ -52,13 +53,23 @@ namespace com.mattygiedt
             city = "";
             state = "";
             license = "";
-            age = "";
+            age = "0";
             gender = "";
             discipline = "";
             category = "";
             entry_date = "";
             team = "";
             message = "";
+        }
+
+        public bool EqualsByName( BaseRider otherRider )
+        {
+            return Name.Equals( otherRider.Name );
+        }
+
+        public bool EqualsByLicense( BaseRider otherRider )
+        {
+            return License.Equals( otherRider.License );
         }
     }
 }

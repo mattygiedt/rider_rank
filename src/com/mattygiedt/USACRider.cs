@@ -140,12 +140,115 @@ namespace com.mattygiedt
 
         public override string ToRankCSV( )
         {
-            return ToDataCSV() + "," + entry_date + "," + message;
+            return ToDataCSV() + "," +
+                   entry_date + "," + message;
         }
 
         public override string RiderType( )
         {
             return USACDataSource.DataSourceType;
+        }
+
+        public override string CanRideInRace( string ageLimit, string categoryLimit )
+        {
+            int riderAge = Convert.ToInt32( age );
+            int ageMin = Convert.ToInt32( ageLimit.Split( new char[] { '-' } )[ 0 ] );
+            int ageMax = Convert.ToInt32( ageLimit.Split( new char[] { '-' } )[ 1 ] );
+
+            //
+            //  Age check
+            //
+
+            if( riderAge == 0 )
+            {
+                return "UNKNOWN";
+            }
+            else if( riderAge < ageMin )
+            {
+                return "INVALID AGE: " + riderAge + " < " + ageMin;
+            }
+            else if( riderAge > ageMax )
+            {
+                return "INVALID AGE: " + riderAge + " > " + ageMax;
+            }
+
+            //
+            //  Category check
+            //
+
+            if(  "5".Equals( categoryLimit ) == true &&
+                "05".Equals( category ) == false )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if(  "4".Equals( categoryLimit ) == true &&
+                     "04".Equals( category ) == false )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if(  "3".Equals( categoryLimit ) == true &&
+                     "03".Equals( category ) == false )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if(  "2".Equals( categoryLimit ) == true &&
+                     "02".Equals( category ) == false )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if(  "1".Equals( categoryLimit ) == true &&
+                     "01".Equals( category ) == false )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if( "4-5".Equals( categoryLimit ) == true &&
+                     ( ( "05".Equals( category ) == false ) &&
+                       ( "04".Equals( category ) == false ) ) )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if( "3-4".Equals( categoryLimit ) == true &&
+                     ( ( "03".Equals( category ) == false ) &&
+                       ( "04".Equals( category ) == false ) ) )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if( "2-3".Equals( categoryLimit ) == true &&
+                     ( ( "03".Equals( category ) == false ) &&
+                       ( "02".Equals( category ) == false ) ) )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if( "1-2-3".Equals( categoryLimit ) == true &&
+                     ( ( "03".Equals( category ) == false ) &&
+                       ( "02".Equals( category ) == false ) &&
+                       ( "01".Equals( category ) == false ) ) )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if( "1-2-3-4".Equals( categoryLimit ) == true &&
+                     ( ( "04".Equals( category ) == false ) &&
+                       ( "03".Equals( category ) == false ) &&
+                       ( "02".Equals( category ) == false ) &&
+                       ( "01".Equals( category ) == false ) ) )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+            else if( "1-2-3-4-5".Equals( categoryLimit ) == true &&
+                     ( ( "05".Equals( category ) == false ) &&
+                       ( "04".Equals( category ) == false ) &&
+                       ( "03".Equals( category ) == false ) &&
+                       ( "02".Equals( category ) == false ) &&
+                       ( "01".Equals( category ) == false ) ) )
+            {
+                return "INVALID CATEGORY: " + category + " <> " + categoryLimit;
+            }
+
+            //
+            //  Rider is OK by me
+            //
+
+            return "TRUE";
         }
     }
 }
