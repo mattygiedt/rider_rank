@@ -78,31 +78,104 @@ namespace com.mattygiedt
                 //
 
                 bool top10Append = false;
+                List<BaseRider> rankedRiders = new List<BaseRider>();
+                List<BaseRider> allRankedRiders = new List<BaseRider>();
 
                 for( int i=0; i<configSection.EventsConfig.Count; i++ )
                 {
+                    rankedRiders.Clear();
+
                     log.Info( " generating rider list for: " +
                         configSection.EventsConfig[ i ].Name );
 
-                    List<BaseRider> rankedRiders = rankingEngine.Rank(
-                        configSection.EventsConfig[ i ], bikeRegData );
+                    if( configSection.EventsConfig[ i ].RiderType.Contains( "COMPOSITE:" ) == true )
+                    {
+                        log.Debug( " composite rider types: " + configSection.EventsConfig[ i ].RiderType );
+
+                        //
+                        //  COMPOSITE RIDER: for each riderType rank as if
+                        //  they were individual, and join into single list.
+                        //
+
+                        string riderTypes = configSection.EventsConfig[ i ].RiderType;
+                        string [] compositeRiderTypes = riderTypes.Split( new Char [] { ':' } );
+                        string [] riderTypeArr = compositeRiderTypes[ 1 ].Split( new Char [] { ',' } );
+
+                        log.Info( " rider types: " + compositeRiderTypes[ 1 ] );
+
+                        foreach( string riderType in riderTypeArr )
+                        {
+                            log.Info( " ranking composite rider type: " + riderType );
+
+                            //
+                            //  Assign the composite riderType to the event
+                            //
+
+                            List<BaseRider> compositeRiders =
+                                rankingEngine.Rank( riderType,
+                                    configSection.EventsConfig[ i ].Name,
+                                    configSection.EventsConfig[ i ].Discipline,
+                                    bikeRegData );
+
+                            foreach( BaseRider compositeRider in compositeRiders )
+                            {
+                                bool found = false;
+                                foreach( BaseRider rankedRider in rankedRiders )
+                                {
+                                    if( compositeRider.EqualsByFirstName( rankedRider ) &&
+                                        compositeRider.EqualsByLastName( rankedRider ) )
+                                    {
+                                        found = true;
+                                        rankedRider.AddPoints( compositeRider.Points );
+                                        rankedRider.Message += " | " + compositeRider.Message;
+                                        break;
+                                    }
+                                }
+
+                                if( found == false )
+                                {
+                                    rankedRiders.Add( compositeRider );
+                                }
+                            }
+
+                            rankingEngine.SortRiderData( riderType, rankedRiders );
+                        }
+
+                        //
+                        //  We now need to re-bib the rankedRider list
+                        //
+
+                        for( int j=0; j<rankedRiders.Count; j++ )
+                        {
+                            rankedRiders[ j ].Rank = Convert.ToString( j+1 );
+                        }
+                    }
+                    else
+                    {
+                        rankedRiders.AddRange( rankingEngine.Rank(
+                            configSection.EventsConfig[ i ], bikeRegData ) );
+                    }
+
+                    allRankedRiders.AddRange( rankedRiders );
+
+                    //
+                    //  Print out the rider rankings
+                    //
 
                     using( StreamWriter outfile = new StreamWriter(
-                        configSection.OutputDir + "\\" +
-                        configSection.EventsConfig[ i ].Output ) )
+                           configSection.OutputDir + "\\" +
+                           configSection.EventsConfig[ i ].Output ) )
                     {
+                        outfile.WriteLine( "POINTS,BIB_NUMBER,FIRST_NAME,LAST_NAME,CITY,STATE,TEAM,EMAIL,LICENSE,UCI_CODE,GENDER,AGE,CATEGORY,CATEGORY_ENTERED,ENTRY_DATE,MESSAGE" );
+
                         foreach( BaseRider rider in rankedRiders )
                         {
-                            outfile.WriteLine(
-                                rider.CanRideInRace(
-                                    configSection.EventsConfig[ i ].Age,
-                                    configSection.EventsConfig[ i ].Categories ) + "," +
-                                rider.ToRankCSV() );
+                            outfile.WriteLine( rider.ToRankCSV() );
                         }
                     }
 
                     //
-                    //  Add to top-10 file
+                    //  Add ranked riders to top-10 file
                     //
 
                     using( StreamWriter outfile = new StreamWriter(
@@ -119,6 +192,21 @@ namespace com.mattygiedt
                         }
 
                         outfile.WriteLine();
+                    }
+                }
+
+                //
+                //  Print out all the rider rankings
+                //
+
+                using( StreamWriter outfile = new StreamWriter(
+                       configSection.OutputDir + "\\REGISTRATION.csv" ) )
+                {
+                    outfile.WriteLine( "POINTS,BIB_NUMBER,FIRST_NAME,LAST_NAME,CITY,STATE,TEAM,EMAIL,LICENSE,UCI_CODE,GENDER,AGE,CATEGORY,CATEGORY_ENTERED,ENTRY_DATE,MESSAGE" );
+
+                    foreach( BaseRider rider in allRankedRiders )
+                    {
+                        outfile.WriteLine( rider.ToRankCSV() );
                     }
                 }
 

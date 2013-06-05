@@ -14,6 +14,8 @@ namespace com.mattygiedt
         private static readonly log4net.ILog log =
 		    log4net.LogManager.GetLogger( typeof( USACritsRider ) );
 
+        public static readonly string RIDER_TYPE = "USACRITS";
+
         public USACritsRider( string [] fields )
         {
             Init();

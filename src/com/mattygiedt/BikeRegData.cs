@@ -18,8 +18,8 @@ namespace com.mattygiedt
 
         private string filename;
         private List<string> rows = new List<string>();
-        private Dictionary<string, string> columnMap =
-            new Dictionary<string,string>();
+        private static Dictionary<string, string>
+            columnMap = new Dictionary<string,string>();
 
         public List<string> Rows( string event_name )
         {
@@ -93,20 +93,15 @@ namespace com.mattygiedt
             foreach( string row in rows )
             {
                 string [] row_arr = row.Split( ',' );
-
                 string categoryEntered = row_arr[ ColumnIndex( "Category Entered" ) ].ToUpper();
-                string license = row_arr[ ColumnIndex( "BikeReg USAC License" ) ].ToUpper();
-                string firstName = row_arr[ ColumnIndex( "First Name" ) ].ToUpper();
-                string lastName = row_arr[ ColumnIndex( "Last Name" ) ].ToUpper();
-                string entryDate = row_arr[ ColumnIndex( "Entry Date and Time" ) ];
 
                 if( "ALL".Equals( evnt ) )
                 {
-                    riders.Add( new BikeRegRider( license, firstName, lastName, entryDate ) );
+                    riders.Add( new BikeRegRider( row_arr ) );
                 }
                 else if( categoryEntered.Equals( evnt.ToUpper() ) )
                 {
-                    riders.Add( new BikeRegRider( license, firstName, lastName, entryDate ) );
+                    riders.Add( new BikeRegRider( row_arr ) );
                 }
             }
 
@@ -139,7 +134,7 @@ namespace com.mattygiedt
             return events;
         }
 
-        public int ColumnIndex( string column_name )
+        public static int ColumnIndex( string column_name )
         {
             if( columnMap.ContainsKey( column_name ) )
             {

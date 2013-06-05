@@ -12,14 +12,29 @@ using System.Security.Permissions;
 
 namespace com.mattygiedt
 {
-    public class RankSort : IComparer<BaseRider>
+    public class NCCRankSort : IComparer<BaseRider>
     {
         private static readonly log4net.ILog log =
-    		log4net.LogManager.GetLogger( typeof( RankSort ) );
+    		log4net.LogManager.GetLogger( typeof( NCCRankSort ) );
 
         public int Compare( BaseRider x, BaseRider y )
         {
-            if( "1000".Equals( x.Points ) && "1000".Equals( y.Points ) )
+            double xPoints = 0.0;
+            double yPoints = 0.0;
+
+            if( Double.TryParse( x.Points, out xPoints ) == false )
+            {
+                log.Warn( "Invalid points value: " + x.Points + " for rider: " + x.Name );
+                return 0;
+            }
+
+            if( Double.TryParse( y.Points, out yPoints ) == false )
+            {
+                log.Warn( "Invalid points value: " + y.Points + " for rider: " + y.Name );
+                return 0;
+            }
+
+            if( xPoints == yPoints )
             {
                 DateTime xDate = DateTime.Parse( x.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
                 DateTime yDate = DateTime.Parse( y.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
@@ -28,37 +43,58 @@ namespace com.mattygiedt
             }
             else
             {
-                double xPoints = 0.0;
-                double yPoints = 0.0;
-
-                if( Double.TryParse( x.Points, out xPoints ) == false )
-                {
-                    log.Warn( "Invalid points value: " + x.Points + " for rider: " + x.Name );
-                    return 0;
-                }
-
-                if( Double.TryParse( y.Points, out yPoints ) == false )
-                {
-                    log.Warn( "Invalid points value: " + y.Points + " for rider: " + y.Name );
-                    return 0;
-                }
-
-                if( xPoints == yPoints )
-                {
-                    DateTime xDate = DateTime.Parse( x.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
-                    DateTime yDate = DateTime.Parse( y.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
-
-                    return xDate.CompareTo( yDate );
-                }
-                else if( x.RiderType().Equals( USACDataSource.DataSourceType ) )
-                {
-                    return xPoints.CompareTo( yPoints );
-                }
-                else
-                {
-                    return yPoints.CompareTo( xPoints );
-                }
+                return yPoints.CompareTo( xPoints );
             }
+        }
+    }
+
+    public class USACRankSort : IComparer<BaseRider>
+    {
+        private static readonly log4net.ILog log =
+    		log4net.LogManager.GetLogger( typeof( USACRankSort ) );
+
+        public int Compare( BaseRider x, BaseRider y )
+        {
+            double xPoints = 0.0;
+            double yPoints = 0.0;
+
+            if( Double.TryParse( x.Points, out xPoints ) == false )
+            {
+                log.Warn( "Invalid points value: " + x.Points + " for rider: " + x.Name );
+                return 0;
+            }
+
+            if( Double.TryParse( y.Points, out yPoints ) == false )
+            {
+                log.Warn( "Invalid points value: " + y.Points + " for rider: " + y.Name );
+                return 0;
+            }
+
+            if( xPoints == yPoints )
+            {
+                DateTime xDate = DateTime.Parse( x.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
+                DateTime yDate = DateTime.Parse( y.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
+
+                return xDate.CompareTo( yDate );
+            }
+            else
+            {
+                return xPoints.CompareTo( yPoints );
+            }
+        }
+    }
+
+    public class EntryDateRankSort : IComparer<BaseRider>
+    {
+        private static readonly log4net.ILog log =
+    		log4net.LogManager.GetLogger( typeof( EntryDateRankSort ) );
+
+        public int Compare( BaseRider x, BaseRider y )
+        {
+            DateTime xDate = DateTime.Parse( x.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
+            DateTime yDate = DateTime.Parse( y.EntryDate, CultureInfo.CreateSpecificCulture("en-us"), DateTimeStyles.None );
+
+            return xDate.CompareTo( yDate );
         }
     }
 
@@ -107,6 +143,10 @@ namespace com.mattygiedt
                 {
                     riders.Add( new USACritsRider( riderFields ) );
                 }
+                else if( NCCDataSource.DataSourceType.Equals( rider_type ) )
+                {
+                    riders.Add( new NCCRider( riderFields ) );
+                }
                 else
                 {
                     log.Warn( "Unknown rider type: " + rider_type );
@@ -123,19 +163,40 @@ namespace com.mattygiedt
             data[ rider_type ].AddRange( riders );
         }
 
-        public void SortRiderData()
+        public void SortRiderData( string rider_type, List<BaseRider> riders )
         {
-            foreach( List<BaseRider> list in data.Values )
+            if( USACDataSource.DataSourceType.Equals( rider_type ) )
             {
-                list.Sort( new RankSort() );
+                riders.Sort( new USACRankSort() );
+            }
+            else if( USACritsDataSource.DataSourceType.Equals( rider_type ) ||
+                     NCCDataSource.DataSourceType.Equals( rider_type ) )
+            {
+                riders.Sort( new NCCRankSort() );
             }
         }
 
         public List<BaseRider> Rank( EventElement race, BikeRegData bikeRegData )
         {
-            if( data.ContainsKey( race.RiderType ) == false )
+            return Rank( race.RiderType, race.Name, race.Discipline, bikeRegData );
+        }
+
+        public List<BaseRider> Rank(
+            string riderType,
+            string raceName,
+            string raceDiscipline,
+            BikeRegData bikeRegData )
+        {
+            if( data.ContainsKey( riderType ) == false )
             {
-                log.Warn( "Unknown rider type: " + race.RiderType );
+                log.Warn( "Unknown rider type: " + riderType );
+                return new List<BaseRider>();
+            }
+            else if( NCCDataSource.DataSourceType.Equals( riderType ) == false &&
+                     USACDataSource.DataSourceType.Equals( riderType ) == false &&
+                     USACritsDataSource.DataSourceType.Equals( riderType ) == false )
+            {
+                log.Warn( "Unknown rider type: " + riderType );
                 return new List<BaseRider>();
             }
 
@@ -147,154 +208,158 @@ namespace com.mattygiedt
             List<BaseRider> rankedRiders = new List<BaseRider>();
             List<BaseRider> unknownRiders = new List<BaseRider>();
 
-            foreach( string row in bikeRegData.Rows( race.Name ) )
+            foreach( string row in bikeRegData.Rows( raceName ) )
             {
                 bool found = false;
                 string [] bikeRegRow = row.Split( ',' );
 
+                BikeRegRider bikeRegRider = new BikeRegRider( row.Split( ',' ) );
+
                 //
-                //  Try to find the rider in the ranking engine data
+                //  Try to find the bike reg rider in the ranking engine data
                 //
 
-                string bikeRegLicense = bikeRegRow[ bikeRegData.ColumnIndex( "BikeReg USAC License" ) ];
-                string manualLicense = bikeRegRow[ bikeRegData.ColumnIndex( "Manual USAC License" ) ];
+                log.Debug( "Finding " + riderType + " rider: '" +
+                    bikeRegRider.FirstName + "' '" +
+                    bikeRegRider.LastName + "' [" +
+                    bikeRegRider.License + "," +
+                    bikeRegRider.ManualLicense + "] " +
+                    bikeRegRider.EntryDate );
 
-                string firstName = bikeRegRow[ bikeRegData.ColumnIndex( "First Name" ) ].ToUpper();
-                string lastName = bikeRegRow[ bikeRegData.ColumnIndex( "Last Name" ) ].ToUpper();
-                string entryDate = bikeRegRow[ bikeRegData.ColumnIndex( "Entry Date and Time" ) ];
-
-                log.Debug( "Finding rider: '" + firstName + "' '" + lastName + "' [" + bikeRegLicense + "," + manualLicense + "] " + entryDate );
-
-                foreach( BaseRider rider in data[ race.RiderType ] )
+                foreach( BaseRider rankedRider in data[ riderType ] )
                 {
                     //log.Debug( "               '" + rider.FirstName + "' '" + rider.LastName + "'" );
 
-                    if( rider.Discipline.Equals( race.Discipline ) == false )
+                    if( USACDataSource.DataSourceType.Equals( riderType ) )
                     {
-                        continue;
+                        if( rankedRider.Discipline.Equals( raceDiscipline ) == false )
+                        {
+                            continue;
+                        }
+
+                        //
+                        //  Rank order is bikereg license, then manual
+                        //
+
+                        if( bikeRegRider.License.Equals( rankedRider.License ) )
+                        {
+                            found = true;
+
+                            if( bikeRegRider.FirstName.Equals( rankedRider.FirstName ) == false ||
+                                bikeRegRider.LastName.Equals( rankedRider.LastName ) == false )
+                            {
+                                log.Warn( " BIKEREG LICENSE [" + bikeRegRider.License + "] WITH NAME CONFLICT: [["
+                                    + bikeRegRider.FirstName + "][" + rankedRider.FirstName + "]["
+                                    + bikeRegRider.LastName + "][" + rankedRider.LastName + "]]" );
+
+                                bikeRegRider.Message = "BIKEREG LICENSE WITH NAME CONFLICT";
+                            }
+                            else
+                            {
+                                bikeRegRider.Message = "BIKEREG LICENSE";
+                            }
+
+                            bikeRegRider.Points = rankedRider.Points;
+                            rankedRiders.Add( bikeRegRider );
+                            break;
+                        }
+                        else if( bikeRegRider.ManualLicense.Equals( rankedRider.License ) )
+                        {
+                            found = true;
+
+                            if( bikeRegRider.FirstName.Equals( rankedRider.FirstName ) == false ||
+                                bikeRegRider.LastName.Equals( rankedRider.LastName ) == false )
+                            {
+                                log.Warn( " MANUAL LICENSE [" + bikeRegRider.ManualLicense + "] WITH NAME CONFLICT: [["
+                                    + bikeRegRider.FirstName + "][" + rankedRider.FirstName + "]["
+                                    + bikeRegRider.LastName + "][" + rankedRider.LastName + "]]" );
+
+                                bikeRegRider.Message = "MANUAL LICENSE WITH NAME CONFLICT";
+                            }
+                            else
+                            {
+                                bikeRegRider.Message = "MANUAL LICENSE";
+                            }
+
+                            bikeRegRider.Points = rankedRider.Points;
+                            bikeRegRider.License = bikeRegRider.ManualLicense;
+                            rankedRiders.Add( bikeRegRider );
+                            break;
+                        }
                     }
-
-                    //
-                    //  Rank order is bikereg license, then name, then manual
-                    //
-
-                    if( bikeRegLicense.Equals( rider.License ) )
+                    else if( USACritsDataSource.DataSourceType.Equals( riderType ) ||
+                             NCCDataSource.DataSourceType.Equals( riderType ) )
                     {
-                        found = true;
-                        rider.EntryDate = entryDate;
+                        //
+                        //  Only find by name
+                        //
 
-                        if( firstName.Equals( rider.FirstName ) == false ||
-                            lastName.Equals( rider.LastName ) == false )
+                        if( bikeRegRider.FirstName.Equals( rankedRider.FirstName ) == true &&
+                            bikeRegRider.LastName.Equals( rankedRider.LastName ) == true )
                         {
-                            log.Warn( " BIKEREG LICENSE [" + bikeRegLicense + "] WITH NAME CONFLICT: [["
-                                + firstName + "][" + rider.FirstName + "]["
-                                + lastName + "][" + rider.LastName + "]]" );
-                            rider.Message = "BIKEREG LICENSE WITH NAME CONFLICT";
+                            found = true;
+                            bikeRegRider.Points = rankedRider.Points;
+                            bikeRegRider.Message = riderType + " FOUND BY NAME [" + rankedRider.Points + "]";
+                            rankedRiders.Add( bikeRegRider );
+                            break;
                         }
-                        else
-                        {
-                            rider.Message = "BIKEREG LICENSE";
-                        }
-
-                        rankedRiders.Add( rider.CloneRider() );
-                        break;
+                        //else
+                        //{
+                        //    log.Debug( "    [[ " + firstName + " ][ " + rider.FirstName +
+                        //               " ]] [[ " + lastName + " ][ " + rider.LastName + " ]]" );
+                        //}
                     }
-                    else if( manualLicense.Equals( rider.License ) )
-                    {
-                        found = true;
-                        rider.EntryDate = entryDate;
-
-                        if( firstName.Equals( rider.FirstName ) == false ||
-                            lastName.Equals( rider.LastName ) == false )
-                        {
-                            log.Warn( " MANUAL LICENSE [" + manualLicense + "] WITH NAME CONFLICT: [["
-                                + firstName + "][" + rider.FirstName + "]["
-                                + lastName + "][" + rider.LastName + "]]" );
-                            rider.Message = "MANUAL LICENSE WITH NAME CONFLICT";
-                        }
-                        else
-                        {
-                            rider.Message = "MANUAL LICENSE";
-                        }
-
-                        rankedRiders.Add( rider.CloneRider() );
-                        break;
-                    }
-                    //else if( firstName.Equals( rider.FirstName ) && lastName.Equals( rider.LastName ) )
-                    //{
-                    //    //
-                    //    //  Only find by name if license is invalid.
-                    //    //
-                    //
-                    //    if( "".Equals( manualLicense ) == true &&
-                    //        "".Equals( bikeRegLicens ) == true )
-                    //    {
-                    //        //log.Debug( "FOUND BY NAME  '" + rider.FirstName + "' '" + rider.LastName + "'" );
-                    //
-                    //        found = true;
-                    //        rider.EntryDate = entryDate;
-                    //        rider.Message = "FOUND BY NAME";
-                    //        rankedRiders.Add( rider.CloneRider() );
-                    //        break;
-                    //    }
-                    //}
                 }
 
                 if( found == false )
                 {
-                    if( USACDataSource.DataSourceType.Equals( race.RiderType ) )
-                    {
-                        BaseRider rider = new USACRider(
-                            "1000",
-                            firstName,
-                            lastName,
-                            entryDate );
+                    log.Warn( "UNKNOWN " + riderType + " rider: '" +
+                        bikeRegRider.FirstName + "' '" +
+                        bikeRegRider.LastName + "' [" +
+                        bikeRegRider.License + "," +
+                        bikeRegRider.ManualLicense + "] " +
+                        bikeRegRider.EntryDate );
 
-                        if( bikeRegLicense.Equals( manualLicense ) )
+                    if( USACDataSource.DataSourceType.Equals( riderType ) )
+                    {
+                        bikeRegRider.Points = "1000";
+
+                        if( bikeRegRider.License.Equals( bikeRegRider.ManualLicense ) )
                         {
-                            rider.License = bikeRegLicense;
-                            rider.Message = "UNKNOWN LICENSE " + bikeRegLicense;
-                            unknownRiders.Add( rider );
+                            bikeRegRider.Message = "UNKNOWN LICENSE " + bikeRegRider.License;
+                            unknownRiders.Add( bikeRegRider );
                         }
-                        else if( "".Equals( bikeRegLicense ) == true && "".Equals( manualLicense ) == false )
+                        else if( "".Equals( bikeRegRider.License ) == true &&
+                                 "".Equals( bikeRegRider.ManualLicense ) == false )
                         {
-                            rider.License = manualLicense;
-                            rider.Message = "UNKNOWN MANUAL LICENSE " + manualLicense;
-                            unknownRiders.Add( rider );
+                            bikeRegRider.Message = "UNKNOWN MANUAL LICENSE " + bikeRegRider.ManualLicense;
+                            bikeRegRider.License = bikeRegRider.ManualLicense;
+                            unknownRiders.Add( bikeRegRider );
                         }
-                        else if( "".Equals( bikeRegLicense ) == false && "".Equals( manualLicense ) == true )
+                        else if( "".Equals( bikeRegRider.License ) == false &&
+                                 "".Equals( bikeRegRider.ManualLicense ) == true )
                         {
-                            rider.License = bikeRegLicense;
-                            rider.Message = "UNKNOWN BIKEREG LICENSE " + bikeRegLicense;
-                            unknownRiders.Add( rider );
+                            bikeRegRider.Message = "UNKNOWN BIKEREG LICENSE " + bikeRegRider.License;
+                            unknownRiders.Add( bikeRegRider );
                         }
-                        else if( "".Equals( bikeRegLicense ) == true && "".Equals( manualLicense ) == true )
+                        else if( "".Equals( bikeRegRider.License ) == true &&
+                                 "".Equals( bikeRegRider.ManualLicense ) == true )
                         {
-                            rider.License = "";
-                            rider.Message = "NO LICENSE";
-                            unknownRiders.Add( rider );
+                            bikeRegRider.Message = "NO LICENSE";
+                            unknownRiders.Add( bikeRegRider );
                         }
                         else
                         {
-                            rider.License = "[" + bikeRegLicense + " | " + manualLicense + "]";
-                            rider.Message = "UNKNOWN LICENSE";
-                            unknownRiders.Add( rider );
+                            bikeRegRider.Message = "UNKNOWN LICENSE";
+                            unknownRiders.Add( bikeRegRider );
                         }
                     }
-                    else if( USACritsDataSource.DataSourceType.Equals( race.RiderType ) )
+                    else if( USACritsDataSource.DataSourceType.Equals( riderType ) ||
+                             NCCDataSource.DataSourceType.Equals( riderType ) )
                     {
-                        USACritsRider unknownRider =
-                            new USACritsRider(
-                                "1000",
-                                firstName,
-                                lastName,
-                                "", "" );
-
-                        unknownRider.License = "[" + bikeRegLicense + " | " + manualLicense + "]";
-                        unknownRider.Message = "UNKNOWN LICENSE";
-                        unknownRider.EntryDate = entryDate;
-
-                        unknownRiders.Add( unknownRider );
+                        bikeRegRider.Points = "0";
+                        bikeRegRider.Message = "UNKNOWN " + riderType;
+                        unknownRiders.Add( bikeRegRider );
                     }
                 }
             }
@@ -303,14 +368,40 @@ namespace com.mattygiedt
             //  Sort the riders
             //
 
-            rankedRiders.Sort( new RankSort() );
-            unknownRiders.Sort( new RankSort() );
+            if( USACDataSource.DataSourceType.Equals( riderType ) )
+            {
+                //
+                //  USAC: lower is better
+                //
+
+                rankedRiders.Sort( new USACRankSort() );
+                unknownRiders.Sort( new EntryDateRankSort() );
+            }
+            else if( USACritsDataSource.DataSourceType.Equals( riderType ) ||
+                     NCCDataSource.DataSourceType.Equals( riderType ) )
+            {
+                //
+                //  NCC / USACrits: higher is better
+                //
+
+                rankedRiders.Sort( new NCCRankSort() );
+                unknownRiders.Sort( new EntryDateRankSort() );
+            }
 
             //
             //  Add the unknown riders to the end of the ranked riders
             //
 
             rankedRiders.AddRange( unknownRiders );
+
+            //
+            //  Assign race rank to each rider
+            //
+
+            for( int i=0; i<rankedRiders.Count; i++ )
+            {
+                rankedRiders[ i ].Rank = Convert.ToString( i + 1 );
+            }
 
             //
             //  Return the complete ranked rider list

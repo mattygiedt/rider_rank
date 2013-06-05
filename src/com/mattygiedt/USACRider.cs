@@ -14,19 +14,28 @@ namespace com.mattygiedt
         private static readonly log4net.ILog log =
 		    log4net.LogManager.GetLogger( typeof( USACRider ) );
 
+        public static readonly string RIDER_TYPE = "USAC";
+
         public USACRider( string [] fields )
         {
             Init();
-            this.points = fields[ 0 ];
-            this.first_name = fields[ 1 ].ToUpper();
-            this.last_name = fields[ 2 ].ToUpper();
-            this.city = fields[ 3 ];
-            this.state = fields[ 4 ];
-            this.license = fields[ 5 ];
-            this.age = fields[ 6 ];
-            this.gender = fields[ 7 ];
-            this.discipline = fields[ 8 ];
-            this.category = fields[ 9 ];
+
+            if( null != fields )
+            {
+                data = new string[ fields.Length ];
+                fields.CopyTo( data, 0 );
+
+                this.points = fields[ 0 ];
+                this.first_name = fields[ 1 ].ToUpper();
+                this.last_name = fields[ 2 ].ToUpper();
+                this.city = fields[ 3 ];
+                this.state = fields[ 4 ];
+                this.license = fields[ 5 ];
+                this.age = fields[ 6 ];
+                this.gender = fields[ 7 ];
+                this.discipline = fields[ 8 ];
+                this.category = fields[ 9 ];
+            }
         }
 
         public USACRider( string points,
@@ -60,6 +69,7 @@ namespace com.mattygiedt
             this.state = state;
             this.license = license;
             this.age = age;
+            this.gender = gender;
             this.discipline = discipline;
             this.category = category;
         }

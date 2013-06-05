@@ -82,6 +82,30 @@ namespace com.mattygiedt
                             log.Warn( "Unknown file format: " + output_file.Format );
                         }
                     }
+                    else if( NCCDataSource.DataSourceType.Equals( output_file.DataSourceType ) )
+                    {
+                        DataSource dataSource = new NCCDataSource();
+
+                        for( int j=0; j<output_file.DataSourceGroup.Count; j++ )
+                        {
+                            log.Info( " loading data source: " + output_file.DataSourceGroup[ j ].Name );
+
+                            dataSource.LoadRiders(
+                                output_file.DataSourceGroup[ j ].URI,
+                                output_file.DataSourceGroup[ j ].Gender,
+                                "", "" );
+                        }
+
+                        if( "CSV".Equals( output_file.Format ) )
+                        {
+                            log.Info( " writing file: " + configSection.OutputFileGroup[ i ].Name );
+                            dataSource.SaveRidersToCSV( output_file.Name, true );
+                        }
+                        else
+                        {
+                            log.Warn( "Unknown file format: " + output_file.Format );
+                        }
+                    }
                     else
                     {
                         log.Warn( "Unknown data source type: " + output_file.DataSourceType );
